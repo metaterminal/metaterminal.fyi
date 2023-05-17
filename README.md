@@ -1,3 +1,3 @@
 # Terminal7.github.io
 
-ERROR: If you're seeing this, you shouldn't be.
+This is the source code for the website metaterminal.fyi, which I use to host my personal work.

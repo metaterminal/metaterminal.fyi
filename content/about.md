@@ -9,7 +9,7 @@ This site is written by (and belongs to) Thomas Gordon, a kiwi studying engineer
 
 ## Technical details
 
-This site is run using the static site generator <a href="https://www.getzola.org/">Zola</a>, with individual pages written using Markdown.
+This site is run using the static site generator <a href="https://www.getzola.org/">Zola</a>, with individual pages written using Markdown, and deployed using Netlify.
 
 ## Contact me
 
