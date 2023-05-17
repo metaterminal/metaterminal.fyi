@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block head %}
+<meta name="description" content="My stuff.">
+<style>
+  body {
+    display: block;
+    height: 100%;
+  }
+  body {
+    line-height: 1.5;
+  }
+</style>
+{% endblock content %}
+
+{% block content %}
+<header>
+  
+</header>
+<main>
+  {% block maintext %}
+  <p itemprop="description">A site for my personal projects and work.</p>
+  {% endblock maintext %}
+</main>
+{% endblock content %}
