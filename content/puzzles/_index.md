@@ -34,7 +34,7 @@ This was a Christmas gift for a friend of mine, Rusty. The theme is based on the
 A disclaimer: Number Nine is not solvable, as it was built in a Minecraft server that has since been deleted.
 
 + [A Very Metaphorical British Dystopia](avmbd.pdf) (7 puzzles, 1 metapuzzle)
-+ [The Green Dome](greendome.pdf) (metapuzzle)
++ [The Green Dome](greendome.pdf) (metapuzzle; *contains spoilers for all preceding puzzles*)
 
 ### Arithmancy Set (2021)
 
