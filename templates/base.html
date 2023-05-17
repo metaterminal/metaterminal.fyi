@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{page.title}} | {% endif %}The Inning Club</title>
+    <meta name="author" content="Thomas Gordon">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon"  href="{{ get_url(path='favicon.ico') }}" />
+    <link itemprop="url" href="{{ config.base_url }}">
+    <link rel="canonical" href="{{ config.base_url }}">
+    <link rel="stylesheet" href="{{ get_url(path='base.css') }}">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css">
+    {% block head %}{% endblock %}
+    <style>
+        body {
+            font-family: Hack;
+            line-height: 1.5;
+        }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="{{ get_url(path='@/blog/_index.md') }}">Articles</a></li>
+        <li><a href="{{ get_url(path='@/puzzles/_index.md') }}">Puzzles</a></li>
+        <li><a href="{{ get_url(path='@/about.md') }}">About</a></li>
+      </ul>
+    </nav>
+    <header>
+      {% block header %} {% endblock %}
+    </header>
+    <main>
+      {% block content %} {% endblock %}
+    </main>
+    <footer>
+    </footer>
+  </body>
+</html>
