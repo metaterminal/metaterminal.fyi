@@ -10,6 +10,13 @@
   body {
     line-height: 1.5;
   }
+  .container {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
 </style>
 {% endblock content %}
 
@@ -19,7 +26,10 @@
 </header>
 <main>
   {% block maintext %}
-  <p itemprop="description">A site for my personal projects and work.</p>
+  <div class="container">
+    <p itemprop="description">Hello! I'm Thomas. I'm generally known online as MetaTerminal.</p>
+    <p>This is a site for my personal projects and work.</p>
+  </div>
   {% endblock maintext %}
 </main>
 {% endblock content %}

@@ -17,8 +17,7 @@ My most recent work so far. I helped write many things for Brown Puzzlehunt, mos
 + [Bring Back Blueno](https://www.brownpuzzlehunt.com/puzzle/bring-back-blueno) (metapuzzle)
 + [Resurrecting Blueno Interaction](resurrecting-blueno) (interaction)
 + [Butterfly Evolution Kit](https://www.brownpuzzlehunt.com/puzzle/butterfly-evolution-kit) (physical puzzle)
-+ [Find Oren](https://www.brownpuzzlehunt.com/puzzle/find-oren) (story writing credit)
-+ [Written in Stone](https://www.brownpuzzlehunt.com/puzzle/written-in-stone) (idea credit)
++ [Written in Stone](https://www.brownpuzzlehunt.com/puzzle/written-in-stone) (idea credit only)
 + [The Bear](https://www.brownpuzzlehunt.com/puzzle/the-bear) (metapuzzle)
 + [The Impossible](https://www.brownpuzzlehunt.com/puzzle/the-impossible) (physical puzzle)
 + [The Lamp](https://www.brownpuzzlehunt.com/puzzle/the-lamp) (metapuzzle)
@@ -49,7 +48,7 @@ Thanks to Deusovi for significantly improving the fill of this puzzle. He couldn
 
 ### Private 17th Shard Puzzle Set (2021)
 
-Internally referred to as "Shardhunt", this was a set written by some core members of the puzzlehunt team 17th Shard and shared with some very select friends of the team in February 2021.
+Internally referred to as "Shardhunt", this was a set written by some core members of the puzzlehunt team 17th Shard and shared with a small number of teams in February 2021.
 
 These puzzles aren't great. Not in general, I mean - there are actually some quite good puzzles in the set! - but these specific ones I'm linking below are somewhat inelegant in places. It's probably not worth solving unless you're some sort of freak completionist.
 
@@ -62,6 +61,8 @@ These puzzles aren't great. Not in general, I mean - there are actually some qui
 In my heyday of engaging with the fandom of a very particular fantasy author, I wrote several puzzlehunt-style sets based on the works of Brandon Sanderson. These are the earliest things I wrote and put on the internet: as a result, the quality is highly variable, the puzzles get more and more rudimentary the further back you go, and I'm of course highly embarrassed about all of them. There may be uncaught errata, general bad puzzle design, and unfun steps. Ye be warned.
 
 These are also all buried in forum threads, so in the future, I may attempt to archive these myself. Or I may allow them to lapse into the dustbin of history. We'll see.
+
+A disclaimer: in the Roshar Round, Tidal Patterns involved changing patterns of data which have long since stopped.
 
 + [Roshar Round](https://www.17thshard.com/forum/topic/85370-sanderson-puzzlehunt-nalthis-round/?page=3#comment-876666) (June; 10 puzzles, 1 metapuzzle)
 + [Nalthis](https://www.17thshard.com/forum/topic/85370-sanderson-puzzlehunt-nalthis-round/?page=3#comment-873192) [Round](https://www.17thshard.com/forum/topic/85370-sanderson-puzzlehunt-nalthis-round/?page=3#comment-873439) (May; 5 puzzles, 1 metapuzzle)
