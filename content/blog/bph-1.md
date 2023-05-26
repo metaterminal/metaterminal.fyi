@@ -45,9 +45,9 @@ It's not a ridiculous amount of work, all told (remember: we had just run a puzz
 
 (To head off this entire section; yes, I am completely fine and in good health. Don't worry.)
 
-In November of last year, I got sick with something called infectious mononucleosis (or IM). It's a fairly common viral disease that is very annoying, but isn't particularly serious in and of itself. Indeed, I'm squarely in the demographic that is most likely to get IM, and I'm the sort of person who gets mildly sick after taking flights on airplanes, so it's not at all surprising that I got something like this eventually. So after about a month or so of bed rest and taking steroids, I was fine.
+In November of last year, I got sick with something called infectious mononucleosis. It's a fairly common viral disease that is very annoying, but isn't serious in and of itself. I'm squarely in the demographic that is most likely to get IM, and I'm the sort of person who gets mildly sick after taking flights on airplanes, so it's not at all surprising that I got something like this eventually. 
 
-Except...
+After about a month or so of bed rest and taking steroids, I was fine. Except...
 
 Infectious mononucleosis has a lot of strange and poorly understood interactions with your immune system. (Indeed, it increases your risk profiles for a number of other immune diseases, like multiple sclerosis.) One of these interactions is that it tends to increase the severity of other infections (viral and bacterial) you get for many, many months after you've had it. So if you're the kind of person who gets sick because you went on an airplane, your infrequent low-grade illnesses get both more frequent and more high-grade. The result over the last month has been a revolving door of bacterial and viral infections, respiratory symptoms, constant fatigue, and other very fun things that I won't get into.
 
