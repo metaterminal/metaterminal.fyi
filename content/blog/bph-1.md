@@ -55,6 +55,8 @@ Infectious mononucleosis has a lot of strange and poorly understood interactions
 
 I'm fine now! The fatigue stays with you (and jet-lag doesn't help); but I know several people who suffer from genuine immunocompromisation or chronic pains, and my very easy constant-cold experience in no way chalks up to anything that they go through.
 
+But the *result* was that I wasn't able to work on solutions extensively for a long period of time. Much, much longer than I expected. And because I wasn't able to work on solutions...
+
 ### Part 3: Moving Forward
 
 The term "single point of failure" is used in a lot of contexts, but you're probably most used to seeing it relate to software or hardware systems. This [Tom Scott video](https://www.youtube.com/watch?v=y4GB_NDU43Q) is a great example. Any single thing which can bring down the entire system is a huge problem. Everything breaks *eventually*.
