@@ -15,3 +15,5 @@ smart_punctuation = true
 
 [extra]
 # Put all your custom variables here
+
+generate_feed = true

@@ -40,9 +40,9 @@ A disclaimer: Number Nine is not solvable, as it was built in a Minecraft server
 
 At the request of a friend of mine, I wrote a puzzle for a puzzle set run by the Arithmancy community in June 2021.
 
-I have mixed feelings on my involvement with this set. I have never majorly enjoyed the source material, and as time goes on I've done my best to actively distance myself from it. But I did write for it, and this is supposed to be an archive of all my work, so here it goes.
+I have mixed feelings on my involvement with this set. I have never majorly enjoyed the source material, and as time goes on I've done my best to actively distance myself from it. I also am in hindsight unhappy with one of the clues (66A). But I did write for it, and this is supposed to be an archive of all my work, so here it goes.
 
-Thanks to Deusovi for significantly improving the fill of this puzzle. He couldn't stop the two-letter entries, but in fairness, neither could I.
+The puzzle resolves to an instruction. Thanks to Deusovi for significantly improving the fill of this puzzle. He couldn't stop the two-letter entries, but in fairness, neither could I.
 
 + [Crossing Tunnels](https://docs.google.com/spreadsheets/d/1-G_87Exe61pBl7xg_ZFNLmS8ZyafRXeZVw628vHUU_Q/edit#gid=1258140856)
 
