@@ -9,13 +9,15 @@ date = 2022-06-13
 
 <!-- more -->
 
+~
+
 *The year is 1916. War writhes across Europe, carving up millions of young men in the mud of the fronts. Across the sea, in America, war has not been declared. Yet-undiscovered German sabotage of a munitions factory killed four only a few weeks ago. Life goes on.*
 
 *Railroads cover over 250,000 miles of this plundered country; the most it has ever covered to date, and the most it ever will. But the tides of time are changing. The railroad labor brotherhoods have drafted a new labor law. America, taking after its parent, has not been kind to union action in the past. This time, they hope it will be different.*
 
 *Meanwhile, the Overland Limited snakes its way west, carving through the unseasonable cold of the Sierra Nevada. Soon, a passenger will be killed. Owing to the efforts of a coincidental detective, another passenger, Doctor Thomas Wong, will take the fall for this death.*
 
-*Unfortunately, Doctor Wong was innocent. This is an account of what really happened.*
+*Unfortunately, Doctor Wong was innocent.*
 
 ~
 
