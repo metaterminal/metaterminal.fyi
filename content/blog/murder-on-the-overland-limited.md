@@ -331,11 +331,9 @@ When he left, the window was closed, and the door was locked behind him.
 
 ### What is this?
 
-[teammate Presents: The Mystery of Cabin 14C](https://abcde.puzzlefactory.place/puzzles/teammate-presents-the-mystery-of-cabin-14c) was a puzzle released as part of the puzzlehunt [Admiral Boötes’ Cosmic Discovery Expedition: Further Galaxies](https://abcde.puzzlefactory.place/puzzles/teammate-presents-the-mystery-of-cabin-14c) by teammate. The puzzle is a classic locked-room mystery, presented in the style of a novel from the Golden Age of Detective Fiction. 
+[teammate Presents: The Mystery of Cabin 14C](https://abcde.puzzlefactory.place/puzzles/teammate-presents-the-mystery-of-cabin-14c) was a puzzle released as part of the puzzlehunt [Admiral Boötes’ Cosmic Discovery Expedition: Further Galaxies](https://abcde.puzzlefactory.place/puzzles/teammate-presents-the-mystery-of-cabin-14c) by teammate. It's a classic locked-room mystery, presented in the style of a novel from the Golden Age of Detective Fiction. The puzzle has a solution; that solution is self-consistent, and fits all the evidence. 
 
-The puzzle has a solution; that solution is self-consistent, and fits all the evidence. Unfortunately, there is another alternate solution that is also self-consistent, and fits all the evidence. While that solution is not a valid answer for the specific puzzle (it involves two people collaborating, which is explicitly against the rules the story follows), it is a strong explanation for what happened on the Overland Limited, and resolves some issues with the original solution. (While introducing some new, exciting issues of its own.)
-
-This is the said alternate solution; a reconstruction of events using witness accounts, given facts, and known contemporary events from in-story context clues. Some artistic license is taken, but this version should be entirely consistent with the original story.
+This work of fanfiction presents another alternate solution that is also self-consistent, and fits all the evidence. While that solution is not a valid answer for the specific puzzle (it involves two people collaborating, which is explicitly against the rules the story follows), it is a strong explanation for what happened on the Overland Limited, and resolves some issues with the original solution. (While introducing some new, exciting issues of its own.) This is a reconstruction of events using witness accounts, given facts, and known contemporary events from in-story context clues. Some artistic license is taken, but this version should be entirely consistent with the original story.
 
 ### This story claims that the murder takes place in 1916. Does this fit the original story?
 
@@ -391,11 +389,10 @@ Pocket knives can be very sharp. If the victim was unconscious and not strugglin
 
 ### The Inspector claimed that the killer lied about something in their testimony. What did Louis lie about?
 
-> “There were not,” Louis continued. “I returned to my room in standard class at 10 PM to work.
-> 
-> Afterwards, at 11 PM, I went to the cargo car to retrieve some belongings of mine.”
+> “There were not,” Louis continued. “I returned to my room in standard class at 10 PM to work. Afterwards, at 11 PM, I went to the cargo car to retrieve some belongings of mine.”
 > 
 > “What belongings?” I asked.
+> 
 > “They are unimportant,” replied Louis. “At least to the murder at hand.”
 
 Of course, in this version of the story, the Inspector is also wrong about a lot of things.
