@@ -29,7 +29,7 @@ It took a moment for her to answer. He was afraid that she would be asleep - tha
 
 “It’s Louis.”
 
-He heard her shuffling, and then she swung open the door slightly. For a moment, she seemed shocked to see him, but the uncertainty vanished. In its place she tried to perch herself around the edge of the door, like a child peeking around the corner. “You don’t look like that charming Mr. Washington.”
+He heard her shuffling, and then she swung open the door slightly. At first, she seemed shocked to see him, but the uncertainty vanished. In its place she tried to perch herself around the edge of the door, like a child peeking around the corner. “You don’t look like that charming Mr. Washington.”
 
 He smiled falsely. “My dear, nobody does. May we talk?”
 
@@ -39,7 +39,7 @@ She was framed from behind by the lamplight, bracing one hand against her walkin
 
 “Can two friends merely not be in each others’ lives?” Louis said.
 
-She studied him for a long moment, and then began making her way across the room to her chair. He took the open door behind her as an invitation and entered, letting the door swing closed, and leaned gently against the small cabinet at the foot of her bed.
+She studied him a while, and then began making her way across the room to her chair. He took the open door behind her as an invitation and entered, letting the door swing closed, and leaned gently against the small cabinet at the foot of her bed.
 
 “Why now, Louis?”
 
@@ -135,7 +135,7 @@ He said nothing to that. They both stood there, these two old folks, him resting
 
 “Adamson’s, actually.”
 
-“Makes no difference to anyone. Yes, I know. I know that bolstering Southern and Union Pacific will set you back. I know that the moment those men aren’t tied up fighting the brotherhoods they’ll push back against Adamson and Kettner and whoever else. Wilson, too, it wouldn’t surprise me. I know the men and women working up and down this line don’t want me delivering this evidence tomorrow in court. It wouldn’t even surprise me if the engineer got wind of it somehow and stopped this train. But it’s my job, and I’ll do it, because if I don’t do it then someone else will.”
+“Makes no difference to anyone. Yes, I know. I know that bolstering Southern and Union Pacific will set you back. I know that the second those men aren’t tied up fighting the brotherhoods they’ll push back against Adamson and Kettner and whoever else. Wilson, too, it wouldn’t surprise me. I know the men and women working up and down this line don’t want me delivering this evidence tomorrow in court. It wouldn’t even surprise me if the engineer got wind of it somehow and stopped this train. But it’s my job, and I’ll do it, because if I don’t do it then someone else will.”
 
 “And if you don’t?”
 
@@ -289,7 +289,7 @@ Millicent considered that, then hooked the key out from around her neck, and pul
 
 “Millicent… every single one of us has motive to kill dozens of fellows throughout our lives. There’s an old saying I heard once. *Suspecting a man of murder because he has a motive is like suspecting a man of running away with another man’s wife because he has two legs*.”
 
-He took a moment to drink. Ms Green stared at him through the glass.
+He took the opportunity to drink. Ms Green stared at him through the glass.
 
 “I think you could come up with a good motive for every person on this train. Us two are obvious, yes. But what about the doctor? Surely men equipped in preserving life are just as equipped to take them. Or that train attendant that our friend is so endeared with. Everyone knows a jilted lover, turned to revenge. Or perhaps a member of this train was wrongly prosecuted in one of her past cases. Take your pick.”
 
@@ -315,7 +315,7 @@ Louis took out his key and opened the door to cabin 14C.
 
 ~
 
-After it was done, Louis took a moment to breathe. A small movement of air came through the window that Lynette had left open. Small flecks of snow drifted down through the raised window, and he caught one in his red gloved palm.
+After it was done, Louis remembered to breathe. A small movement of air came through the window that Lynette had left open. Small flecks of snow drifted down through the raised window, and he caught one in his red gloved palm.
 
 Ah. He carefully removed his gloves, wiped off his pocket knife, and threw the gloves as hard as he could into the forest. It disappeared between the trees.
 
