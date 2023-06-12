@@ -3,7 +3,7 @@ title = "There's word on the street"
 date = 2022-05-24
 +++
 
-I've recently been playing... (well, I was, before health things and international travel and exams got in the way)...
+I've recently been playing... <!-- more --> (well, I was, before health things and international travel and exams got in the way)...
  
 ...a new game called Words on the Street. It's a clever little phenomenon - a "massively multiplayer online word game streamed over Twitch". It plays out similar to a bespoke Jackbox game; you sit in Twitch chat, playing word games competitively. Two teams, red and blue. Play four rounds to try to gain an advantage for the final knockout.
 

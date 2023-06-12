@@ -1,11 +1,13 @@
 +++
-title = "Brown Puzzlehunt, and single points of failure"
+title = "Single points of failure"
 date = 2022-05-25
 +++
 
 > *This the first of an expected three posts about Brown Puzzlehunt.*
 >
 > *Content warnings: discussions of respiratory illness and fatigue.*
+
+<!-- more -->
 
 The solutions for Brown Puzzlehunt went up today. For reference, the hunt ended (i.e. no longer accepted answer submissions) one month and four days ago. 
 
