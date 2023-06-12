@@ -17,7 +17,7 @@ date = 2022-06-13
 
 *Meanwhile, the Overland Limited snakes its way west, carving through the unseasonable cold of the Sierra Nevada. Soon, a passenger will be killed. Owing to the efforts of a coincidental detective, another passenger, Doctor Thomas Wong, will take the fall for this death.*
 
-*Unfortunately, Doctor Wong was innocent.*
+*Unfortunately, Doctor Wong is innocent.*
 
 ~
 
