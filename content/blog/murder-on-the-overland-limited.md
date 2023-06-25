@@ -169,7 +169,7 @@ He stepped out into the hallway, and heard her lock the door behind him.
 
 ~
 
-The dining car was quiet, with only a half-dozen passengers or so taking up the various booths and chairs. The bar – it was really more of a small standing desk with aspirations of being a coffee shop – was empty, save for some train attendant behind the table, and what appeared to be a human-sized mink drinking sidecars.
+The dining car was quiet, with only a half-dozen passengers or so taking up the various booths and chairs. The bar – it was really more of a small standing desk with aspirations – was empty, save for some train attendant behind the table, and what appeared to be a human-sized mink drinking sidecars.
 
 Louis spotted Ms. Green, sitting on her own in the corner, with her back to the wall. She seemed to notice him enter, but he drifted like he was meeting and greeting, smiling alternately at tables and the ambience, until he found himself by the bar, and took a seat next to the mink.
 
