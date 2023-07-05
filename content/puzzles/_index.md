@@ -7,6 +7,12 @@ page_template = "puzzle-page.html"
 
 I like puzzles, and sometimes I write them. Over the years, I've written quite a few. Puzzles are ordered in reverse chronological order by release date.
 
+### Shardhunt (2023)
+
+[Shardhunt](https://shardhunt.com/) is an upcoming puzzlehunt written by some core members of the puzzlehunt team 17th Shard. 
+
+It takes place in the same canon as Shardhunt 0 (which has never been publicly released), but knowledge of that hunt is not necessary and will provide no advantage for explorers.
+
 ### Brown Puzzlehunt (2023)
 
 My most recent work so far. I helped write many things for Brown Puzzlehunt, most of which are listed below.
@@ -46,9 +52,9 @@ The puzzle resolves to an instruction. Thanks to Deusovi for significantly impro
 
 + [Crossing Tunnels](https://docs.google.com/spreadsheets/d/1-G_87Exe61pBl7xg_ZFNLmS8ZyafRXeZVw628vHUU_Q/edit#gid=1258140856)
 
-### Private 17th Shard Puzzle Set (2021)
+### Shardhunt 0 (2021)
 
-Internally referred to as "Shardhunt", this was a set written by some core members of the puzzlehunt team 17th Shard and shared with a small number of teams in February 2021.
+Originally just called "Shardhunt", this was a set written by some core members of the puzzlehunt team 17th Shard and shared with a small number of teams in February 2021.
 
 These puzzles aren't great. Not in general, I mean - there are actually some quite good puzzles in the set! - but these specific ones I'm linking below are somewhat inelegant in places. It's probably not worth solving unless you're some sort of freak completionist.
 
