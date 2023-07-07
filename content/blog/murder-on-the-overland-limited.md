@@ -1,6 +1,6 @@
 +++
 title = "MetaTerminal Presents: The Murder on the Overland Limited"
-date = 2022-06-13
+date = 2023-06-13
 +++
 
 > This is a work of fanfiction. You can read the puzzle that it's based on [here](https://abcde.puzzlefactory.place/puzzles/teammate-presents-the-mystery-of-cabin-14c).

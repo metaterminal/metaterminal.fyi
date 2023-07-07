@@ -1,6 +1,6 @@
 +++
 title = "Accessibility, Americanisms, and the location-attendance question"
-date = 2022-06-12
+date = 2023-06-12
 +++
 
 > *This the second of an expected three posts about Brown Puzzlehunt.*
