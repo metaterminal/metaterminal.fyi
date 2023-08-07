@@ -18,7 +18,7 @@ It takes place in the same canon as Shardhunt 0 (which has never been publicly r
 + [Backbeat](https://shardhunt.com/puzzle/backbeat)
 + [The Only Sanderson Puzzle](https://shardhunt.com/puzzle/the-only-sanderson-puzzle)
 + [Marked Books](https://shardhunt.com/puzzle/marked-books) (metapuzzle; co-writer)
-+ [The State Puzzle](https://shardhunt.com/puzzle/state-puzzle)
++ [The State Puzzle](https://shardhunt.com/puzzle/state-puzzle) (co-writer)
 + [Pushing the Rules](https://shardhunt.com/puzzle/pushing-the-rules)
 + [It's Your Turn](https://shardhunt.com/puzzle/its-your-turn) (co-writer)
 + [Rovers](https://shardhunt.com/puzzle/rovers)
