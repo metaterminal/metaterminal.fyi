@@ -9,18 +9,34 @@ I like puzzles, and sometimes I write them. Over the years, I've written quite a
 
 ### Shardhunt (2023)
 
-[Shardhunt](https://shardhunt.com/) is an upcoming puzzlehunt written by some core members of the puzzlehunt team 17th Shard. 
+[Shardhunt](https://shardhunt.com/) was a puzzlehunt written by some core members of the puzzlehunt team 17th Shard, and contains 
+my most recent work so far.
 
 It takes place in the same canon as Shardhunt 0 (which has never been publicly released), but knowledge of that hunt is not necessary and will provide no advantage for explorers.
 
++ [Prologue](https://shardhunt.com/puzzle/prologue)
++ [Backbeat](https://shardhunt.com/puzzle/backbeat)
++ [The Only Sanderson Puzzle](https://shardhunt.com/puzzle/the-only-sanderson-puzzle)
++ [Marked Books](https://shardhunt.com/puzzle/marked-books) (metapuzzle; co-writer)
++ [The State Puzzle](https://shardhunt.com/puzzle/state-puzzle)
++ [Pushing the Rules](https://shardhunt.com/puzzle/pushing-the-rules)
++ [It's Your Turn](https://shardhunt.com/puzzle/its-your-turn) (co-writer)
++ [Rovers](https://shardhunt.com/puzzle/rovers)
++ [Interplanetary Hopper](https://shardhunt.com/puzzle/interplanetary-hopper)
++ [Flexibility](https://shardhunt.com/puzzle/flexibility) (metapuzzle)
++ [Greetings](https://shardhunt.com/puzzle/greetings)
++ [Through the Looking-Glass](https://shardhunt.com/puzzle/through-the-looking-glass)
++ [🔍🔍🔍](https://shardhunt.com/puzzle/magnifying-glasses) (co-writer)
++ [The Death of the Library](https://shardhunt.com/puzzle/death-of-the-library) (metapuzzle; co-writer)
+
 ### Brown Puzzlehunt (2023)
 
-My most recent work so far. I helped write many things for Brown Puzzlehunt, most of which are listed below.
+I helped write many things for Brown Puzzlehunt, most of which are listed below.
 
 + [Built in a Day](https://www.brownpuzzlehunt.com/puzzle/built-in-a-day)
 + [Work Together](https://www.brownpuzzlehunt.com/puzzle/work-together)
 + [The ABC's of Puzzle Solving](https://www.brownpuzzlehunt.com/puzzle/the-abcs)
-+ [Bring Back Blueno](https://www.brownpuzzlehunt.com/puzzle/bring-back-blueno) (metapuzzle)
++ [Bring Back Blueno](https://www.brownpuzzlehunt.com/puzzle/bring-back-blueno) (metapuzzle; co-writer)
 + [Resurrecting Blueno Interaction](resurrecting-blueno) (interaction)
 + [Butterfly Evolution Kit](https://www.brownpuzzlehunt.com/puzzle/butterfly-evolution-kit) (physical puzzle)
 + [Written in Stone](https://www.brownpuzzlehunt.com/puzzle/written-in-stone) (idea credit only)
