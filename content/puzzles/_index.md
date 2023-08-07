@@ -33,6 +33,12 @@ My most recent work so far. I helped write many things for Brown Puzzlehunt, mos
 + [An Afternoon With Pirates](https://www.brownpuzzlehunt.com/puzzle/pirates) (event)
 + [An Evening With Atlach-Nacha](https://www.brownpuzzlehunt.com/puzzle/atlach-nacha) (event)
 
+### The Katz Card Set (2023)
+
+In the run-up to Brown Puzzlehunt, the writing team put together some items to give to a puzzler who also taught on campus: Dan Katz. This was somewhere on the spectrum between "doing a nice thing" and "an interesting guerrilla marketing strategy" and "actively trying to screw with Dan". 
+
+Included in these items were a [collection of puzzles](card-set).
+
 ### A Very Metaphorical British Dystopia (2021)
 
 This was a Christmas gift for a friend of mine, Rusty. The theme is based on the BBC show The Prisoner. After you've solved the first metapuzzle (Number Six), you can open the Green Dome.
