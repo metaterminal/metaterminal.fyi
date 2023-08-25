@@ -1,6 +1,6 @@
 +++
 title = "Inscryption, or what could have been"
-date = 2023-05-17
+date = 2023-08-25
 +++
 
 > *This essay contains spoilers for the 2020 video game* Inscryption*.*
