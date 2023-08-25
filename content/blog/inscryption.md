@@ -29,7 +29,7 @@ The first thing that happens in Inscryption is this.
 
 Someone sitting across from me opens their eyes. The rest of them is shrouded in darkness, but their eyes are clearly visible. When they speak, their pupils swirl with madness. They know I don’t understand the rules; that’s okay, my opponent says, I’ll teach you. This was my first proper card battler, and my opponent taught me well. One of the cards whispers to me, too; let me live, and I can help you.
 
-I didn’t learn quickly enough. I lost a round. My opponent tells me to get up from the table.
+I didn’t learn quickly enough. I lose a round. My opponent tells me to get up from the table.
 
 This, I think, was another part of Inscryption I was spoiled on. I knew there would be escape-the-room portions in it. So I spent a little time wandering around the room, poking at everything… Lots of objects, I thought. What are the things bolted to the walls? What’s the importance of the globe? And so on.
 
@@ -43,11 +43,11 @@ Steam says that I noticed the safe combination almost immediately after I made m
 
 It’s easy to forget our first guesses and impressions when we’re experiencing something for the first time. When I was first playing Inscryption, I (obviously) had no idea who these characters were.
 
-My natural assumption was this: they’re past players, like me. They had played their own games against my opponent – maybe this card game, maybe some other – and lost, after their own fashions, and were therefore held in the thrall of the cabin’s owner. How long had they been trapped as cards, playing this brutal game of life and death? Had they pulled teeth? Stabbed eyeballs? Sacrificed friends? What would they think of me, as I did these very same things?
+My natural assumption is this: they’re past players, like me. They had played their own games against my opponent – maybe this card game, maybe some other – and lost, after their own fashions, and were therefore held in the thrall of the cabin’s owner. How long had they been trapped as cards, playing this brutal game of life and death? Had they pulled teeth? Stabbed eyeballs? Sacrificed friends? What would they think of me, as I did these very same things?
 
-I also didn’t know how many puzzles were in the cabin. I assumed, naturally, there would be many. I didn’t know how many different interactions and bosses my opponent could pose; there could be myriad. It was very early in the game, and the possibilities stretched out before me, like a dark forest.
+I also don't know how many puzzles were in the cabin. I assume, naturally, there would be many. I don't know how many different interactions and bosses my opponent could pose; there could be myriad. It is very early in the game, and the possibilities stretch out before me, like a dark forest.
 
-I had gotten up from the table. When I had sat back down again, I had solved most of the puzzles in the room. Turns out, there aren’t that many. Charitably, there are seven of them in the main progression, and I just solved five. If I had known that there were that few puzzles, I wouldn’t have done them all at once.
+I had gotten up from the table. When I sat back down again, I had solved most of the puzzles in the room. Turns out, there aren’t that many. Charitably, there are seven of them in the main progression, and I just solved five. If I had known that there were that few puzzles, I wouldn’t have done them all at once.
 
 There is stuff left to do in the room. There are items to unlock; essential things to find, which will help you defeat your opponent. They’re not difficult puzzles, but they are things you need to do. I found everything in the first session of play. After only three hours, I knew I had found everything the cabin had to offer. The only thing I had left to do was beat my opponent once, and this portion of the game would be over.
 
