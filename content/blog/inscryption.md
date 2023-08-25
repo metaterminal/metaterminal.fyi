@@ -29,13 +29,13 @@ The first thing that happens in Inscryption is this.
 
 Someone sitting across from me opens their eyes. The rest of them is shrouded in darkness, but their eyes are clearly visible. When they speak, their pupils swirl with madness. They know I don’t understand the rules; that’s okay, my opponent says, I’ll teach you. This was my first proper card battler, and my opponent taught me well. One of the cards whispers to me, too; let me live, and I can help you.
 
-I didn’t learn quickly enough. I lose a round. My opponent tells me to get up from the table.
+I don't learn quickly enough. I lose a round. My opponent tells me to get up from the table.
 
 This, I think, was another part of Inscryption I was spoiled on. I knew there would be escape-the-room portions in it. So I spent a little time wandering around the room, poking at everything… Lots of objects, I thought. What are the things bolted to the walls? What’s the importance of the globe? And so on.
 
-I can’t work out anything – not even the combination to the safe – so I sit back down. The game continues.
+I can’t work out anything. Not even the combination to the safe. I sit back down. The game continues.
 
-I’m not good at card battlers; I lose another round. My opponent, still shrouded in darkness kills me. I make my first deathcard; but death is no respite from play and the card games continue.
+I’m not good at card battlers, so I lose another round. My opponent, still shrouded in darkness, kills me. I make my first deathcard; but death is no respite from play.
 
 This, I think, is a good game. The vibes are immaculate. It’s this dark cabin, yes? And the cabin feels real; I feel like I’m in this space, a person trapped here, with no way out. The sole door out is locked and something flickers like lightning on the other side of it. Every victory is hard-won, because I’m bad at card battlers. Simultaneously, the game isn’t so hostile that I’m afraid to experiment. My opponent is fair, but cruel. My mistakes have unexpected consequences; but my successes do, too. My cards can do surprising things if I’m clever, or careful, or lucky. I get the real sense that there are many small secrets lurking underneath the skin of the game. Systems I don’t quite understand. A room filled with puzzles, none of them solved.
 
@@ -47,7 +47,7 @@ My natural assumption is this: they’re past players, like me. They had played 
 
 I also don't know how many puzzles were in the cabin. I assume, naturally, there would be many. I don't know how many different interactions and bosses my opponent could pose; there could be myriad. It is very early in the game, and the possibilities stretch out before me, like a dark forest.
 
-I had gotten up from the table. When I sat back down again, I had solved most of the puzzles in the room. Turns out, there aren’t that many. Charitably, there are seven of them in the main progression, and I just solved five. If I had known that there were that few puzzles, I wouldn’t have done them all at once.
+I had gotten up from the table. When I sit back down again, I had just solved most of the puzzles in the room. Turns out, there aren’t that many. Charitably, there are seven of them in the main progression, and I solved five in the last ten minutes. If I had known that there were so few puzzles, I wouldn’t have done them all at once.
 
 There is stuff left to do in the room. There are items to unlock; essential things to find, which will help you defeat your opponent. They’re not difficult puzzles, but they are things you need to do. I found everything in the first session of play. After only three hours, I knew I had found everything the cabin had to offer. The only thing I had left to do was beat my opponent once, and this portion of the game would be over.
 
