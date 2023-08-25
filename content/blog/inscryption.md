@@ -3,7 +3,7 @@ title = "Inscryption, or what could have been"
 date = 2023-08-25
 +++
 
-> *This essay contains spoilers for the 2020 video game* Inscryption*.*
+> *This essay contains spoilers for the 2020 video game* Inscryption.
 
 Inscryption is a very good game.
 
