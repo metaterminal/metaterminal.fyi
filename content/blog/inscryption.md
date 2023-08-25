@@ -55,7 +55,7 @@ And that kinda sucked.
 
 ### What was
 
-Again: I’m not criticising Inscryption. It’s a great game that works thematically and mechanically. It has a very particular thing it wants to do, and it foreshadows that from its opening moment.
+I’m not criticising Inscryption for wanting to do something different than what I expected, necessarily. It has a very particular thing it wants to do, and it foreshadows that from its opening moment.
 
 What it wants to do is break the fourth wall. The characters in Inscryption know that they’re in a video game. They want control over it. My opponent (named Leshy) has control of the game Inscryption; when you defeat him, you reset the game, and all the characters are on equal footing. Then the stoat (whose real name is P03) gains the upper hand, and you play his version of the game instead.
 
