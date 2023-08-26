@@ -55,7 +55,7 @@ And that kinda sucked.
 
 ### What was
 
-I’m not criticising Inscryption for wanting to do something different than what I expected, necessarily. It has a very particular thing it wants to do, and it foreshadows that from its opening moment.
+I’m not necessarily criticising Inscryption for wanting to do something different than what I expected. It has a very particular thing it wants to do, and it foreshadows that from its opening moment.
 
 What it wants to do is break the fourth wall. The characters in Inscryption know that they’re in a video game. They want control over it. My opponent (named Leshy) has control of the game Inscryption; when you defeat him, you reset the game, and all the characters are on equal footing. Then the stoat (whose real name is P03) gains the upper hand, and you play his version of the game instead.
 
@@ -83,7 +83,7 @@ What could have Inscryption been like, if it continued in that direction, instea
 
 ### What could have been
 
-You have three cards with personalities. They have a few conversations between themselves; but after that, they stay quiet (except some repetitive lines to protest your sacrificing them, or to exalt your decision to buff them with sigils).
+You have three cards with personalities. They have a few conversations between themselves; but after that, they stay quiet (excepting some repetitive lines to protest your sacrificing them, or to exalt your decision to buff them with sigils).
 
 What if, instead, the cards had different agendas? What if they disagreed with each other? What if they disagreed with *you*? Maybe while you have one in your hand, it whispers about how you shouldn’t trust the others... *or* your opponent.
 
@@ -93,7 +93,7 @@ What if, at a certain point, you had to permanently remove one from the game? Yo
 
 You have puzzles in the cabin. There are, charitably, seven of them in the main progression:
 
-- Opening the safe using the combination written in the rulebook (including the key to the cabinet)
+- Opening the safe using the combination written in the rulebook (which gives you the key to the cabinet)
 - The four slider puzzles in the cabinet (which unlock new cards, including the Caged Wolf card)
 - Killing the Caged Wolf to unlock the actual caged wolf totem in the room, and using that newly freed caged wolf totem to free the knife
 - Using the magic eyeball to get the film roll (which requires you to stab out your eye, and to have lost after a certain point)
@@ -105,7 +105,7 @@ I’m calling this seven, but it’s really four, since most people beat all the
 
 I solved five of the main seven after my first stint wandering around the room; the sixth I solved only an hour later, and the seventh an hour and a half after that. I never got the ring (I never even realised that I could), and once I worked out what the painting puzzles were doing I mostly ignored them. What if, instead, there were ten, fifteen puzzles? What if the parts of the room came apart in interesting ways? What if information in the card game crossed over into the room, and vice-versa? I’m asking for secrets, yes; and secrets within secrets, like peeling layers back. I want the game to wring every single last possibility out of this escape-room card-game combo. Instead, it barely scratches the surface. Because, you understand, the best part of Inscryption is *the bit where you’re wandering around the cabin solving puzzles*, and it’s over in a ten minute burst and two five-minute sections after that. Make the escape room two hours of content, instead of twenty minutes.
 
-(I really should finish TUNIC. But the combat really puts me off, unfortunately, even with its excellent accessibility features. My cute fox character keeps getting bashed around unpleasantly. I’ll get to it soon. Ahem.)
+(I really should finish TUNIC. But the combat really puts me off, unfortunately, even with its excellent accessibility features. My cute fox character keeps getting bashed around. I’ll get to it soon. Ahem.)
 
 My opponent presents three bosses, then a final boss battle (against himself, obviously). What if there were four, five, six bosses that he presented, and each time I battled a random selection of three? The boss battles are some of the coolest parts of the game, since the characters can act in surprising ways, and my first encounter with each of them presented a certain kind of magic. It might be tougher for a beginner to learn the battles; so maybe after a certain amount of progress, the first Prospector gets replaced with anything. Game designers are clever. They can work something out.
 
