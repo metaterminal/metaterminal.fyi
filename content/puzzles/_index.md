@@ -7,6 +7,16 @@ page_template = "puzzle-page.html"
 
 I like puzzles, and sometimes I write them. Over the years, I've written quite a few. Puzzles are ordered in reverse chronological order by release date.
 
+### Shardhunt: The B-Side (2023)
+
+This is some extra "bonus content" that was written for (and cut from) Shardhunt, released on my personal website. You can look at the entire B-side here FIXME, since there are non-puzzle elements in there which aren't listed below. 
+
+For the sake of completeness, the B-side contains the following puzzles:
+
++ [Grapevine](grapevine)
++ [Through the Looking-Glass - Bonus Boards](ttlg-bonus-boards)
++ [Rovers: Reloaded](rovers-reloaded)
+
 ### Shardhunt (2023)
 
 [Shardhunt](https://shardhunt.com/) is an upcoming puzzlehunt written by some core members of the puzzlehunt team 17th Shard. 
