@@ -5,11 +5,11 @@ date = 2023-09-03
 
 ### Abstract
 
-On a date that my notes helpfully notate as "38 wks ago", me and a friend decided to document some words that people liked.
+On a date that my notes helpfully notate as "38 wks ago", a friend and I decided to document some words that people liked.<!-- more -->
 
 ### Methods
 
-At the time my co-conspirator and I were living in a large complex with many floors. This complex was entirely freshman housing. In theory, this complex was divided into multiple sections; you could only access the section in which you lived. In practice there were a number of "locked" doors between these different sections which were either left open or could be bypassed through various means.
+At the time, my co-conspirator and I were living in a large complex with many floors. This complex was entirely freshman housing. In theory, this complex was divided into multiple sections; you could only access the section in which you lived. In practice there were a number of "locked" doors between these different sections which were either left open or could be bypassed through various means.
 
 Our methodology boiled down to:
 
