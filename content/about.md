@@ -11,7 +11,7 @@ This site is written by (and belongs to) Thomas Gordon, a kiwi studying engineer
 
 This site is run using the static site generator <a href="https://www.getzola.org/">Zola</a>, with individual pages written using Markdown, and deployed using Netlify.
 
-This site is entirely static; there's no Javascript. That means no ads, no analytics, and fast load times. I plan to keep my site like this for as long as I have it up.
+This site is entirely static; there's no Javascript apart from some small amount for personal analytics. That means no ads and fast load times. I plan to keep my site like this for as long as I have it up.
 
 ## Contact me
 
