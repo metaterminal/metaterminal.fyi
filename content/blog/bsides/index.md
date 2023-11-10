@@ -1,9 +1,9 @@
 +++
-title = "Shardhunt: The B-Side"
+title = "Shardhunt: B-Side"
 date = 2023-08-30
 +++
 
-Surprise! Here's some extra Shardhunt content for you all.<!-- more -->
+Here's some extra Shardhunt content for you all.<!-- more -->
 
 Explanation follows. If you don't care about why this exists, skip to the orange bits; those are the links to the new puzzles and essays.
 
@@ -13,7 +13,7 @@ To quote [Shardhunt's wrap-up](https://shardhunt.com/wrapup):
 
 > We might estimate that for every puzzle released in the final hunt, approximately one more was written and cut in some stage of development.
 
-In most cases, puzzles were cut because they were deeply flawed in some way, or weren't fit for release. Many puzzles which we cut are still usable in other puzzlehunts; potentially, in future Shardhunts (should they exist), or other hunts we may choose to work on. There were fully-working written puzzles that only a very small number of people saw, which were not published.
+In most cases, puzzles were cut because they were deeply flawed in some way, or weren't fit for release. Many puzzles which were cut are still usable in other puzzlehunts; potentially, in future Shardhunts (should they exist), or other hunts people may choose to work on. There were fully-working written puzzles that only a very small number of testsolvers saw, which were not published.
 
 (Note that I don't use the word "finished". Nothing is ever finished. Only iterated upon.)
 
@@ -29,7 +29,7 @@ This "B-side" only contains puzzles or essays which are solely my work, and do n
 
 ### The B-side
 
-Included: one full puzzle, one half-puzzle, some chess boards, a behind-the-scenes look at the development of Pushing the Rules, and a short commentary on some other cut content.
+Included: one full puzzle, some chess boards, a behind-the-scenes look at the development of Pushing the Rules, and a short commentary on some other cut content.
 
 #### [Grapevine](grapevine)
 
@@ -44,10 +44,6 @@ You can also look at the solution [here](grapevine-sol). (The solution also disc
 Some extra boards which got cut from Through the Looking-Glass for various reasons.
 
 I've included their solution paths, along with some notes about why each of them was cut [here](ttlg-cut-reasons).
-
-#### [Rovers: Reloaded](rovers-reloaded)
-
-An extra step for the puzzle Rovers. The first portion of the puzzle is exactly the same as the version published in the hunt. FIXME: is this true?
 
 #### [The evolution of Pushing the Rules](ptr-evolution)
 
