@@ -19,4 +19,4 @@ I have, naturally, changed many identifying details, including faces and names, 
 
 You can work out the rest as you go. Like I did.
 
-<p style="text-align: center"><a href="/tintop/chapter1">chapter 1 --></a></p>
+<p style="text-align: center"><a href="/tintop/chapter1">--></a></p>
