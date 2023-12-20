@@ -1,5 +1,5 @@
 +++
-title = "Congratulations! You have spotted a Dude."
+title = "Hooray! You have spotted a Dude."
 template = "content.html"
 +++
 
