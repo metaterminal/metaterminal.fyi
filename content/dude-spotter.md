@@ -5,7 +5,7 @@ template = "content.html"
 
 ### What am I looking at?
 
-The Dude Spotter team works to find and preserve Dudes in funky places in central Providence and College Hill. 
+The Dude Spotter team works to find and preserve Dudes in funky places around central Providence and College Hill. 
 
 Dudes are an **endangered species** of clay creature; they are attracted to places of quiet studiousness and contemplative imagination. If you have found one, count yourself lucky. Once a common sight among the bookshelves and study spaces of New England, now their habitat is a scant few square miles of Providence ground.
 
