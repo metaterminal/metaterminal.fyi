@@ -17,7 +17,7 @@ If you see a Dude without a QR code, or in a place where it seems to be at threa
 
 Some (though not all) cleaners and facilities personnel consider Dudes an invasive species, and endeavour to remove or destroy them. If you know a Dude is in danger of being hurt, it would be kind to carefully relocate them into a safer public place.
 
-**PLEASE BE AWARE: Dudes melt in water.** Please don;t bring or leave Dudes outside.
+**PLEASE BE AWARE: Dudes melt in water.** Please don't bring or leave Dudes outside.
 
 Do not take any Dudes for yourself. Dudes are a rare species and therefore precious; they are for public enjoyment.
 
