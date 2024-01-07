@@ -13,7 +13,7 @@ None of the other children saw the train. I remember relaying the story, in the 
 
 I have seen this train many times throughout my life. It is an old and familiar friend.
 
-We moved houses often, and two or three houses later we lived in a different part of the city, and very near my house was another part of the same train network. I would often wander the streets surrounding my house, building a mental map of the area, thinking of music or life or (often) puzzles. I would often listen to podcasts. There was a bridge over one track, that way, that led to a small passage behind an auto parts store; and that way, an underpass, with the line running overhead; and there, what we called a "level crossing", where you could walk across the tracks as natural as crossing the road. To get to the other side, you see.
+We moved houses often, and two or three houses later we lived in a different part of the city, and very near my house was another part of the same train network. I would often wander the streets surrounding my house, building a mental map of the area, thinking of music or life or (often) puzzles. I would listen to podcasts. There was a bridge over one track, that way, that led to a small passage behind an auto parts store; and that way, an underpass, with the line running overhead; and there, what we called a "level crossing", where you could walk across the tracks as natural as crossing the road. To get to the other side, you see.
 
 At around this stage of my life I also picked my online handle. Purely by accident, it ended up being a reference to two things; puzzles (after a fashion), and trains. Neither of these associations were intentional. They have served me well.
 
