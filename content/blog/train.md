@@ -35,7 +35,7 @@ The thundering comes every now and again, too; watching the inkjet river pass un
 
 ***
 
-I am spending the winter break still in Providence, and so far it has been a cold and solitary affair. Today, though, in the midnight just gone, it snows. I go outside and am struck dumb. The entire world seems transformed... as if at last released from its usual mundanity, presenting in true and childlike form.
+I am spending the winter break still in Providence, and so far it has been a cold and solitary affair. Today, though, in the midnight just gone, it snows. I go outside and am struck dumb. The entire world seems transformed... as if at last released from its usual mundanity, it presents in true and childlike form.
 
 I am struck dumb, in particular, by a lamp-post. The kind that my campus has are black, and tall, with a ridged pole holding the light aloft, and the lamp itself hexagonal and thicker at the top, with misted glass panels. The electric light inside is yellow-warm. In short, then, it looks precisely like the lamp-post from The Lion, The Witch, and The Wardrobe. With the snow falling around, I imagine I must be there, standing with Susan, marvelling at the new world that we must suddenly find ourselves in.
 
