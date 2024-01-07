@@ -31,7 +31,7 @@ I heard it, briefly, when I was exploring part of Brooklyn's abandoned train lin
 
 And I nearly boarded it, a few months ago, getting on a train south from Boston: it was early on a Monday morning, and I was very tired, and not a little distracted. On the other side of the platform, there it was, motionless; not the first time I have ever seen it as such, yet the first time I have ever seen it so close. I was almost intentionally not watching where I was going. I remember that I stepped far onto the wrong side of the platform... but I did get on the right train. As anyone who has travelled before knows, boarding the wrong train is a silly and desperate mistake.
 
-The thundering comes every now and again, too; watching the inkjet river pass under me in the small city, or in those quiet and dead hours of the mid-night, or that time we biked in the clawing cold to the watchtower in Collier Point Park, and left a secret there. I looked out at the boatlights reflecting off of the baywater, and feel cold, and hear the awful clattering, distant, but somehow still very loud and very close.
+The thundering comes every now and again, too; watching the inkjet river pass under me in the small city, or in those quiet and dead hours of the mid-night, or that time we biked in the clawing cold to the watchtower in Collier Point Park, and left a secret there. I looked out at the boatlights reflecting off of the baywater, and felt cold, and heard the awful clattering, distant, but somehow still very loud and very close.
 
 ***
 
