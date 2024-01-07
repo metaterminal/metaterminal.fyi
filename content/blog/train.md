@@ -51,6 +51,10 @@ The sound of that old, black train is so very distant now. And I think and say: 
 
 ***
 
+***
+
+***
+
 In case it is not obvious, this is a work of fiction. I have been turning over many of these phrases in my head for a long time; about an hour ago, something happened that made me want to put them all together. The thing that happened was: it started snowing.
 
 If you see this: thank you for reading my blog. I suffer under no illusions that this is a popular or frequently visited source of writing, but I like putting things here, if only for my own amusement. I have several more pieces that I'm planning to publish in the near future, if only I get around to writing them. 
