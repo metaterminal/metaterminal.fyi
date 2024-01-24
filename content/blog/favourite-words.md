@@ -3,9 +3,9 @@ title = "An incomplete list of people's favourite words"
 date = 2023-09-03
 +++
 
-### Abstract
-
 On a date that my notes helpfully notate as "38 wks ago", a friend and I decided to document some words that people liked.
+
+<!-- more -->
 
 ### Methods
 
