@@ -5,6 +5,7 @@ template = "content.html"
 
 This is a page to document the updates to this site and when they happened.
 
+* 2024-01-24: small restructuring of the site, now with a dedicated Fiction section
 * 2023-08-25: posted an essay about Inscryption
 * 2023-08-06: updated puzzles list with Shardhunt puzzles
 * 2023-07-06: posted Murder on AO3; fixed a small error with article dating
