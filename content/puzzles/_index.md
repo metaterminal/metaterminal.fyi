@@ -14,7 +14,7 @@ my most recent work so far.
 
 It takes place in the same canon as Shardhunt 0 (which has never been publicly released), but knowledge of that hunt is not necessary and will provide no advantage for explorers.
 
-+ [Prologue](https://shardhunt.com/puzzle/prologue)
++ [Prologue](https://shardhunt.com/prologue)
 + [Backbeat](https://shardhunt.com/puzzle/backbeat)
 + [The Only Sanderson Puzzle](https://shardhunt.com/puzzle/the-only-sanderson-puzzle)
 + [Marked Books](https://shardhunt.com/puzzle/marked-books) (metapuzzle; co-writer)
