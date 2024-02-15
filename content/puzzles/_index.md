@@ -7,10 +7,13 @@ page_template = "puzzle-page.html"
 
 I like puzzles, and sometimes I write them. Over the years, I've written quite a few. Puzzles are ordered in reverse chronological order by release date.
 
+### Brown Puzzlehunt (2024)
+
+[Brown Puzzlehunt](https://www.brownpuzzlehunt.com) is an upcoming in-person puzzlehunt, located in Providence, Rhode Island (with close-to-equal accessibility for remote teams). Kickoff is on April 13th, 11am EDT, with puzzles releasing an hour later. The team size cap is 12.
+
 ### Shardhunt (2023)
 
-[Shardhunt](https://shardhunt.com/) was a puzzlehunt written by some core members of the puzzlehunt team 17th Shard, and contains 
-my most recent work so far.
+[Shardhunt](https://shardhunt.com/) was a puzzlehunt written by some members of the puzzlehunt team 17th Shard.
 
 It takes place in the same canon as Shardhunt 0 (which has never been publicly released), but knowledge of that hunt is not necessary and will provide no advantage for explorers.
 
@@ -33,21 +36,21 @@ It takes place in the same canon as Shardhunt 0 (which has never been publicly r
 
 I helped write many things for Brown Puzzlehunt, most of which are listed below.
 
-+ [Built in a Day](https://www.brownpuzzlehunt.com/puzzle/built-in-a-day)
-+ [Work Together](https://www.brownpuzzlehunt.com/puzzle/work-together)
-+ [The ABC's of Puzzle Solving](https://www.brownpuzzlehunt.com/puzzle/the-abcs)
-+ [Bring Back Blueno](https://www.brownpuzzlehunt.com/puzzle/bring-back-blueno) (metapuzzle; co-writer)
++ [Built in a Day](https://2023.brownpuzzlehunt.com/puzzle/built-in-a-day)
++ [Work Together](https://2023.brownpuzzlehunt.com/puzzle/work-together)
++ [The ABC's of Puzzle Solving](https://2023.brownpuzzlehunt.com/puzzle/the-abcs)
++ [Bring Back Blueno](https://2023.brownpuzzlehunt.com/puzzle/bring-back-blueno) (metapuzzle; co-writer)
 + [Resurrecting Blueno Interaction](resurrecting-blueno) (interaction)
-+ [Butterfly Evolution Kit](https://www.brownpuzzlehunt.com/puzzle/butterfly-evolution-kit) (physical puzzle)
-+ [Written in Stone](https://www.brownpuzzlehunt.com/puzzle/written-in-stone) (idea credit only)
-+ [The Bear](https://www.brownpuzzlehunt.com/puzzle/the-bear) (metapuzzle)
-+ [The Impossible](https://www.brownpuzzlehunt.com/puzzle/the-impossible) (physical puzzle)
-+ [The Lamp](https://www.brownpuzzlehunt.com/puzzle/the-lamp) (metapuzzle)
-+ [dearblueno.net](https://www.brownpuzzlehunt.com/puzzle/dear-blueno-meta) (metapuzzle)
-+ [Put Blueno Back Whence He Came](https://www.brownpuzzlehunt.com/puzzle/put-blueno-back) (interaction)
-+ [The Final Procession](https://www.brownpuzzlehunt.com/puzzle/final-procession) (final runaround)
-+ [An Afternoon With Pirates](https://www.brownpuzzlehunt.com/puzzle/pirates) (event)
-+ [An Evening With Atlach-Nacha](https://www.brownpuzzlehunt.com/puzzle/atlach-nacha) (event)
++ [Butterfly Evolution Kit](https://2023.brownpuzzlehunt.com/puzzle/butterfly-evolution-kit) (physical puzzle)
++ [Written in Stone](https://2023.brownpuzzlehunt.com/puzzle/written-in-stone) (idea credit only)
++ [The Bear](https://2023.brownpuzzlehunt.com/puzzle/the-bear) (metapuzzle)
++ [The Impossible](https://2023.brownpuzzlehunt.com/puzzle/the-impossible) (physical puzzle)
++ [The Lamp](https://2023.brownpuzzlehunt.com/puzzle/the-lamp) (metapuzzle)
++ [dearblueno.net](https://2023.brownpuzzlehunt.com/puzzle/dear-blueno-meta) (metapuzzle)
++ [Put Blueno Back Whence He Came](https://2023.brownpuzzlehunt.com/puzzle/put-blueno-back) (interaction)
++ [The Final Procession](https://2023.brownpuzzlehunt.com/puzzle/final-procession) (final runaround)
++ [An Afternoon With Pirates](https://2023.brownpuzzlehunt.com/puzzle/pirates) (event)
++ [An Evening With Atlach-Nacha](https://2023.brownpuzzlehunt.com/puzzle/atlach-nacha) (event)
 
 ### A Very Metaphorical British Dystopia (2021)
 
