@@ -185,7 +185,7 @@ It was Willow. Louis had tried to call her Ms. Wright, and at first she politely
 
 “I don’t like egg whites.” He didn’t feel like explaining his particular dietary preferences to Willow, particularly not in this state. She seemed to be imitating a puddle.
 
-“No fun.” She sniffled. “What’re you doing here?”
+“No fun.” Willow sniffled. “What’re you doing here?”
 
 He wondered if she would be merciful enough to leave soon, but in all likelihood, she would be here all night. “Millicent wants to meet with me.”
 
@@ -223,7 +223,7 @@ The engineer shrugged, and fished out a rag to wipe her mouth, ignoring the napk
 
 “Don’t call me that. I’m not a cop.”
 
-“If you were a copper, I would call you a copper. Legislative aide doesn’t roll off my tongue, you know.”
+“If you were a copper, I would call you a copper. Legislative aide doesn’t roll off the tongue.”
 
 He said, “If she makes it to San Francisco, she’s going to present the evidence. It doesn’t matter how late she gets there, either. If she’s a day late, it makes no difference.”
 
@@ -245,13 +245,15 @@ The engineer laughed. Her throat was gummed, and hoarse, so it sounded hacking, 
 
 Louis shook his head. 
 
-“Sontag was a train robber. Back when you could get away with a horse and a stick of dynamite. But the reason he ever did that is because a Southern Pacific Railway car chewed up his leg and didn’t have the decency to chew up the rest of him. Coupling and uncoupling cars, these huge masses of metal and steam? Once they get moving, there’s very little that’ll stop them. Bone won’t. They say we lost as many as coal miners, those days, and I believe them. You may not remember that, but we do. The brotherhoods do. So my question to you is, are you willing to help me?”
+“Sontag was a train robber. Back when you could get away with a horse and a stick of dynamite. But the reason he ever did that is because a Southern Pacific Railway car chewed up his leg and didn’t have the decency to chew up the rest of him. They say we lost as many as coal miners, those days, and I believe them. You may not remember that, but we do. The brotherhoods do." 
 
-“We can’t protect each other, Ms… Millicent. Do you understand that? If one of us gets tied up with this, we were the only one. Doesn’t matter who. It looks worse if both of us were involved in this.”
+She paused, as if avoiding the follow-through. "So… are you willing to help *me*?”
+
+“We can’t protect each other, Ms— Millicent. Do you understand that? If one of us gets tied up with this, we were the only one. It doesn’t matter who gets caught. It looks worse if both of us were involved in this.”
 
 “Why wouldn’t people assume we were working together?”
 
-Louis felt something strange, like someone was looming behind him. A grim inevitability was pulling him along. Nerves, he thought, and took a drink.
+Louis felt something strange, like someone was looming behind him. A grim inevitability was pulling him along. Nerves, he thought.
 
 “You disagree with the new labor law. You’ve stopped the train to try and extort me. Convince me to stop it from passing. I don’t know, you make it work. You like your long hours, you like the pay, and you’re not really that into the brotherhood anyway.
 
@@ -305,7 +307,7 @@ There was another person in the cargo car, too; that doctor, Lynette’s suppose
 
 He gathered up the rest of his papers, arranged them neatly into a small folder, and bid good-night to the doctor. Millicent was gone when he passed again through the crew car; he supposed she was already waiting for him in his room, providing his alibi.
 
-The standard cars were deserted, as Louis assumed. Everyone would still be dining, or would have retired for the night. Yet, he would still need to be careful. This would all be for naught if someone saw him pass in and out of the cabin.
+The standard cars were deserted, as Louis assumed. Everyone would still be dining, or would have retired for the night. He would still need to be careful. This would all be for naught if someone saw him pass in and out of the cabin.
 
 The train was still unmoving; yet he had become so acquainted with the gentle sway of the carriages that its lack of motion made him tilt from side to side. He took up a hand and braced himself against the wall, standing there in the hallway, thinking. Thinking about scalpels.
 
@@ -317,7 +319,7 @@ Louis took out his key and opened the door to cabin 14C.
 
 After it was done, Louis remembered to breathe. A small movement of air came through the window that Lynette had left open. Small flecks of snow drifted down through the raised window, and he caught one in his red gloved palm.
 
-Ah. He carefully removed his gloves, wiped off his pocket knife, and threw the gloves as hard as he could into the forest. It disappeared between the trees.
+Ah. He carefully removed his gloves, wiped off his pocket knife, and threw the gloves as hard as he could into the forest. They disappeared between the trees.
 
 Briefly, he considered doing the same with the key. Perhaps it would muddy the waters further. *Anyone* could have stolen her key, after all.
 
