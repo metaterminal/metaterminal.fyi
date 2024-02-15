@@ -11,7 +11,7 @@ Indeed, no excerpt from this work is included verbatim in *Coin*. While many in-
 
 > The great man was hunched in the firelight, poring over a tome that seemed by perspective slender. When Arth noticed his entrance, he straightened, and placed the book beside, not caring to mark his place. Rolando could see the cover was made of red and gold.
 > 
-“Hello, boy,” Arth said. “Is all right?”
+> “Hello, boy,” Arth said. “Is all right?”
 > > *An Umber Coin*, p. 63
 
 Such small observational turns are frequent throughout the work, and most serve to do nothing more than lend a sense of verisimilitude and detail to Salenci’s creation. However, the “book of red and gold” appears throughout *An Umber Coin*, and different mentions allow us ever narrower glimpses into its content and themes. The tome is never named; a curious omission compared to the easy namedrops of other works.
