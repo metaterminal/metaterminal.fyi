@@ -7,9 +7,9 @@ date = 2022-04-15
 
 Delivering story to solvers was important to HQ. Thus, for the longest time, I had pencilled in a "post first-meta solve interaction" of some description, where a member of HQ would go and yell at the solvers for doing Ostensibly Very Bad Things by solving puzzles. It would also allow for the delivery of the cute Blueno pins we had. But the actual, practical nuts and bolts of this was not ironed out until perhaps a few nights before the hunt started, when we were making final story decisions. (This was around the time that the final runaround was also getting finalised.) 
 
-At this point, the story team came up to me and asked, "what do you want this interaction to look like?" After my attempt to weasel out of the responsibility failed, I then said "it should sound something like this," and gave a rambling monologue about robes, and gods, and consequences, and aspects, and probably some other things. 
+At this point, the story team came up to me and asked, "what do you want this interaction to look like?" After my attempt to weasel out of the responsibility failed, I said, "It should sound something like this." Then proceeded a rambling monologue about robes, and gods, and consequences, and aspects, and probably some other things. 
 
-The story team nodded very sagely, and then went away and wrote this. I have decided to archive the text of the interaction here for posterity.
+The story team nodded very sagely, and went away and wrote this. I have decided to archive the text of the interaction here for posterity.
 
 (Edited slightly to fix punctuation mistakes and formatting.)
 
