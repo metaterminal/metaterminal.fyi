@@ -157,13 +157,13 @@ She spun on her heel and took a step towards him. “Every time we speak, it’s
 
 “If these charges don’t stick against Pacific–”
 
-“So what, Louis? So what. The world is what it is. So unless you have anything new to say to me, that you didn’t already say to me five years ago, I suggest that it was a bad idea for you to come here to begin with. Thank you, and goodnight.”
+“So what, Louis? The world is what it is. Unless you have anything new to say to me, that you didn’t already say to me five years ago, I suggest that it was a bad idea for you to come here to begin with. Thank you, and goodnight.”
 
 “Lyn…”
 
 She sat again, leaned the cane against the desk, and took up her pen. He knew it was her manner of deliberately ignoring him.
 
-“Fine,” Louis said. Fine. His watch claimed it was nearly nine, anyway. There were appointments to keep. “We can talk again in San Francisco. It was… *good* to see you, Lyn. I wish you a good evening.”
+“Fine,” Louis said. Fine. His watch claimed it was nearly nine. There were appointments to keep. “We can talk again in San Francisco. It was… *good* to see you, Lyn. I wish you a good evening.”
 
 He stepped out into the hallway, and heard her lock the door behind him.
 
@@ -255,7 +255,7 @@ She paused, as if avoiding the follow-through. "So… are you willing to help *m
 
 Louis felt something strange, like someone was looming behind him. A grim inevitability was pulling him along. Nerves, he thought.
 
-“You disagree with the new labor law. You’ve stopped the train to try and extort me. Convince me to stop it from passing. I don’t know, you make it work. You like your long hours, you like the pay, and you’re not really that into the brotherhood anyway.
+“You disagree with the new labor law. You’ve stopped the train to try and extort me. Convince me to stop it from passing. I don’t know, you make it work. You like your long hours, you like the pay, and you’re not really that into the brotherhood.
 
 “You flagged me down here to make your demands. At midnight, you say, we’ll meet in my room to talk about the labor law. I’ll bring my papers from the cargo car. We argue for nearly an hour. Loud enough that our neighbors can hear us, even. By tomorrow morning, the train won’t even be started again, because I refuse to give into your demands.”
 
@@ -409,7 +409,7 @@ Louis is quoting the following passage from the S.S. Van Dine book The Benson Mu
 
 Oh, loads. Most of them are introduced by trying to map the original story onto a set of real circumstances.
 
-Obviously, the lawsuit over Southern Pacific Transportation Company was completely invented; there was no such lawsuit of any kind. The railway companies were much too powerful to get tangled up with that sort of thing, anyway.
+Obviously, the lawsuit over Southern Pacific Transportation Company was completely invented; there was no such lawsuit of any kind. The railway companies were much too powerful to get tangled up with that sort of thing.
 
 (Some incidental details are true. At this time, the headquarters of Southern Pacific really were in the same building as a Pinkerton office.)
 
