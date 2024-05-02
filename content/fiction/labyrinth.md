@@ -5,7 +5,7 @@ date = 2024-04-13
 
 > A reprinting of Herbert Quain's original 1933 classic. You can view a scan of the original version [here](https://www.brownpuzzlehunt.com/puzzle/labyrinth-puzz).
 
-In my final months of working with that eminent detective, I only saw her complete one case; and though the outlines of that case have been much discussed in these daily papers, I find it significant to recount my own narrative. This was the last time that I ever worked with R in such a capacity. Though she gave me the permission to continue to recount these tales (leaving aside her name, as before), we soon after parted company, and not on entirely good terms. 
+In my final months of working with that eminent detective, I only saw her complete one case; and though the outlines of that case have been much discussed in these daily papers, I find it significant to recount my own narrative.<!-- more --> This was the last time that I ever worked with R in such a capacity. Though she gave me the permission to continue to recount these tales (leaving aside her name, as before), we soon after parted company, and not on entirely good terms. 
 
 I have thought to turn to fiction. But my whole life I have never met a person so singular and fantastical as her, and it seems that any character of my own fashioning should pale on the page against her presence. I will, therefore, permit myself only to tell the last of those true tales available to me. Further stories of murder should be left to other writers more suited to ghastly affairs.
 
