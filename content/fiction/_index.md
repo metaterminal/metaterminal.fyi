@@ -1,6 +1,6 @@
 +++
 title = "Works of fiction"
 sort_by = "date"
-template = "blog.html"
+template = "fiction.html"
 page_template = "blog-page.html"
 +++

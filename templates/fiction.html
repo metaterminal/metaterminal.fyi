@@ -10,7 +10,8 @@
 <ul>
   {% for page in section.pages %}
   <li>
-    <a href="{{ page.permalink | safe }}">{% if page.extra.display_title %}{{ page.extra.display_title | markdown(inline=true) | safe }}{% else %}{{ page.title }}{% endif %} ({{ page.date }})</a>
+    <p><a href="{{ page.permalink | safe }}">{% if page.extra.display_title %}{{ page.extra.display_title | markdown(inline=true) | safe }}{% else %}{{ page.title }}{% endif %} ({{ page.date }})</a>
+    <br>&nbsp;&nbsp;&nbsp;<i>{{ page.word_count }} words</i></p>
     <p>{{ page.summary | safe }}</p>
   </li>
   {% endfor %}
