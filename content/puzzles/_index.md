@@ -7,9 +7,20 @@ page_template = "puzzle-page.html"
 
 I like puzzles, and sometimes I write them. Over the years, I've written quite a few. Puzzles are ordered in reverse chronological order by release date.
 
+I have marked a few puzzles that I am particularly proud of in *italics*.
+
 ### Brown Puzzlehunt (2024)
 
-[Brown Puzzlehunt](https://www.brownpuzzlehunt.com) is an upcoming in-person puzzlehunt, located in Providence, Rhode Island (with close-to-equal accessibility for remote teams). Kickoff is on April 13th, 11am EDT, with puzzles releasing an hour later. The team size cap is 12.
+[Brown Puzzlehunt](https://www.brownpuzzlehunt.com) was an in-person puzzlehunt, located in Providence, Rhode Island. I acted as Puzzle Construction Director, and so had editorial input on many puzzles, but I am listed as an author on:
+
++ [The Flowers](https://www.brownpuzzlehunt.com/puzzle/flowers) (both versions) (co-writer)
++ [*The God of the Labyrinth*](../fiction/labyrinth/)
++ [The Nomenclept](https://www.brownpuzzlehunt.com/puzzle/nomenclept-puzz) (both versions) (metapuzzles; co-writer)
++ [The Case of the Colored Thread](https://www.brownpuzzlehunt.com/majorcase/colored-thread) (metapuzzle; co-writer)
++ [The Case of Social Deduction](https://www.brownpuzzlehunt.com/majorcase/social-deduction) (metapuzzle; co-writer)
++ [The Case of the Data](https://www.brownpuzzlehunt.com/majorcase/data) (metapuzzle; co-writer)
+
+I don't know why they all ended up with titles starting with 'the'. It's a funny coincidence.
 
 ### Shardhunt (2023)
 
@@ -22,7 +33,7 @@ It takes place in the same canon as Shardhunt 0 (which has never been publicly r
 + [The Only Sanderson Puzzle](https://shardhunt.com/puzzle/the-only-sanderson-puzzle)
 + [Marked Books](https://shardhunt.com/puzzle/marked-books) (metapuzzle; co-writer)
 + [The State Puzzle](https://shardhunt.com/puzzle/state-puzzle) (co-writer)
-+ [Pushing the Rules](https://shardhunt.com/puzzle/pushing-the-rules)
++ [*Pushing the Rules*](https://shardhunt.com/puzzle/pushing-the-rules) [^1]
 + [It's Your Turn](https://shardhunt.com/puzzle/its-your-turn) (co-writer)
 + [Rovers](https://shardhunt.com/puzzle/rovers)
 + [Interplanetary Hopper](https://shardhunt.com/puzzle/interplanetary-hopper)
@@ -32,9 +43,11 @@ It takes place in the same canon as Shardhunt 0 (which has never been publicly r
 + [🔍🔍🔍](https://shardhunt.com/puzzle/magnifying-glasses) (co-writer)
 + [The Death of the Library](https://shardhunt.com/puzzle/death-of-the-library) (metapuzzle; co-writer)
 
+[^1] This puzzle won the Bravo Award for Best Interactive Puzzle of 2023!
+
 ### Brown Puzzlehunt (2023)
 
-I helped write many things for Brown Puzzlehunt, most of which are listed below.
+I helped write many things for [Brown Puzzlehunt](https://2023.brownpuzzlehunt.com) in 2023, most of which are listed below.
 
 + [Built in a Day](https://2023.brownpuzzlehunt.com/puzzle/built-in-a-day)
 + [Work Together](https://2023.brownpuzzlehunt.com/puzzle/work-together)
@@ -54,7 +67,7 @@ I helped write many things for Brown Puzzlehunt, most of which are listed below.
 
 ### A Very Metaphorical British Dystopia (2021)
 
-This was a Christmas gift for a friend of mine, Rusty. The theme is based on the BBC show The Prisoner. After you've solved the first metapuzzle (Number Six), you can open the Green Dome.
+This was a Christmas gift for a fellow puzzler, Rusty, as part of a Christmas gift exchange. The theme is based on the BBC show The Prisoner. After you've solved the first metapuzzle (Number Six), you can open the Green Dome.
 
 A disclaimer: Number Nine is not solvable, as it was built in a Minecraft server that has since been deleted.
 

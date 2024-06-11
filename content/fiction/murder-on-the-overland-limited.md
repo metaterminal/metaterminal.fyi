@@ -3,7 +3,7 @@ title = "MetaTerminal Presents: The Murder on the Overland Limited"
 date = 2023-06-13
 +++
 
-> This is a work of fanfiction. You can read the puzzle that it's based on [here](https://puzzles.mit.edu/2023/abcde.puzzlefactory.place/puzzles/teammate-presents-the-mystery-of-cabin-14c).
+> This is a [work of fanfiction](https://archiveofourown.org/works/48407830). You can read the puzzle that it's based on [here](https://puzzles.mit.edu/2023/abcde.puzzlefactory.place/puzzles/teammate-presents-the-mystery-of-cabin-14c).
 > 
 > This text will spoil the **entirety** of The Mystery of Cabin 14C from the very beginning, including the solution.
 

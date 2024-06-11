@@ -5,7 +5,9 @@ template = "content.html"
 
 ## Authorial details
 
-This site is written by (and belongs to) Thomas Gordon, a kiwi studying engineering at Brown University. He's also known as "Terminal", "MetaTerminal", "Atlas the Antipodean", and enumerable various other names in various other communities. 
+This site is written by (and belongs to) Thomas Gordon, a kiwi studying engineering at Brown University. He works part-time at Brown's Center for Computation and Visualization as a Software Sustainability Intern, helping to make CCV's computing cluster more cost-effective and climate efficient. 
+
+In his spare time, he [creates puzzlehunts](../puzzles/), [writes fiction](../fiction/), and explores the history of Rhode Island.
 
 ## Technical details
 
