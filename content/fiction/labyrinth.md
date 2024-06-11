@@ -223,7 +223,7 @@ R stood. At this moment she had that gleam in her eye: the gleam of calculation,
 
 She began.
 
-“Everyone thought the encounter of the two chess players was accidental,” R said. “But it was, in fact, a careful gambit. And when our European fellow is invited into the Labyrinth, a more subtle and deadly line of play begins.”
+“Everyone thought the encounter of the two chess players was accidental,” R said. “But it was, in fact, a careful gambit. And when our European fellow was invited into the Labyrinth, a more subtle and deadly line of play began.”
 
 “Kearsley meant to meet his rival on the street?” I said.
 
