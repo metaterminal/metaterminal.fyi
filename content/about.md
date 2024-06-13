@@ -15,6 +15,8 @@ This site is run using the static site generator <a href="https://www.getzola.or
 
 This site is entirely static; there's no Javascript apart from some small amount for personal analytics. That means no ads and fast load times. I plan to keep my site like this for as long as I have it up.
 
+I also develop and host the website for the [Bravo Puzzle Awards](https://bravopuzzleawards.com/), which uses an identical tech stack.
+
 ## Contact me
 
 I'm not looking to be contacted, but if there is something you want to reach out to me about, then you can find me at altmetaterminal at gmail dot com.
