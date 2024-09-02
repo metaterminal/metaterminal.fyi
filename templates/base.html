@@ -27,6 +27,7 @@
 
       gtag('config', 'G-FEQBS4K6BB');
     </script>
+
   </head>
   <body>
     <nav>
@@ -38,9 +39,40 @@
         <li><a href="{{ get_url(path='@/about.md') }}">About</a></li>
       </ul>
     </nav>
+
+    <div id="scroll-progress">
+      <span class="progress-bar"></span>
+    </div>
+
+    <script>
+      // Function to update the progress bar
+      function updateProgressBar() {
+        const scrollProgress = document.getElementById("scroll-progress");
+        const scrollTop = window.scrollY || document.documentElement.scrollTop;
+        const docHeight = document.documentElement.scrollHeight;
+        const winHeight = window.innerHeight;
+        const height = docHeight - winHeight;
+
+        if (height > 0) {
+          const scrollPercent = (scrollTop / height) * 100;
+          scrollProgress.style.width = `${Math.min(scrollPercent, 100)}%`;
+        } else {
+          // Handle case where there's no scrollable content
+          scrollProgress.style.width = '0%';
+        }
+      }
+
+      // Attach scroll event listener
+      window.addEventListener("scroll", updateProgressBar);
+
+      // Initialize progress bar on page load
+      document.addEventListener("DOMContentLoaded", updateProgressBar);
+    </script>
+
     <header>
       {% block header %} {% endblock %}
     </header>
+
     <main>
       {% block content %} {% endblock %}
     </main>

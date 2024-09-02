@@ -123,3 +123,13 @@ body > nav {
 body > footer {
   margin-top: auto;
 }
+
+#scroll-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 4px;
+  background: #f7741d;
+  z-index: 10000;
+}
