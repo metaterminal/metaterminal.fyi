@@ -38,6 +38,18 @@ body > nav {
   transition: background-color 0.5s ease, color 0.5s ease;
 }
 
+@media (max-width:600px) {
+  body > nav {
+    line-height: 1.45;
+  }
+
+  nav > ul {
+    width: 75%;
+    display: block;
+  }
+
+}
+
 body {
   font-family: sans-serif;
   font-weight: 100;
@@ -57,7 +69,6 @@ button {
   border: 2px solid var(--highlight);
   border-radius: 6px;
   transition: background-color 0.5s ease, color 0.5s ease;
-  margin-bottom: 5px;
 }
 
 p {margin-bottom: 1rem;}
