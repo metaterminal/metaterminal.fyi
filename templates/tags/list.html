@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block head %}
+<style>
+  body {
+    font-family: Hack;
+    line-height: 1.5;
+  }
+  main {
+    text-align: left;
+    padding: 2ch;
+  }
+  header {
+    margin-bottom: 1.5rem;
+  }
+  h1 {
+    margin-bottom: .5rem;
+  }
+</style>
+{% endblock head %}
+
+{% block header %}
+  <h1 class="title">Tags</h1>
+{% endblock header %}
+
+{% block content %}
+<main>
+  <p class="subtitle">{{ terms | length }} tags in total</p>
+
+  <ul>
+    {% for tag in terms %}
+    <li>
+    <a href="{{ get_taxonomy_url(kind='tags', name=tag.name) }}">{{tag.name}}</a> - {{ tag.pages | length }}
+    {% endfor %}
+    </li>
+  </ul>
+</main>
+{% endblock content %}

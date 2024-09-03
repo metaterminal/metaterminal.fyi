@@ -196,3 +196,7 @@ body > footer {
   background: var(--rich-highlight);
   z-index: 10000;
 }
+
+.subtitle, .tags {
+  margin-left: 0.5em;
+}

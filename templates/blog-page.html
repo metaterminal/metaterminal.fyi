@@ -23,7 +23,11 @@
 <main>
   <article>
       <h1 class="title">{% if page.extra.display_title %}{{ page.extra.display_title | markdown(inline=true) | safe }}{% else %}{{ page.title }}{% endif %}</h1>
-      <p class="subtitle"><strong>{{ page.date | date(format="%B %d, %Y") }}</strong></p>
+      <div class="subtitle"><span><strong>{{ page.date | date(format="%B %d, %Y") }}</strong></span> 
+        &nbsp;
+        {% if page.taxonomies.tags %}
+        {{ macros::render_tags(tags=page.taxonomies.tags) }}
+        {% endif %}</div>
 
       {{ page.content | safe }}
   </article>

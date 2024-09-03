@@ -11,6 +11,9 @@
   {% for page in section.pages %}
   <li>
     <a href="{{ page.permalink | safe }}">{% if page.extra.display_title %}{{ page.extra.display_title | markdown(inline=true) | safe }}{% else %}{{ page.title }}{% endif %} ({{ page.date }})</a>
+    <div>{% if page.taxonomies.tags %}
+      {{ macros::render_tags(tags=page.taxonomies.tags) }}
+      {% endif %}</div>
     <p>{{ page.summary | safe }}</p>
   </li>
   {% endfor %}

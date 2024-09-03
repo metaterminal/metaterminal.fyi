@@ -1,0 +1,8 @@
+{% macro render_tags(tags) %}
+<span>
+  Tags:
+  {% for tag in tags %}
+  <a class="has-text-info-dark has-text-weight-semibold" href="{{ get_taxonomy_url(kind='tags', name=tag) }}"><span>{{tag}}</span></a>
+  {% endfor %}
+</span>
+{% endmacro %}

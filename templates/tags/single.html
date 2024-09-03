@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+
+{% block head %}
+<style>
+    body {
+      font-family: Hack;
+      line-height: 1.5;
+    }
+    main {
+      width: 80ch;
+      padding: 2ch;
+    }
+    header {
+      margin-bottom: 1.5rem;
+    }
+    h1 {
+      margin-bottom: .5rem;
+    }
+</style>
+{% endblock head %}
+
+{% block header %}
+<header>
+  <h1 class="title">Tag: {{ term.name }}</h1>
+</header>
+{% endblock %}
+
+{% block content %}
+<main>
+{% if paginator %}
+{% set pages = paginator.pages %}
+{% else %}
+{% set pages = term.pages %}
+{% endif %}
+
+<ul>
+    {% for page in pages %}
+    <li>
+      <a href="{{ page.permalink | safe }}">{% if page.extra.display_title %}{{ page.extra.display_title | markdown(inline=true) | safe }}{% else %}{{ page.title }}{% endif %} ({{ page.date }})</a>
+      <div>{% if page.taxonomies.tags %}
+        {{ macros::render_tags(tags=page.taxonomies.tags) }}
+        {% endif %}</div>
+      <p>{{ page.summary | safe }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+
+</main>
+{% endblock content %}

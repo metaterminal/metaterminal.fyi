@@ -1,6 +1,9 @@
 +++
 title = "Single points of failure"
 date = 2023-05-25
+
+[taxonomies]
+tags = ["puzzles","recap","bph"]
 +++
 
 > *This the first of an expected three posts about Brown Puzzlehunt.*
