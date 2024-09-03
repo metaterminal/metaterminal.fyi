@@ -3,6 +3,7 @@
   --color: white;
   --highlight: #ff8a3c;
   --rich-highlight: #f7741d;
+  transition: background-color 0.5s ease, color 0.5s ease;
 }
 
 /* Light mode */
@@ -11,6 +12,7 @@ body.light-mode {
   --color: black;
   --highlight: #023dff;
   --rich-highlight: #3c69ff;
+  transition: background-color 0.5s ease, color 0.5s ease;
 }
 
 html {
@@ -33,6 +35,7 @@ tml {
 
 body > nav {
   background: var(--background);
+  transition: background-color 0.5s ease, color 0.5s ease;
 }
 
 body {
@@ -45,6 +48,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: calc(100vh - 2em);
+  transition: background-color 0.5s ease, color 0.5s ease;
 }
 
 button {
@@ -52,6 +56,7 @@ button {
   color: var(--color);
   border: 2px solid var(--highlight);
   border-radius: 6px;
+  transition: background-color 0.5s ease, color 0.5s ease;
 }
 
 p {margin-bottom: 1rem;}
@@ -97,6 +102,7 @@ main {
 
 header, footer, nav, h1, h2, h3, h4, h5, h6 {
   font-family: 'Hack', monospace;
+  transition: background-color 0.5s ease, color 0.5s ease;
 }
 
 #header-sigil {
