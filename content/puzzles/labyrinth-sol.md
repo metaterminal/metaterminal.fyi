@@ -3,6 +3,8 @@ title = "The God of the Labyrinth - A Solution"
 date = 2024-09-02
 +++ 
 
+> Some notes on hidden aspects on the store *The God of the Labyrinth*, as noted by the author Herbert Quain. Republished with permission.
+
 It is uncommon for an author to pen an explanation of their work. Necessarily, I think, the development of matters belongs very much to you, and not very much so to myself – to that end I shall say nothing on the identity, character, or humanity of R. Likewise on the nature of the mistake of the Watson (for whom we should afford a degree of understanding, if not kindness.) I wrote according to my own beliefs on what had happened. Those beliefs are mine alone. You are afforded yours.
 
 However, there are components of the narrative which are not debatable, but instead can be discerned in the manner of a detective. I thought it best to pen a solution as to how one may arrive at certain truths. In particular, these papers will outline the calculation of the name of the victim.

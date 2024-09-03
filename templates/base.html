@@ -28,6 +28,10 @@
       gtag('config', 'G-FEQBS4K6BB');
     </script>
 
+    <script>
+      
+    </script>
+
   </head>
   <body>
     <nav>
@@ -38,6 +42,49 @@
         <li><a href="{{ get_url(path='@/updates.md') }}">Updates</a></li>
         <li><a href="{{ get_url(path='@/about.md') }}">About</a></li>
       </ul>
+      <button id="mode-toggle">☀️</button>
+      <script>
+document.addEventListener('DOMContentLoaded', () => {
+    const toggleButton = document.getElementById('mode-toggle');
+    const body = document.body;
+
+    // Load the saved theme from localStorage
+    const loadTheme = () => {
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme === 'light') {
+            body.classList.add('light-mode');
+            toggleButton.textContent = '🌙';
+        } else {
+            body.classList.remove('light-mode');
+            toggleButton.textContent = '☀️';
+        }
+    };
+
+    // Save the current theme to localStorage
+    const saveTheme = (theme) => {
+        localStorage.setItem('theme', theme);
+    };
+
+    // Toggle the theme between light and dark mode
+    const toggleTheme = () => {
+        if (body.classList.contains('light-mode')) {
+            body.classList.remove('light-mode');
+            saveTheme('dark');
+            toggleButton.textContent = '☀️';
+        } else {
+            body.classList.add('light-mode');
+            saveTheme('light');
+            toggleButton.textContent = '🌙';
+        }
+    };
+
+    // Set up event listener for the button
+    toggleButton.addEventListener('click', toggleTheme);
+
+    // Initialize the theme when the page loads
+    loadTheme();
+});
+      </script>
     </nav>
 
     <div id="scroll-progress">
