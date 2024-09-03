@@ -6,12 +6,20 @@
   transition: background-color 0.5s ease, color 0.5s ease;
 }
 
+body.dark-mode {
+  --background: #181818;
+  --color: white;
+  --highlight: #ff8a3c;
+  --rich-highlight: #f7741d;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
 /* Light mode */
 body.light-mode {
   --background: #fcfcfb;
   --color: black;
-  --highlight: #023dff;
-  --rich-highlight: #3c69ff;
+  --highlight: #1392c4;
+  --rich-highlight: #0883b4;
   transition: background-color 0.5s ease, color 0.5s ease;
 }
 
