@@ -1,6 +1,6 @@
 +++
 title = "Recent updates"
-template = "content.html"
+date = "2024-02-09"
 +++
 
 This is a page to document the updates to this site and when they happened.
