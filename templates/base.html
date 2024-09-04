@@ -55,8 +55,10 @@ document.addEventListener('DOMContentLoaded', () => {
         const savedTheme = localStorage.getItem('theme');
         if (savedTheme === 'light') {
             body.classList.add('light-mode');
+            body.classList.remove('dark-mode');
             toggleButton.textContent = '🌙';
         } else {
+          body.classList.add('dark-mode');
             body.classList.remove('light-mode');
             toggleButton.textContent = '☀️';
         }
@@ -71,10 +73,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const toggleTheme = () => {
         if (body.classList.contains('light-mode')) {
             body.classList.remove('light-mode');
+            body.classList.add('dark-mode');
             saveTheme('dark');
             toggleButton.textContent = '☀️';
         } else {
             body.classList.add('light-mode');
+            body.classList.remove('dark-mode');
             saveTheme('light');
             toggleButton.textContent = '🌙';
         }
