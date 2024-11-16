@@ -9,6 +9,31 @@ I like puzzles, and sometimes I write them. Over the years, I've written quite a
 
 I have marked a few puzzles that I am particularly proud of in *italics*.
 
+### MIT Mystery Heist (2024)
+
+[MIT Mystery Heist](https://mitmysteryheist.com) was a set of puzzles written by the Providence Crime Syndication, as a prelude to the [2025 MIT Mystery Hunt](https://www.mitmh2025.com/).
+
+I worked on (i.e. helped fix) the post-production of puzzles for the website, and wrote for [kickoff](https://drive.google.com/file/d/1yySMY0nkYXhKLaNrj6XVjvr0MU9ODGtc/view), the [conclusion](https://mitmysteryheist.com/Conclusion.pdf), and the other story bits.
+
+I also wrote these puzzles:
+
++ [*Interview Questions*](https://mitmysteryheist.com/puzzles/expert/interview/) (co-writer with Zach Barnett)
++ [Detour de Force](https://mitmysteryheist.com/puzzles/expert/supermeta/) (metapuzzle; co-writer with many others)
+
+### Brown Orientation Hunt (2024)
+
+This was small puzzle packet written for New Student Orientation at Brown in September.
+
++ [Moth Evolution Kit](https://brownpuzzle.club/archive/orientation2024.pdf)
+
+### Providence Potluck (2024)
+
+Providence, the team I currently hunt with for the MIT Mystery Hunt, ran some internal potlucks where we wrote puzzles for each other. This is the puzzle I wrote for the July potluck.
+
+(Formatting by Ricky Cruz.)
+
++ [Fitting Things In](https://docs.google.com/document/d/1ymekiz__xmrgw7yJyjt134ozkUa-7IzX14my_xCMo7Y/edit?tab=t.0)
+
 ### Brown Puzzlehunt (2024)
 
 [Brown Puzzlehunt](https://www.brownpuzzlehunt.com) was an in-person puzzlehunt, located in Providence, Rhode Island. I acted as Puzzle Construction Director, and so had editorial input on many puzzles, but I am listed as an author on:
