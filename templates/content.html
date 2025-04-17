@@ -1,14 +1,33 @@
 {% extends "base.html" %}
 
-{% block header %}
-  <h1 class="title">{% if page.extra.display_title %}{{ page.extra.display_title | markdown(inline=true) | safe }}{% else %}{{ page.title }}{% endif %}</h1>
-
-  {% if page.extra.publish_note %}
-  <em>{{ page.extra.publish_note | markdown | safe }}</em>
-  {% endif %}
-{% endblock header %}
-
+{% block head %}
+<style>
+  body {
+    font-family: Hack;
+    line-height: 1.5;
+  }
+  main {
+    max-width: 80ch;
+    padding: 2ch;
+    margin: auto;
+  }
+  header {
+    margin-bottom: 1.5rem;
+  }
+  h1 {
+    margin-bottom: .5rem;
+}
+</style>
+{% endblock head %}
 
 {% block content %}
-{{ page.content | safe }}
+<main>
+  <h1 class="title">{% if page.extra.display_title %}{{ page.extra.display_title | markdown(inline=true) | safe }}{% else %}{{ page.title }}{% endif %}</h1>
+
+    {% if page.extra.publish_note %}
+    <em>{{ page.extra.publish_note | markdown | safe }}</em>
+    {% endif %}
+
+  {{ page.content | safe }}
+</main>
 {% endblock %}

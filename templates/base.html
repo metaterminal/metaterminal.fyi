@@ -35,14 +35,13 @@
     </script>
 
   </head>
-  <body>
+  <body class="{{ page.slug | default(value='home') }}">
     <nav>
       <ul>
         <li><a href="{{ get_url(path='') }}">Home</a></li>
         <li><a href="{{ get_url(path='@/blog/_index.md') }}">Articles</a></li>
         <li><a href="{{ get_url(path='@/fiction/_index.md') }}">Fiction</a></li>
         <li><a href="{{ get_url(path='@/puzzles/_index.md') }}">Puzzles</a></li>
-        <li><a href="{{ get_url(path='@/about.md') }}">About</a></li>
         <li><button id="mode-toggle">☀️</button></li>
       </ul>
       <script>

@@ -1,27 +1,7 @@
 {% extends "base.html" %}
-{% block head %}
-<style>
-  body {
-    font-family: Hack;
-    line-height: 1.5;
-  }
-  main {
-    max-width: 80ch;
-    padding: 2ch;
-    margin: auto;
-  }
-  header {
-    margin-bottom: 1.5rem;
-  }
-  h1 {
-    margin-bottom: .5rem;
-}
-</style>
-{% endblock head %}
 
 {% block content %}
 <main>
-  <article>
       <h1 class="title">{% if page.extra.display_title %}{{ page.extra.display_title | markdown(inline=true) | safe }}{% else %}{{ page.title }}{% endif %}</h1>
       <div class="subtitle"><span><strong>{{ page.date | date(format="%B %d, %Y") }}</strong></span> 
         &nbsp;
@@ -30,6 +10,5 @@
         {% endif %}</div>
 
       {{ page.content | safe }}
-  </article>
 </main>
 {% endblock content %}

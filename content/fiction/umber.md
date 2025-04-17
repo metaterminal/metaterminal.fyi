@@ -3,7 +3,7 @@ title = "The Hidden Book Within 'An Umber Coin'"
 date = 2024-02-15
 +++
 
-Arthur Salenci’s *An Umber Coin*, published in 1932, has widely been hailed as one of the most transformative and revolutionary works in English literature, significantly recontextualising the post-war writing scene and laying the groundwork for much of modern fantasy.<!-- more --> The book’s importance is commonly accepted, and deserves little analysis here. Much has been made of its many facets, from its strange blends of folklore, to the use of rhyme and song; readers interested in examinations of these will naturally find rich veins of work elsewhere.
+Arthur Salenci’s *An Umber Coin*, published in 1932, has widely been hailed as one of the most transformative and revolutionary works in English literature, significantly recontextualising the post-war writing scene and laying the groundwork for much of modern fantasy<!-- more -->. The book’s importance is commonly accepted, and deserves little analysis here. Much has been made of its many facets, from its strange blends of folklore, to the use of rhyme and song; readers interested in examinations of these will naturally find rich veins of work elsewhere.
 
 What I intend to examine is instead a particular thematic object, which on first pass seems almost wholly irrelevant. Items are crucial in *An Umber Coin*; swords, cups, and coins move throughout. Great battles are won and lost on the possession of certain tokens. In light of this, the focus of my writing here may seem strange: a recurring book, which takes many appearances throughout, which easily blends into the scenery. But this obscure text is, in fact, read by many characters throughout the epic.
 

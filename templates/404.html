@@ -1,6 +1,8 @@
 {% extends "index.html" %}
 
-{% block maintext %}
-<h2>Error 404</h2>
-<p>I can't seem to find this...</p>
-{% endblock maintext %}
+{% block content %}
+<h2 style="text-align: center">Error 404</h2>
+<p>I can't seem to find this... Either the link you clicked on was broken, or you typed something incorrectly into your address bar.</p>
+
+<p>Consider returning <a href="{{ get_url(path='') }}">home</a>?</p>
+{% endblock content %}

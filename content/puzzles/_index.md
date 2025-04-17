@@ -9,6 +9,12 @@ I like puzzles, and sometimes I write them. Over the years, I've written quite a
 
 I have marked a few puzzles that I am particularly proud of in *italics*.
 
+### Brown Puzzlehunt (2025)
+
+[Brown Puzzlehunt](https://www.brownpuzzlehunt.com/) was two puzzlehunts in a trenchcoat: an in-person puzzlehunt located in Providence, Rhode Island, with physical puzzles, events, and a runaround; and a fully remote online-only puzzlehunt run one week later.
+
+I acted as Puzzle Director, with final editorial say on all puzzles in the hunt. I also wrote a number of puzzles, and helped the technical team with some web development and puzzle post-production.
+
 ### MIT Mystery Heist (2024)
 
 [MIT Mystery Heist](https://mitmysteryheist.com) was a set of puzzles written by the Providence Crime Syndication, as a prelude to the [2025 MIT Mystery Hunt](https://www.mitmh2025.com/).
@@ -36,14 +42,16 @@ Providence, the team I currently hunt with for the MIT Mystery Hunt, ran some in
 
 ### Brown Puzzlehunt (2024)
 
-[Brown Puzzlehunt](https://www.brownpuzzlehunt.com) was an in-person puzzlehunt, located in Providence, Rhode Island. I acted as Puzzle Construction Director, and so had editorial input on many puzzles, but I am listed as an author on:
+[Brown Puzzlehunt](https://2024.brownpuzzlehunt.com) was an in-person puzzlehunt, located in Providence, Rhode Island. 
 
-+ [The Flowers](https://www.brownpuzzlehunt.com/puzzle/flowers) (both versions) (co-writer)
+I acted as Puzzle Construction Director, and so had editorial input on many puzzles, but I am listed as an author on:
+
++ [The Flowers](https://2024.brownpuzzlehunt.com/puzzle/flowers) (both versions) (co-writer)
 + [*The God of the Labyrinth*](../fiction/labyrinth/)
-+ [The Nomenclept](https://www.brownpuzzlehunt.com/puzzle/nomenclept-puzz) (both versions) (metapuzzles; co-writer)
-+ [The Case of the Colored Thread](https://www.brownpuzzlehunt.com/majorcase/colored-thread) (metapuzzle; co-writer)
-+ [The Case of Social Deduction](https://www.brownpuzzlehunt.com/majorcase/social-deduction) (metapuzzle; co-writer)
-+ [The Case of the Data](https://www.brownpuzzlehunt.com/majorcase/data) (metapuzzle; co-writer)
++ [The Nomenclept](https://2024.brownpuzzlehunt.com/puzzle/nomenclept-puzz) (both versions) (metapuzzles; co-writer)
++ [The Case of the Colored Thread](https://2024.brownpuzzlehunt.com/majorcase/colored-thread) (metapuzzle; co-writer)
++ [The Case of Social Deduction](https://2024.brownpuzzlehunt.com/majorcase/social-deduction) (metapuzzle; co-writer)
++ [The Case of the Data](https://2024.brownpuzzlehunt.com/majorcase/data) (metapuzzle; co-writer)
 
 I don't know why they all ended up with titles starting with 'the'. It's a funny coincidence.
 

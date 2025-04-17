@@ -3,9 +3,9 @@ title = "The God of the Labyrinth - A Republication"
 date = 2024-04-13
 +++
 
-> A reprinting of Herbert Quain's original 1933 classic. You can view a scan of the original version [here](https://www.brownpuzzlehunt.com/puzzle/labyrinth-puzz).
+> A reprinting of Herbert Quain's original 1933 classic. Republished with permission.
 
-> You can read the solution [here](/puzzles/labyrinth-sol).
+> You can view a scan of the original version [here](https://www.brownpuzzlehunt.com/puzzle/labyrinth-puzz). You can read the solution [here](/puzzles/labyrinth-sol).
 
 <!-- more -->
 

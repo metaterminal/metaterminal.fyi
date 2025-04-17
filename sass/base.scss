@@ -22,6 +22,24 @@ body.light-mode {
   transition: background-color 0.5s ease, color 0.5s ease;
 }
 
+/* Special stuff for Dude Spotter*/
+
+body.dude-spotter.dark-mode {
+  --background: #EFEFEF;
+  --color: black;
+  --highlight: black;
+  --rich-highlight: black;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+body.dude-spotter.light-mode {
+  --background: #ffffff;
+  --color: black;
+  --highlight: black;
+  --rich-highlight: black;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
 html {
     margin: 0em;
     font-size: 16px;
@@ -74,7 +92,7 @@ body > nav {
 body {
   font-family: sans-serif;
   font-weight: 100;
-  line-height: 1.75;
+  line-height: 1.5;
   color: var(--color);
   background: var(--background);
   margin: 1em;
@@ -82,6 +100,7 @@ body {
   flex-direction: column;
   min-height: calc(100vh - 2em);
   transition: background-color 0.5s ease, color 0.5s ease;
+  font-family: Hack;
 }
 
 button {
@@ -103,6 +122,7 @@ h1, h2, h3, h4, h5 {
 
 h1 {
   margin-top: 0.5em;
+  margin-bottom: .5rem;
   font-size: 3.052rem;
 }
 
@@ -118,15 +138,21 @@ a {
   color: var(--highlight);
   text-decoration: none;
   outline: 0;
+  text-decoration: underline dotted;
 
-  &:hover { text-decoration: underline dotted; }
+  &:hover { 
+    text-decoration: underline solid;
+    font-weight: bold; 
+  }
 }
 
 small, .text_small { font-size: 0.8rem; }
 
 main {
-  margin: 0 auto;
-  max-width: 50em;
+  max-width: 80ch;
+  padding: 2ch;
+  margin: auto;
+  flex-grow: 1;
 }
 
 * {
@@ -197,4 +223,20 @@ body > footer {
 
 .subtitle, .tags {
   margin-left: 0.5em;
+}
+
+.emphasis {
+  color: var(--highlight);
+}
+
+.container {
+  margin: 0;
+  padding: 40px;   /* Keeps text away from screen edges */
+  box-sizing: border-box;
+  left: 0;
+  right: 0;
+}
+
+.centered {
+  text-align: center;
 }

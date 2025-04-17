@@ -1,25 +1,25 @@
 {% extends "base.html" %}
 
-{% block header %}
-<h1 class="title">
-  {{ section.title }}
-</h1>
-{% endblock header %}
-
 {% block content %}
-<div style="text-align:center;">
-  <p><i>See just the posts about:</i> <a href="/tags/puzzles">puzzles</a> <a href="/tags/mischief">mischief</a> <a href="/tags/software">software</a></p>
-</div>
-<ul>
-  {% for page in section.pages %}
-  <li>
-    <a href="{{ page.permalink | safe }}">{% if page.extra.display_title %}{{ page.extra.display_title | markdown(inline=true) | safe }}{% else %}{{ page.title }}{% endif %} ({{ page.date }})</a>
-    <div>{% if page.taxonomies.tags %}
-      {{ macros::render_tags(tags=page.taxonomies.tags) }}
-      {% endif %}</div>
-    <p>{{ page.summary | safe }}</p>
-  </li>
-  {% endfor %}
-</ul>
+<main>
+  <h1 class="centered">
+    {{ section.title }}
+  </h1>
 
+  <div class="centered">
+    <p><i>See just the posts about:</i> <a href="/tags/puzzles">puzzles</a> <a href="/tags/mischief">mischief</a> <a href="/tags/analysis">analysis</a></p>
+  </div>
+  <ul>
+    {% for page in section.pages %}
+    <li>
+      <a href="{{ page.permalink | safe }}">{% if page.extra.display_title %}{{ page.extra.display_title | markdown(inline=true) | safe }}{% else %}{{ page.title }}{% endif %} ({{ page.date }})</a>
+      <div>{% if page.taxonomies.tags %}
+        {{ macros::render_tags(tags=page.taxonomies.tags) }}
+        {% endif %}</div>
+      <p>{{ page.summary | safe }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+
+</main>
 {% endblock content %}
