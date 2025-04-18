@@ -3,7 +3,7 @@ title = "It snowed today"
 date = 2024-01-07
 +++
 
-When I was younger, there was a railway line that ran past my school<!-- more -->. You could see it, if you went to the very edge of the play area and stuck your face between the bars of the fence; distant, perhaps a hundred meters away, on the other side of a small valley, but no less interesting for its inaccessibility. Its existence would usually pass without comment, but there were two kinds of things that would make it stand out to me.
+When I was younger, there was a railway line that ran past my school.<!-- more --> You could see it, if you went to the very edge of the play area and stuck your face between the bars of the fence; distant, perhaps a hundred meters away, on the other side of a small valley, but no less interesting for its inaccessibility. Its existence would usually pass without comment, but there were two kinds of things that would make it stand out to me.
 
 The first was a passenger train, which had a soft and steady rumbling, the repetitive clicking of passing souls. I didn't usually watch them. They were long and doughy, with rounded corners, dressed in blue and yellow plastic that invited neither admiration nor scorn. I had not yet ridden on one (that is another story), but I knew from a young age what they looked like. They came often. For a long time, the open and goggle-eyed face of the Auckland Transport Metro train was my only conception of a Train.
 
