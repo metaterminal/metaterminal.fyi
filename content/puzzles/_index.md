@@ -11,9 +11,14 @@ I have marked a few puzzles that I am particularly proud of in *italics*.
 
 ### Brown Puzzlehunt (2025)
 
-[Brown Puzzlehunt](https://www.brownpuzzlehunt.com/) was two puzzlehunts in a trenchcoat: an in-person puzzlehunt located in Providence, Rhode Island, with physical puzzles, events, and a runaround; and a fully remote online-only puzzlehunt run one week later.
+[Brown Puzzlehunt](https://www.brownpuzzlehunt.com/) was two puzzlehunts in a trenchcoat: 
+
+1) an in-person puzzlehunt located in Providence, Rhode Island, with physical puzzles, events, and a runaround; and
+2) a fully remote online-only puzzlehunt, ran one week later.
 
 I acted as Puzzle Director, with final editorial say on all puzzles in the hunt. I also wrote a number of puzzles, and helped the technical team with some web development and puzzle post-production.
+
+(Links to the puzzles I wrote are forthcoming.)
 
 ### MIT Mystery Heist (2024)
 
