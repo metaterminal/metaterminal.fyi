@@ -181,7 +181,7 @@ Upon closer inspection they were well-oiled hinges, mostly hidden under the bulk
 
 R was watching closely. I admit that I had a hope that my discovery would surprise her in some way. Instead she gave a tiny gesture of the hand as if to say, Open it. With my other hand I explored the frame on the opposite side, and found a latch. The slightest pressure swung the painting, revealing a passage set into the wall.
 
-“My god!” said the Prefect. In my fascination I had not paid attention to the others, and only then did their crowding around become apparent. I was unsure how to proceed; but with another gesture from R, I climbed through the portal, and into another room.
+“My God!” said the Prefect. In my fascination I had not paid attention to the others, and only then did their crowding around become apparent. I was unsure how to proceed; but with another gesture from R, I climbed through the portal, and into another room.
 
 Whether by someone’s touch or by counterweight the painting swung back into place behind me, leaving me in a new part of the Labyrinth. It was a low, bright room, illuminated by windows on the exterior walls and more glass above – skylights, I thought, except they took up most of the ceiling. Plants stood watch on all sides. The floor was dusty, and a set of footprints led from where I was standing to the center of the room. Aside from the cramped passage in the wall behind me, there was no other way out.
 
