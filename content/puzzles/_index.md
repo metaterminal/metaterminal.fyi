@@ -18,7 +18,27 @@ I have marked a few puzzles that I am particularly proud of in *italics*.
 
 I acted as Puzzle Director, with final editorial say on all puzzles in the hunt. I also wrote a number of puzzles, and helped the technical team with some web development and puzzle post-production.
 
-(Links to the puzzles I wrote are forthcoming.)
++ [A Fistful of Cards](https://www.brownpuzzlehunt.com/) sequence, particularly II (co-writer)
++ [Heist](https://www.brownpuzzlehunt.com/) sequence, particularly I and IV (co-writer)
++ [Drop the...](https://www.brownpuzzlehunt.com/) (metapuzzle; co-writer)
++ [Find Ben](https://www.brownpuzzlehunt.com/)
++ [Walk of Fame](https://www.brownpuzzlehunt.com/)
++ [Balloon Animals](https://www.brownpuzzlehunt.com/) (metapuzzle; co-writer)
++ [Connect the Dots](https://www.brownpuzzlehunt.com/) (co-writer)
++ [Peanuts](https://www.brownpuzzlehunt.com/) (co-writer)
++ [Plagiarism](https://www.brownpuzzlehunt.com/) (co-writer)
++ [Two Guards, Two Doors, A Boat, A River, and A Cabbage](https://www.brownpuzzlehunt.com/) (co-writer)
++ [Boring Plot](https://www.brownpuzzlehunt.com/) (metapuzzle; co-writer)
++ [Blueno's Puzzle Box (Remote Version)](https://www.brownpuzzlehunt.com/)
++ [Eye Spy](https://www.brownpuzzlehunt.com/) (co-writer)
++ [One Guard, Two Doors, and A Screen](https://www.brownpuzzlehunt.com/) (co-writer)
++ [Cutting Room Floor](https://www.brownpuzzlehunt.com/) (metapuzzle; co-writer)
++ [Color Wheel](https://www.brownpuzzlehunt.com/) (metapuzzle)
++ [Constellation](https://www.brownpuzzlehunt.com/) (metapuzzle; co-writer)
++ [Eye-to-Eye](https://www.brownpuzzlehunt.com/) (metapuzzle; co-writer)
++ [Fridge Magnets](https://www.brownpuzzlehunt.com/) (metapuzzle; co-writer)
++ [Like Clockwork](https://www.brownpuzzlehunt.com/) (metapuzzle; co-writer)
++ [The Compact Disc](https://www.brownpuzzlehunt.com/) (metapuzzle; co-writer)
 
 ### MIT Mystery Heist (2024)
 
