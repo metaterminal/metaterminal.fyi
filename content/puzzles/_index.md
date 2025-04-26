@@ -40,6 +40,12 @@ I acted as Puzzle Director, with final editorial say on all puzzles in the hunt.
 + [Like Clockwork](https://www.brownpuzzlehunt.com/puzzle/like-clockwork) (metapuzzle; co-writer)
 + [The Compact Disc](https://www.brownpuzzlehunt.com/puzzle/the-compact-disc) (metapuzzle; co-writer)
 
+### CMU Soup Hunt (Spring 2025)
+
+Due to odd circumstance, I was an uncredited co-author for one puzzle in this hunt.
+
++ [A Local Knowledge Puzzle](https://puzzlehunt.club.cc.cmu.edu/puzzle/28001/view/) (co-writer with Ryan Judge)
+
 ### MIT Mystery Heist (2024)
 
 [MIT Mystery Heist](https://mitmysteryheist.com) was a set of puzzles written by the Providence Crime Syndication, as a prelude to the [2025 MIT Mystery Hunt](https://www.mitmh2025.com/).
