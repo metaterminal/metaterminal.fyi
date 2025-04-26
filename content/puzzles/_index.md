@@ -42,7 +42,7 @@ I acted as Puzzle Director, with final editorial say on all puzzles in the hunt.
 
 ### CMU Soup Hunt (Spring 2025)
 
-Due to odd circumstance, I was an uncredited co-author for one puzzle in this hunt.
+Due to odd circumstance, I was an uncredited writer on one puzzle in this hunt.
 
 + [A Local Knowledge Puzzle](https://puzzlehunt.club.cc.cmu.edu/puzzle/28001/view/) (co-writer with Ryan Judge)
 
