@@ -221,11 +221,9 @@ The nature of the threat constantly changes. As such, it’s impossible to predi
 
 Even so, <b>you need to be the right person in the right place at the right time to avert disaster</b>. It is obviously impossible to know what and where that is ahead of time. Your first goal is to work that out.
 
-As long as you are not exposed, you can retry any major life choice and scout out any future event. You can embed yourself in companies, agencies, even governments, years before you need to operate there. It is common to dedicate decades of your life to make one tiny adjustment. You will most likely eventually find yourself in key positions of power. Be patient. Be cautious. Be exacting. <u><b>Do not get caught</b></u>.
+As long as you are not exposed, you can retry any major life choice and scout out any future event. You can embed yourself in companies, agencies, and even governments years before you need to operate there. It is common to dedicate decades of your life to one tiny adjustment. You will most likely find yourself in key positions of power. Be patient. Be cautious. Be exacting. <u><b>Do not get caught</b></u>.
 
 If you had dreams, a career, or a life path worked out before reading this, then I am genuinely, truly sorry.
-
-But someone trusted you with this incredible power. I think it’s safe to say it was for a good reason.
 
 You have been given the keys to humanity’s survival. 
 
