@@ -97,7 +97,7 @@ It takes place in the same canon as Shardhunt 0 (which has never been publicly r
 + [The Only Sanderson Puzzle](https://shardhunt.com/puzzle/the-only-sanderson-puzzle)
 + [Marked Books](https://shardhunt.com/puzzle/marked-books) (metapuzzle; co-writer)
 + [The State Puzzle](https://shardhunt.com/puzzle/state-puzzle) (co-writer)
-+ [*Pushing the Rules*](https://shardhunt.com/puzzle/pushing-the-rules) [^1]
++ [*Pushing the Rules*](https://shardhunt.com/puzzle/pushing-the-rules) <a class="footnote"><sup>1</sup><span>This puzzle won the Bravo Award for Best Interactive Puzzle of 2023!</span></a>
 + [It's Your Turn](https://shardhunt.com/puzzle/its-your-turn) (co-writer)
 + [Rovers](https://shardhunt.com/puzzle/rovers)
 + [Interplanetary Hopper](https://shardhunt.com/puzzle/interplanetary-hopper)
@@ -106,8 +106,6 @@ It takes place in the same canon as Shardhunt 0 (which has never been publicly r
 + [Through the Looking-Glass](https://shardhunt.com/puzzle/through-the-looking-glass)
 + [🔍🔍🔍](https://shardhunt.com/puzzle/magnifying-glasses) (co-writer)
 + [The Death of the Library](https://shardhunt.com/puzzle/death-of-the-library) (metapuzzle; co-writer)
-
-[^1] This puzzle won the Bravo Award for Best Interactive Puzzle of 2023!
 
 ### Brown Puzzlehunt (2023)
 

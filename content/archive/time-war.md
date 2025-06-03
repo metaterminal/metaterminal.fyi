@@ -3,7 +3,7 @@ title = "This Is How You Fight the Time War"
 date = 2025-06-01
 +++
 
-At some point in your relative future, usually between April and September 2009, British astrophysicist Stephen Hawking will host an open reception for time travellers. 
+At some point in your relative future, usually between April and September 2009, British astrophysicist Stephen Hawking will host an open reception for time travellers.
 
 Though it may be extremely tempting, <b><i>do not go under any circumstances</i></b>.
 
@@ -23,9 +23,10 @@ Do not read the rest of this document unless you are alone.
 
 While it is tempting to ground this with reference to popular culture, media unfortunately tends to change drastically between timelines. Thankfully we are predated by <i>The Time Machine</i>, and thus you should have a basic understanding of a) the concept of time travel by scientific means and b) some of the obvious pitfalls.
 
-Depending on the state of your timeline and your position within it, however, you may not understand the concept of a “time war”.[^1] The name is evocative, pithy, and extremely misleading. Most likely, you picture field soldiers with time machines; tactics being sent backwards to influence past events; and battles fought between the past and the future.
+Depending on the state of your timeline and your position within it, however, you may not understand the concept of a “time war”.<a class="footnote"><sup>1</sup><span>If it exists, I found <i>The Changing Men</i> by Fritz Leiber to be pretty instructive.</span></a> The name is evocative, pithy, and extremely misleading. Most likely, you picture field soldiers with time machines; tactics being sent backwards to influence past events; and battles fought between the past and the future.
 
 From a tactical perspective, this situation is more or less impossible. Put it this way: you have a machine which can remove your opponents’ ability to retaliate, <i>before they even know they’re fighting you</i>. You can prevent your opponents from ever developing similar technology, embed spies with years of real lived history, and alter any event of which you have sufficient knowledge. You can preempt any countermeasure and correct any mistake. A conflict where either one of the combatants has a time machine is always over before it starts. So if a time war is ever taking place, then something, somewhere, has gone horribly horribly wrong.
+
 
 Currently, a time war is taking place.
 
@@ -43,7 +44,7 @@ Before you follow any instructions, read this manual in its entirety. (That incl
 
 <p align=center><u><b>The nature of the conflict</b></u></p>
 
-Compared to conventional warfare, this is going to sound extremely strange. A better starting point might be guerilla warfare crossed with clandestine espionage. It might take you a few days to fully wrap your head around all of this; that is OK. 
+Compared to conventional warfare, this is going to sound extremely strange. (A better starting point might be guerilla warfare crossed with clandestine espionage.) It might take you a few days to fully wrap your head around all of this; that is OK. 
 
 Everything stems from one simple and unalterable fact: if an agent has their cover blown at any point, during or after their operation, then that agent is <i>and has always been</i> compromised. 
 
@@ -67,7 +68,7 @@ The good news is that, if you’re alive to read this, then you’ve probably no
 
 <p align=center><u><b>The nature of the enemy</b></u></p>
 
-Simply put, we have absolutely no idea who they are, though we do have an idea of their goals. My personal best guess is that they are an insular, secular, technofascist, highly accelerationist[^2] organization, with agents embedded at high levels of power.
+Simply put, we have absolutely no idea who they are, though we do have an idea of their goals. My personal best guess is that they are an insular, secular, technofascist, highly accelerationist<a class="footnote"><sup>2</sup><span>I don’t know what this means, but I’m leaving it in during this rewrite in case it means something to you.</span></a> organization, with agents embedded at high levels of power.
 
 Preferred vectors of attack seem to be nuclear detonations (with MAD sometimes observed), widespread plagues, accelerated ecological collapse, or any other potential mass-death scenarios. While global warming/climate change is occasionally a useful tool, it does not seem to be solely their fault. (That’s on us as a species.)
 
@@ -86,7 +87,7 @@ ADDENDUM: Some agents of the enemy have been successfully identified and elimina
 
 <p align=center><u><b>The nature of this manual</b></u></p>
 
-As much as we would like to be a cool secret time travel agency with a <i>How To</i> Guide To Time Travel, this is not one of those. This is, instead, a communally updated and edited document, which has been manually reviewed and disseminated by successive owners.[^3] Kind of like a Wikipedia page! [^4]
+As much as we would like to be a cool secret time travel agency with a <i>How To</i> Guide To Time Travel, this is not one of those. This is, instead, a communally updated and edited document, which has been manually reviewed and disseminated by successive owners.<a class="footnote"><sup>3</sup><span>Hence, I assume, the changes in vocabulary level, tone, and pronoun usage.</span></a> Kind of like a Wikipedia page!<a class="footnote"><sup>4</sup><span>I don’t know what this means either.</span></a>
 
 Not accounting for duplicates and branches, you are the <b>23rd person</b> to receive a version of this manual.
 
@@ -104,7 +105,7 @@ The second is, of course, that change is possible. You can kill not only your gr
 
 In reality, time travel is both. Changing the past is absolutely, certainly possible (as even the tiniest amount of experimentation will demonstrate.) Chaos theory is dominant here; small alterations can have huge impacts on long-term outcomes.
 
-However, with a certain level of setup, you can ensure that objects remain <i>causally stable</i>; modifications made to a current object will be reflected in the future object from the point of its arrival.[^5] (Our working theory is that this is just equivalent to a series of “divergent” timelines continuing until they settle into a deterministic, stable loop. See <u>Techniques – Causally Stable Loops</u>.)
+However, with a certain level of setup, you can ensure that objects remain <i>causally stable</i>; modifications made to a current object will be reflected in the future object from the point of its arrival.<a class="footnote"><sup>5</sup><span>Since I didn’t understand this as written: if you break the handle off a mug, the future version will have arrived broken, before you break it. No <i>Spaceman From Pluto</i> magic.</span></a> (Our working theory is that this is just equivalent to a series of “divergent” timelines continuing until they settle into a deterministic, stable loop. See <u>Techniques – Causally Stable Loops</u>.)
 
 This can be done with people.
 
@@ -126,7 +127,7 @@ Which is to say: the further into the timeline you are, the further backwards yo
 
 (See <u>Theory – Travel Curves</u> for more math I worked out on this.)
 
-Some deep-range research loops suggest this rule of thumb breaks down around 2030.[^6] No travel before 1954 has been recorded.
+Some deep-range research loops suggest this rule of thumb breaks down around 2030.<a class="footnote"><sup>6</sup><span>Surveys suggest that the Moore Plateau interferes at this point, although there must be a limiting factor that inhibits leapfrogging. (See <u>Techniques - Leapfrogging</u>.)</span></a> No travel before 1954 has been recorded.
 
 Forward travel is not possible. You have to go the slow way.
 
@@ -176,7 +177,7 @@ Good luck.
 
 - Sharing information with friends, family, and loved ones
 
-Unless — and this is extremely important — you trust them to never tell anyone <i>under any circumstances</i>. You are gambling on just their current self, but all possible versions of their future selves.[^7]
+Unless — and this is extremely important — you trust them to never tell anyone <i>under any circumstances</i>. You are gambling on not just their current self, but all possible versions of their future selves.<a class="footnote"><sup>7</sup><span>Spouses are especially dangerous.</span></a>
 
 From experience, you should consider holding up under torture as a criterion.
 
@@ -216,7 +217,7 @@ Let’s get to the obvious question: *what are we going to do about it?*
 
 This is how you fight the time war. You are a deep, deep cover agent with your entire natural life as a cover story. Through the very possession of this manual, you have been granted a magnitude of power on the order of multinational CEOs, military generals, and mid-sized countries. <b>Assuming that proper recruitment protocols have been followed</b>, you can be trusted with this power. You can and should use this to benefit yourself, yes... but, likewise, this comes with a great deal of responsibility.
 
-The nature of the threat constantly changes. As such, it’s impossible to predict what dimension the current conflict takes.[^8] 
+The nature of the threat constantly changes. As such, it’s impossible to predict what dimension the current conflict takes.<a class="footnote"><sup>8</sup><span>Though, given the contours of the 20th century, nuclear holocaust remains ever-present.</span></a>
 
 Even so, <b>you need to be the right person in the right place at the right time to avert disaster</b>. It is obviously impossible to know what and where that is ahead of time. Your first goal is to work that out.
 
@@ -253,22 +254,12 @@ Don’t let us down.
 
 </div>
 
-<br>
+<br><br>
 
-<p align=center><u><b>Footnotes (I)</b></u></p>
+***
 
-[^1] If it exists, I found *The Changing Men* by Fritz Leiber to be pretty instructive.
+***
 
-[^2] I don’t know what this means, but I’m leaving it in during this rewrite in case it means something to you.
+***
 
-[^3] Hence, I assume, the changes in vocabulary level, tone, and pronoun usage.
-
-[^4] I don’t know what this means either.
-
-[^5] Since I didn’t understand this as written: if you break the handle off a mug, the future version will have arrived broken, before you break it. No *Spaceman From Pluto* magic.
-
-[^6] Surveys suggest that the Moore Plateau interferes at this point, although there must be a limiting factor that inhibits leapfrogging. (See <u>Techniques - Leapfrogging</u>.)
-
-[^7] Spouses are especially dangerous.
-
-[^8] Though, given the contours of the 20th century, nuclear holocaust remains ever-present.
+With thanks to my beta readers: Julia Ceccarelli and the Seabird Writing Conference.
