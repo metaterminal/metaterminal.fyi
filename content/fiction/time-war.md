@@ -86,7 +86,7 @@ ADDENDUM: Some agents of the enemy have been successfully identified and elimina
 
 <p align=center><u><b>The nature of this manual</b></u></p>
 
-As much as we would like to be a cool secret time travel agency with a <i>How To</i> Guide To Time Travel, this is not one of those. This is, instead, a communally updated and edited document, which has been manually reviewed and disseminated by successive owners.[^3] Kind of like a Wikipedia page![^4]
+As much as we would like to be a cool secret time travel agency with a <i>How To</i> Guide To Time Travel, this is not one of those. This is, instead, a communally updated and edited document, which has been manually reviewed and disseminated by successive owners.[^3] Kind of like a Wikipedia page! [^4]
 
 Not accounting for duplicates and branches, you are the <b>23rd person</b> to receive a version of this manual.
 
