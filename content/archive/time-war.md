@@ -25,12 +25,12 @@ While it is tempting to ground this with reference to popular culture, media unf
 
 Depending on the state of your timeline and your position within it, however, you may not understand the concept of a “time war”.<a class="footnote"><sup>1</sup><span>If it exists, I found <i>The Changing Men</i> by Fritz Leiber to be pretty instructive.</span></a> The name is evocative, pithy, and extremely misleading. Most likely, you picture field soldiers with time machines; tactics being sent backwards to influence past events; and battles fought between the past and the future.
 
-From a tactical perspective, this situation is more or less impossible. Put it this way: you have a machine which can remove your opponents’ ability to retaliate, <i>before they even know they’re fighting you</i>. You can prevent your opponents from ever developing similar technology, embed spies with years of real lived history, and alter any event of which you have sufficient knowledge. You can preempt any countermeasure and correct any mistake. A conflict where either one of the combatants has a time machine is always over before it starts. So if a time war is ever taking place, then something, somewhere, has gone horribly horribly wrong.
+From a tactical perspective, this situation is more or less impossible. Put it this way: you have a machine which can remove your opponents’ ability to retaliate <i>before they even know they’re fighting you</i>. You can prevent them from ever developing similar technology, embed spies with years of real lived history, and alter any event of which you have sufficient knowledge. You can preempt any countermeasure and correct any mistake. A conflict where either of the combatants has a time machine is always over before it starts. So if a time war is ever taking place, then something, somewhere, has gone horribly horribly wrong.
 
 
 Currently, a time war is taking place.
 
-If you are reading this, then you (most likely) have been recruited to the cause. We apologize. If you do not wish to partake, then we recommend <i><b>destroying this manual immediately</b></i> and <i><b>never speaking of it to anyone, at any point in your life</b></i>. This is (most likely) your last chance to back out. If you keep this manual, but do not follow the instructions within, then there is a very real danger it will cause your death — and possibly the deaths of past or future loved ones.
+If you are reading this, then you (most likely) have been recruited to the cause. We apologize. If you do not wish to partake, then we recommend <i><b>destroying this manual immediately</b></i> and <i><b>never speaking of it to anyone at any point in your life</b></i>. This is (most likely) your last chance to back out. If you keep this manual, but do not follow the instructions within, then there is a very real danger it will cause your death — and possibly the deaths of past or future loved ones.
 
 However, if you have been recruited, then this means that you (most likely) demonstrate the following traits: high level of curiosity, an abundance of caution, sufficient intelligence to understand and act on this manual, and insufficient intelligence to have stopped reading. In all likelihood, your recruiter was a friend, family member, or your future self. Trust their decision. 
 
@@ -52,7 +52,7 @@ Consider the following situation. A spy works undercover for 40 years without de
 
 That spy, and anything they worked on, is entirely compromised  — from start to end, up and down the timeline. Because their movements can be traced, anyone that spy interacted with is also entirely compromised. The knock-on effect can unravel entire cells, networks, and agencies before they even exist.
 
-In order for a time war to exist long-term (see <u>Theory – Time Dimensionality</u>), then every single agent on both sides must be permanently and constantly deep undercover. There is no statute of limitations. There are no allies. There is no returning home from the front lines. 
+In order for a time war to occur long-term (see <u>Theory – Time Dimensionality</u>), then every single agent on both sides must be permanently and constantly deep undercover. There is no statute of limitations. There are no allies. There is no returning home from the front lines. 
 
 Comparisons to the Tsiolkovsky/Fermi/Hart Paradox, and the vicious jungle/dark forest theory, are instructive. There might be hundreds, thousands, even millions of operatives fighting this war all across the world, on either side... and none of us would have any way of knowing.
 
@@ -248,7 +248,7 @@ Don’t let us down.
 | Appendix C: | Making Money                        | 609 |
 | Appendix D: | Getting Away With Criminal Behavior &nbsp; &nbsp; &nbsp; | 751 |
 | Appendix E: | Withstanding Interrogation          | 786 |
-| Appendix F: &nbsp;&nbsp; | Survival in Mass Death Scenarios    | 820 |
+| Appendix F: &nbsp;&nbsp; | Survival in Mass-Death Scenarios    | 820 |
 
 </div>
 
