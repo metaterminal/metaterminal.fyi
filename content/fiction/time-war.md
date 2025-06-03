@@ -267,7 +267,7 @@ Don’t let us down.
 
 [^5] Since I didn’t understand this as written: if you break the handle off a mug, the future version will have arrived broken, before you break it. No *Spaceman From Pluto* magic.
 
-[^6] Long-range surveys suggest that the Moore Plateau interferes at this point, although there must be a limiting factor that inhibits leapfrogging. (See <u>Techniques - Leapfrogging</u>.)
+[^6] Surveys suggest that the Moore Plateau interferes at this point, although there must be a limiting factor that inhibits leapfrogging. (See <u>Techniques - Leapfrogging</u>.)
 
 [^7] Spouses are especially dangerous.
 
