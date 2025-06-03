@@ -27,16 +27,32 @@ body.light-mode {
 body.dude-spotter.dark-mode {
   --background: #EFEFEF;
   --color: black;
-  --highlight: black;
-  --rich-highlight: black;
+  --highlight: #ff8a3c;
+  --rich-highlight: #f7741d;
   transition: background-color 0.5s ease, color 0.5s ease;
 }
 
 body.dude-spotter.light-mode {
   --background: #ffffff;
   --color: black;
-  --highlight: black;
-  --rich-highlight: black;
+  --highlight: #ff8a3c;
+  --rich-highlight: #f7741d;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+body.time-war.dark-mode {
+  --background: #EFEFEF;
+  --color: black;
+  --highlight: #ff3c3c;
+  --rich-highlight: #f71d1d;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+body.time-war.light-mode {
+  --background: #ffffff;
+  --color: black;
+  --highlight: #ff3c3c;
+  --rich-highlight: #f71d1d;
   transition: background-color 0.5s ease, color 0.5s ease;
 }
 
@@ -147,6 +163,8 @@ a {
 }
 
 small, .text_small { font-size: 0.8rem; }
+
+strong, b { font-weight: bold; }
 
 main {
   max-width: 80ch;

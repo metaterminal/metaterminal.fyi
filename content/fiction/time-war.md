@@ -5,7 +5,7 @@ date = 2025-06-01
 
 At some point in your relative future, usually between April and September 2009, British astrophysicist Stephen Hawking will host an open reception for time travellers. 
 
-Though it may be extremely tempting, <u><i>do not go under any circumstances</i></u>.
+Though it may be extremely tempting, <b><i>do not go under any circumstances</i></b>.
 
 <!-- more -->
 
@@ -17,27 +17,19 @@ Do not read the rest of this document unless you are alone.
 
 <br>
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
 ---
 
 <br>
 
 While it is tempting to ground this with reference to popular culture, media unfortunately tends to change drastically between timelines. Thankfully we are predated by <i>The Time Machine</i>, and thus you should have a basic understanding of a) the concept of time travel by scientific means and b) some of the obvious pitfalls.
 
-Depending on the state of your timeline and your position within it, however, you may not understand the concept of a “time war”. The name is evocative, pithy, and extremely misleading. Most likely, you picture field soldiers with time machines; tactics being sent backwards to influence past events; and battles fought between the past and the future.
+Depending on the state of your timeline and your position within it, however, you may not understand the concept of a “time war”.[^1] The name is evocative, pithy, and extremely misleading. Most likely, you picture field soldiers with time machines; tactics being sent backwards to influence past events; and battles fought between the past and the future.
 
 From a tactical perspective, this situation is more or less impossible. Put it this way: you have a machine which can remove your opponents’ ability to retaliate, <i>before they even know they’re fighting you</i>. You can prevent your opponents from ever developing similar technology, embed spies with years of real lived history, and alter any event of which you have sufficient knowledge. You can preempt any countermeasure and correct any mistake. A conflict where either one of the combatants has a time machine is always over before it starts. So if a time war is ever taking place, then something, somewhere, has gone horribly horribly wrong.
 
 Currently, a time war is taking place.
 
-If you are reading this, then you (most likely) have been recruited to the cause. We apologize. If you do not wish to partake, then we recommend <i><u>destroying this manual immediately</u></i> and <i><u>never speaking of it to anyone, at any point in your life</u></i>. This is (most likely) your last chance to back out. If you keep this manual, but do not follow the instructions within, then there is a very real danger it will cause your death — and possibly the deaths of past or future loved ones.
+If you are reading this, then you (most likely) have been recruited to the cause. We apologize. If you do not wish to partake, then we recommend <i><b>destroying this manual immediately</b></i> and <i><b>never speaking of it to anyone, at any point in your life</b></i>. This is (most likely) your last chance to back out. If you keep this manual, but do not follow the instructions within, then there is a very real danger it will cause your death — and possibly the deaths of past or future loved ones.
 
 However, if you have been recruited, then this means that you (most likely) demonstrate the following traits: high level of curiosity, an abundance of caution, sufficient intelligence to understand and act on this manual, and insufficient intelligence to have stopped reading. In all likelihood, your recruiter was a friend, family member, or your future self. Trust their decision. 
 
@@ -47,9 +39,9 @@ Before you follow any instructions, read this manual in its entirety. (That incl
 
 ---
 
-#### <p align=center><u>I: BASICS</U></p>
+#### <p align=center><u><b>I: BASICS</b></u></p>
 
-<p align=center><u>The nature of the conflict</u></p>
+<p align=center><u><b>The nature of the conflict</b></u></p>
 
 Compared to conventional warfare, this is going to sound extremely strange. A better starting point might be guerilla warfare crossed with clandestine espionage. It might take you a few days to fully wrap your head around all of this; that is OK. 
 
@@ -73,9 +65,9 @@ The good news is that, if you’re alive to read this, then you’ve probably no
 
 <br>
 
-<p align=center><u>The nature of the enemy</u></p>
+<p align=center><u><b>The nature of the enemy</b></u></p>
 
-Simply put, we have absolutely no idea who they are, though we do have an idea of their goals. My personal best guess is that they are an insular, secular, technofascist, highly accelerationist organization, with agents embedded at high levels of power.
+Simply put, we have absolutely no idea who they are, though we do have an idea of their goals. My personal best guess is that they are an insular, secular, technofascist, highly accelerationist[^2] organization, with agents embedded at high levels of power.
 
 Preferred vectors of attack seem to be nuclear detonations (with MAD sometimes observed), widespread plagues, accelerated ecological collapse, or any other potential mass-death scenarios. While global warming/climate change is occasionally a useful tool, it does not seem to be solely their fault. (That’s on us as a species.)
 
@@ -92,11 +84,11 @@ ADDENDUM: Some agents of the enemy have been successfully identified and elimina
 
 <br>
 
-<p align=center><u>The nature of this manual</u></p>
+<p align=center><u><b>The nature of this manual</b></u></p>
 
-As much as we would like to be a cool secret time travel agency with a <i>How To</i> Guide To Time Travel, this is not one of those. This is, instead, a communally updated and edited document, which has been manually reviewed and disseminated by successive owners. Kind of like a Wikipedia page!
+As much as we would like to be a cool secret time travel agency with a <i>How To</i> Guide To Time Travel, this is not one of those. This is, instead, a communally updated and edited document, which has been manually reviewed and disseminated by successive owners.[^3] Kind of like a Wikipedia page![^4]
 
-Not accounting for duplicates and branches, you are the <u>23rd person</u> to receive a version of this manual.
+Not accounting for duplicates and branches, you are the <b>23rd person</b> to receive a version of this manual.
 
 The cover page is designed to encourage readership from intended targets, and reinforce the fact that you should not go to that stupid time travel party, you stupid fucks.
 
@@ -104,7 +96,7 @@ If you make edits to this manual, we recommend it to be typeset in standard Amer
 
 <br>
 
-<p align=center><u>The nature of time travel</u></p>
+<p align=center><u><b>The nature of time travel</b></u></p>
 
 There are two broad schools of thought about time travel among non-travelers. The first is that, if time travel is possible, then your travel is already written into history; it is not possible for you to change anything. Everything is predestined. You exist in a closed loop. If you meet yourself in the timeline, you will eventually become them. You cannot kill your own grandfather.
 
@@ -112,13 +104,13 @@ The second is, of course, that change is possible. You can kill not only your gr
 
 In reality, time travel is both. Changing the past is absolutely, certainly possible (as even the tiniest amount of experimentation will demonstrate.) Chaos theory is dominant here; small alterations can have huge impacts on long-term outcomes.
 
-However, with a certain level of setup, you can ensure that objects remain <i>causally stable</i>; modifications made to a current object will be reflected in the future object from the point of its arrival. (Our working theory is that this is just equivalent to a series of “divergent” timelines continuing until they settle into a deterministic, stable loop. See <u>Techniques – Causally Stable Loops</u>.)
+However, with a certain level of setup, you can ensure that objects remain <i>causally stable</i>; modifications made to a current object will be reflected in the future object from the point of its arrival.[^5] (Our working theory is that this is just equivalent to a series of “divergent” timelines continuing until they settle into a deterministic, stable loop. See <u>Techniques – Causally Stable Loops</u>.)
 
 This can be done with people.
 
 <br>
 
-<p align=center><u>Travel basics</u></p>
+<p align=center><u><b>Travel basics</b></u></p>
 
 This guide is maximally helpful for those between the early ‘60s and the late ‘00s. If you somehow received this further into the 21st century, then congratulations! Your timeline has made it pretty far. We leave it up to your judgement as to whether the war is still in operation, and what you need to do about it.
 
@@ -128,27 +120,27 @@ In the case that the theatre of war shifts primarily into the 21st century, then
 
 The classic argument against the existence of time travel is the fact that it has not always existed. Hopefully, information we’ve already covered has answered at least some of this. The rest is down to a fairly simple fact: <i>the distance your time machine can travel backwards is approximately proportional to the log of the transistor density on its integrated circuit</i>. 
 
-<p align=center>-Δt≈ln(ρ<sub>transistor</sub>) - μ</p>
+<p align=center><b>-Δt ≈ ln(ρ<sub><sub>transistor</sub></sub>) - μ</b></p>
 
 Which is to say: the further into the timeline you are, the further backwards you can travel. As a general shorthand, take your current year, subtract 1964, and multiply by 1.15; this is the maximum number of years you can travel backwards. Unless you’re fairly far forward in time, you probably won’t be crossing the 1960 mark.
 
 (See <u>Theory – Travel Curves</u> for more math I worked out on this.)
 
-Some deep-range research loops suggest this rule of thumb breaks down around 2030. No travel before 1954 has been recorded.
+Some deep-range research loops suggest this rule of thumb breaks down around 2030.[^6] No travel before 1954 has been recorded.
 
 Forward travel is not possible. You have to go the slow way.
 
 <br>
 
-<p align=center><u>First steps</u></p>
+<p align=center><u><b>First steps</b></u></p>
 
 - Ensure the security of this manual
 
-If you read it in a public place, then your <i>immediate first priority</i> is to correct that. (See <u>Gaining Access to Time Travel</u> and <u>Techniques – Corrections</u>.)
+If you read it in a public place, then your <b>immediate first priority</b> is to correct that. (See <u>Gaining Access to Time Travel</u> and <u>Techniques – Corrections</u>.)
 
 Otherwise, you should be OK. Keep it in a place where it will not be discovered by others; if you are under the age of 18, this might be a little difficult. Recommendations: in heating vents, in the drywall, inside elevator doors. Dumpsters, basements, and under your mattress are all bad ideas.
 
-Do NOT allow this manual to leak. This is our one and only weapon. Sorry to beat a dead horse, but: DO NOT SHARE IT WITH ANYONE UNLESS YOU ARE FOLLOWING PROPER RECRUITMENT PROCEDURES. DO NOT SHOW FRIENDS AND FAMILY. DO NOT LEAVE IT LYING AROUND THE HOUSE. DO NOT SHARE IT ON THE ARPANET. DO NOT BURY IT SOMEWHERE. DO NOT LEAVE IT ON A LIBRARY SHELF. DO NOT PUT IT IN A STORAGE LOCKER AND THEN LET THE LOCKER GO TO AUCTION. (Please add to this list as future cases come up.)
+Do NOT allow this manual to leak. This is our one and only weapon. Sorry to beat a dead horse, but: <b>DO NOT SHARE IT WITH ANYONE UNLESS YOU ARE FOLLOWING PROPER RECRUITMENT PROCEDURES. DO NOT SHOW FRIENDS AND FAMILY. DO NOT LEAVE IT LYING AROUND THE HOUSE. DO NOT SHARE IT ON THE ARPANET. DO NOT BURY IT SOMEWHERE. DO NOT LEAVE IT ON A LIBRARY SHELF. DO NOT PUT IT IN A STORAGE LOCKER AND THEN LET THE LOCKER GO TO AUCTION.</b> (Please add to this list as future cases come up.)
 
 Make sure that, if you die, this manual will not propagate outside of your control. (Suggested strategies include: memorization and immediate destruction; a dead man’s switch; mixing it with other key personal documents in a large box and stipulating the destruction of the box and its contents in your will.)
 
@@ -170,7 +162,7 @@ This is a big milestone. Congratulations.
 
 - Set up failsafes
 
-The <u>Techniques</u> section will help you here. You should, at minimum, create a <i>dead man’s switch</i>, a <i>bootstrap safeguard</i>, and at least one <i>deep-range research loop</i>.
+The <u>Techniques</u> section will help you here. You should, at minimum, create a <b>dead man’s switch</b>, a <b>bootstrap safeguard</b>, and at least one <b>deep-range research loop</b>.
 
 - Go to ground
 
@@ -180,11 +172,11 @@ Good luck.
 
 <br>
 
-<p align=center><u>Things to avoid</u></p>
+<p align=center><u><b>Things to avoid</b></u></p>
 
 - Sharing information with friends, family, and loved ones
 
-Unless — and this is extremely important — you trust them to never tell anyone <i>under any circumstances</i>. You are gambling on just their current self, but all possible versions of their future selves.
+Unless — and this is extremely important — you trust them to never tell anyone <i>under any circumstances</i>. You are gambling on just their current self, but all possible versions of their future selves.[^7]
 
 From experience, you should consider holding up under torture as a criterion.
 
@@ -212,23 +204,23 @@ Further update: DO NOT CLONE MONEY UNDER ANY CIRCUMSTANCES.
 
 We know it’s very tempting, but you absolutely should not under any circumstances end up at one of these. Stephen Hawking’s one is the most famous, but there are others, and you should avoid those too. Don’t learn this lesson the hard way.
 
-ADDENDUM: This is no joke. A future version of me apparently decided to check one out; future me ended up scrubbing ten years from my own timeline, and sent current me an extremely strongly-worded letter. Whatever series of events it caused, it must have scared the hell out of them, because some of the things they wrote... I’m not the kind of person to exaggerate. STAY AWAY.
+ADDENDUM: This is no joke. A future version of me apparently decided to check one out; future me ended up scrubbing ten years from my own timeline, and sent current me an extremely strongly-worded letter. Whatever series of events it caused, it must have scared the hell out of them, because some of the things they wrote... I’m not the kind of person to exaggerate. **STAY AWAY**.
 
 <br>
 
-<p align=center><u>Strategy</u></p>
+<p align=center><u><b>Strategy</b></u></p>
 
-Let’s get to the obvious question: what are we going to do about it?
+Let’s get to the obvious question: *what are we going to do about it?*
 
-<i>You need to put yourself in a position to act against potential enemy agents and extinction-level threats</i>. Everything else in your life is now secondary to this goal.
+<b>You need to put yourself in a position to act against potential enemy agents and extinction-level threats</b>. Everything else in your life is now secondary to this goal.
 
-This is how you fight the time war. You are a deep, deep cover agent with your entire natural life as a cover story. Through the very possession of this manual, you have been granted a magnitude of power on the order of multinational CEOs, military generals, and mid-sized countries. <i>Assuming that proper recruitment protocols have been followed</i>, you can be trusted with this power. You can and should use this to benefit yourself, yes... but, likewise, this comes with a great deal of responsibility.
+This is how you fight the time war. You are a deep, deep cover agent with your entire natural life as a cover story. Through the very possession of this manual, you have been granted a magnitude of power on the order of multinational CEOs, military generals, and mid-sized countries. <b>Assuming that proper recruitment protocols have been followed</b>, you can be trusted with this power. You can and should use this to benefit yourself, yes... but, likewise, this comes with a great deal of responsibility.
 
-The nature of the threat constantly changes. As such, it’s impossible to predict what dimension the current conflict takes. 
+The nature of the threat constantly changes. As such, it’s impossible to predict what dimension the current conflict takes.[^8] 
 
-Even so, you need to be the right person in the right place at the right time to avert disaster. It is obviously impossible to know what and where that is ahead of time. Your first goal is to work that out.
+Even so, <b>you need to be the right person in the right place at the right time to avert disaster</b>. It is obviously impossible to know what and where that is ahead of time. Your first goal is to work that out.
 
-As long as you are not exposed, you can retry any major life choice and scout out any future event. You can embed yourself in companies, agencies, even governments, years before you need to operate there. It is common to dedicate decades of your life to make one tiny adjustment. You will most likely eventually find yourself in key positions of power. Be patient. Be cautious. Be exacting. <u><i>Do not get caught</i></u>.
+As long as you are not exposed, you can retry any major life choice and scout out any future event. You can embed yourself in companies, agencies, even governments, years before you need to operate there. It is common to dedicate decades of your life to make one tiny adjustment. You will most likely eventually find yourself in key positions of power. Be patient. Be cautious. Be exacting. <u><b>Do not get caught</b></u>.
 
 If you had dreams, a career, or a life path worked out before reading this, then I am genuinely, truly sorry.
 
@@ -240,7 +232,7 @@ Don’t let us down.
 
 <br>
 
-<p align=center><u>Table of contents</u></p>
+<p align=center><u><b>Table of contents</b></u></p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
 
@@ -260,3 +252,23 @@ Don’t let us down.
 | Appendix F: &nbsp;&nbsp; | Survival in Mass Death Scenarios    | 820 |
 
 </div>
+
+<br>
+
+<p align=center><u><b>Footnotes (I)</b></u></p>
+
+[^1] If it exists, I found *The Changing Men* by Fritz Leiber to be pretty instructive.
+
+[^2] I don’t know what this means, but I’m leaving it in during this rewrite in case it means something to you.
+
+[^3] Hence, I assume, the changes in vocabulary level, tone, and pronoun usage.
+
+[^4] I don’t know what this means either.
+
+[^5] Since I didn’t understand this as written: if you break the handle off a mug, the future version will have arrived broken, before you break it. No *Spaceman From Pluto* magic.
+
+[^6] Long-range surveys suggest that the Moore Plateau interferes at this point, although there must be a limiting factor that inhibits leapfrogging. (See <u>Techniques - Leapfrogging</u>.)
+
+[^7] Spouses are especially dangerous.
+
+[^8] Though, given the contours of the 20th century, nuclear holocaust remains ever-present.
