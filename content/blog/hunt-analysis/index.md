@@ -243,9 +243,11 @@ Hunts are getting longer, because they're getting *more difficult*. As they get 
 
 Over time, this leads to an **inflation in complexity**. It's a far more insidious killer than number-of-puzzles or size-of-team, and it's nearly invisible.
 
-If you only started hunting in the last 5 or 6 years, you probably haven't noticed a difference. But if you've been hunting for longer -- since the 2013 days, or earlier -- then you definitely have. I think it's not just you. The standard for a "Mystery Hunt meta" is higher; which is good, because steps are required to be well-clued, and elegant. We've come a long way. But this also means that, in terms of person-hours and time spent thinking, it going to be much higher than it was 10 years ago.
+If you only started hunting in the last 5 or 6 years, you probably haven't noticed a difference. But if you've been hunting for longer -- since the 2013 days, or earlier -- then you definitely have. I think it's not just you. The standard for a "Mystery Hunt meta" is higher; which is good, because steps are required to be well-clued, and elegant. We've come a long way. But this also means that, in terms of person-hours and time spent thinking, the requirements are going to be much higher than it was 10 years ago.
 
 Why are solvers getting better? I think one explanation is the rise in online hunts. There are now puzzle events happening throughout the year; they're not localized to areas, like BAPHL or DASH, and they also have a much higher difficulty ceiling. If you're the kind of person who does most of the hunts listed on the Puzzle Hunt Calendar, you'll know exactly what I mean. 
+
+There's an increase in tool usage. Spreadsheet magic is darker and more sorcerous than ever; online tools like nutrimatic are no longer just useful, but increasingly folded into hunting culture. Logic puzzle solvers are standard now. (And we shall happily ignore generative AI, quietly festering in the corner.)
 
 It's not uncommon for people who write for Mystery Hunt to have sharpened their teeth on writing smaller online hunts, and to have practiced writing (for want of a better word) "normal" metas and rounds. When they get to Mystery Hunt, they don't want to do something of typical complexity, that could go into an online hunt these days; they want to pull out all the stops. These kinds of authors are probably deeply entrenched in the current online puzzle community. They post on puzzle Discords, read all the blogs, and listen to the podcasts with charismatic hosts. They are the We.
 
