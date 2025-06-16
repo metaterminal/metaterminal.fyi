@@ -231,7 +231,7 @@ The answer is 156 puzzles. The answer to the second question is 2018 - which has
 
 3) Small teams can still be in contention.
 
-The ur-example of this is the 2024 run for Unicode Equivalence, which reached striking-distance-from-winning with nary but 30 solvers. 30 solvers! You could fit that on a bus! And not even a particularly large one!
+The ur-example of this is the 2024 run for Unicode Equivalence, which reached striking-distance-from-winning with nary but 37 solvers. 37 solvers! You could fit that on a schoolbus!
 
 So teams aren't getting bigger; the number of puzzles isn't increasing; barring two recent admittedly-remarkable outliers, hunts aren't taking longer to be won. **What gives?**
 
