@@ -98,7 +98,7 @@ If you can find more past work done on this, let me know.
 
 <h3 id="methodology">Methodology</h3>
 
-I scraped data from /dev/joe's [MIT Mystery Hunt Puzzle Index](https://devjoe.appspot.com/huntindex/index.html), from 2024 to 2014. No data for 2025 is on the index yet. Consequently, I largely left it out of my analysis. (2024 was also a significant outlier in terms of writing team size and hunt length - though we shall see if it remains an outlier.)
+I scraped data from /dev/joe's [MIT Mystery Hunt Puzzle Index](https://devjoe.appspot.com/huntindex/index.html), from 2024 to 2014. No data for 2025 is on the index yet. Consequently, I largely left it out of my analysis.
 
 For the averages, I also left out 2024, since it seems to be a major outlier. I'm interested in the broad trends; if Mystery Hunt really is getting bigger, year on year, then we should be able to see growth without counting what seems to be a one-off size incident.
 
