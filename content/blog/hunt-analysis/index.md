@@ -1,6 +1,6 @@
 +++
 title = "Mystery Hunt writing teams, by the numbers"
-date = 2024-09-16
+date = 2025-06-16
 
 [taxonomies]
 tags = ["analysis","puzzles","math"]
