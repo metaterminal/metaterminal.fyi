@@ -52,14 +52,14 @@ document.addEventListener('DOMContentLoaded', () => {
     // Load the saved theme from localStorage
     const loadTheme = () => {
         const savedTheme = localStorage.getItem('theme');
-        if (savedTheme === 'light') {
-            body.classList.add('light-mode');
-            body.classList.remove('dark-mode');
-            toggleButton.textContent = '🌙';
-        } else {
+        if (savedTheme === 'dark') {
           body.classList.add('dark-mode');
             body.classList.remove('light-mode');
             toggleButton.textContent = '☀️';
+        } else {
+          body.classList.add('light-mode');
+            body.classList.remove('dark-mode');
+            toggleButton.textContent = '🌙';
         }
     };
 
