@@ -9,6 +9,22 @@ I like puzzles, and sometimes I write them. Over the years, I've written quite a
 
 I have marked a few puzzles that I am particularly proud of in *italics*.
 
+### Penchant Puzzlehunt (2025)
+
+I was a lead writer, editor, web developer, and artist for [Penchant Puzzlehunt](https://penchantpuzzlehunt.com/). I worked on:
+
++ [Gas, Water, and Electricity](https://penchantpuzzlehunt.com/puzzle/gas-water-electricity)
++ [Pen-and-Paper Logic Puzzles: An Introduction](https://penchantpuzzlehunt.com/puzzle/pen-paper-logic) (co-writer with Zach Barnett)
++ [Blank Matchmaker](https://penchantpuzzlehunt.com/puzzle/blank-matchmaker) (co-writer with Rainy)
++ [Playing With Places](https://penchantpuzzlehunt.com/puzzle/playing-with-places)
++ [Playing With Cards](https://penchantpuzzlehunt.com/puzzle/playing-with-cards)
++ [Playing With Words](https://penchantpuzzlehunt.com/puzzle/playing-with-words) (co-writer with noneuclidean)
++ [Playing With Letters](https://penchantpuzzlehunt.com/puzzle/playing-with-letters)
++ [Playing With Markers](https://penchantpuzzlehunt.com/puzzle/playing-with-markers) (co-writer with noneuclidean)
++ [Playing With Others](https://penchantpuzzlehunt.com/puzzle/playing-with-others) (co-writer with noneuclidean)
+
+among others.
+
 ### Brown Puzzlehunt (2025)
 
 [Brown Puzzlehunt](https://www.brownpuzzlehunt.com/) was two puzzlehunts in a trenchcoat: 
