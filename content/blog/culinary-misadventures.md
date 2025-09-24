@@ -1,9 +1,6 @@
 +++
 title = "Culinary misadventures of the sophomore year"
 date = 2023-09-03
-
-[taxonomies]
-tags = ["mischief"]
 +++
 
 My sophomore semesters were fairly bad for achievement - both in mischief and in other fields. I feel, for some reason, that the year got away. The relentless churn of time, bad circumstance, difficult people; take your pick.
