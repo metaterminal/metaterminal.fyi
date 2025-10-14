@@ -9,6 +9,20 @@ I like puzzles, and sometimes I write them. Over the years, I've written quite a
 
 I have marked a few puzzles that I am particularly proud of in *italics*.
 
+### MIT Mystery Hatch (2025)
+
+I was Story Lead and a member of the technical team for MIT Mystery Hatch, a prelude to the 2026 MIT Mystery Hunt. I wrote for character concepts, the story text, and kickoff, and did some web development, QA testing, and post-production.
+
+I also wrote a puzzle last-minute when another author dropped out:
+
++ [Work in Groups of Three](https://www.mitmysteryhatch.com/puzzle/miska/work-in-groups-of-three)
+
+### Brown Orientation Hunt (2025)
+
+This was small puzzle packet written for New Student Orientation at Brown in September.
+
++ [Country Road](https://brownpuzzle.club/archive/orientation2025.pdf)
+
 ### Penchant Puzzlehunt (2025)
 
 I was a lead writer, editor, web developer, and artist for [Penchant Puzzlehunt](https://penchantpuzzlehunt.com/). I worked on:
