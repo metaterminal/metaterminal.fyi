@@ -1,5 +1,6 @@
 :root {
   --background: #fcfcfb;
+  --off-background: #f6f6f5;
   --color: black;
   --highlight: #1392c4;
   --rich-highlight: #0883b4;
@@ -7,6 +8,7 @@
 
 body.dark-mode {
   --background: #181818;
+  --off-background: #383838;
   --color: white;
   --highlight: #ff8a3c;
   --rich-highlight: #f7741d;
@@ -16,6 +18,7 @@ body.dark-mode {
 /* Light mode */
 body.light-mode {
   --background: #fcfcfb;
+  --off-background: #f6f6f5;
   --color: black;
   --highlight: #1392c4;
   --rich-highlight: #0883b4;
@@ -37,6 +40,24 @@ body.dude-spotter.light-mode {
   --color: black;
   --highlight: #ff8a3c;
   --rich-highlight: #f7741d;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+body.traitor.dark-mode {
+  --background: #160024;
+  --off-background: #281e2b;
+  --color: #fffff6;
+  --highlight: #ffffcb;
+  --rich-highlight: #ffffb0;
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+body.traitor.light-mode {
+  --background: white;
+  --off-background: #fffff6;
+  --color: black;
+  --highlight: #44006e;
+  --rich-highlight: #2a0044;
   transition: background-color 0.5s ease, color 0.5s ease;
 }
 
@@ -78,7 +99,7 @@ body > nav {
   transition: background-color 0.5s ease, color 0.5s ease;
 }
 
-@media (max-width:600px) {
+@media (max-width:1000px) {
 
   body {
     margin: 2em; 
@@ -217,7 +238,7 @@ small, .text_small { font-size: 0.8rem; }
 strong, b { font-weight: bold; }
 
 main {
-  max-width: 80ch;
+  max-width: 95ch;
   padding: 2ch;
   margin: auto;
   flex-grow: 1;
@@ -312,4 +333,14 @@ body > footer {
 .links a {
   display: inline-block;
   margin: 0 15px;
+}
+
+.annotation {
+  background-color: var(--off-background); 
+  width: 90%; 
+  padding-top:30px; 
+  padding-bottom:30px; 
+  padding-left:30px; 
+  padding-right:30px; 
+  margin-bottom: 10px;
 }

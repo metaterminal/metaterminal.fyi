@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<main>
+
+<h1 class="centered">{{ page.title | default(value=section.title) }}</h1>
+
+{{ page.content | safe }}
+
+{% set data = load_data(path="content/annotations.toml") %}
+{% set annotations = data.annotations %}
+{% set grouped = annotations | group_by(attribute="chapter") %}
+
+{% set chapters = ["Epigram", "Accountant 1", "Accountant 2"] %}
+
+{% for chapter in chapters %}
+  <h3 class="centered" id="chapter-{{ chapter }}">{{ chapter }}</h2>
+    {% for a in annotations | sort(attribute="id") %}
+      {% if a.chapter == chapter %}
+        <div class="annotation" id="annotation-{{ a.id }}">
+          <blockquote>{{ a.quote | safe }}<br/>&nbsp;&nbsp;<i>p.{{ a.page }}</i></blockquote>
+          <p>{{ a.notes | safe }}</p>
+
+          {% if a.tags %}
+            <p><strong>Tags:</strong>
+                {% for tag in a.tags %}
+                {{ tag }}{% if not loop.last %}, {% endif %}
+                {% endfor %}
+            </p>
+          {% endif %}
+
+          {% if a.related %}
+            <p><strong>See also:</strong>
+              {% for rel_id in a.related %}
+                {% for rel in annotations %}
+                  {% if rel.id == rel_id %}
+                    <a href="#annotation-{{ rel.id }}">p.{{ rel.page }} ({{ rel.shortname }})</a>
+                  {% endif %}
+                {% endfor %}
+              {% endfor %}
+            </p>
+          {% endif %}
+
+        </div>
+      {% endif %}
+    {% endfor %}
+{% endfor %}
+
+</main>
+
+{% endblock content %}
