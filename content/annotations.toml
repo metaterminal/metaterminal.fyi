@@ -86,7 +86,7 @@ page = 16
 quote = "She opened her mother's hand-copied dictionary..."
 notes = "Taranoke has written language, and a good understanding of glassworking and optics (given their production of telescopes); but they have not, it appears, developed a printing press."
 shortname = "hand-copied dictionary"
-tags = ["language", "author commentary"]
+tags = ["language"]
 related = [31]
 
 [[annotations]]
