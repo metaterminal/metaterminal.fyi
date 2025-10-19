@@ -32,7 +32,7 @@ page = 15
 quote = "...watching firebearer frigates heel in the aurora light…"
 notes = "<i>I’m torn about this flash-forward. I wanted to tell readers, hey, don’t worry, this book will have action! But it’s cowardly to jump forward and then back, just for excitement. And the sentence might be overloaded. Firebearer or aurora, perhaps not both?</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
 shortname = "firebearer frigates"
-tags = ["navy", "author commentary"]
+tags = ["navy", "ships", "author commentary"]
 
 [[annotations]]
 id = 22
@@ -125,3 +125,57 @@ notes = "The Falcresti have discovered the printing press, and are using it to s
 shortname = "a copy number"
 tags = ["language", "colonization"]
 related = [27]
+
+[[annotations]]
+id = 32
+chapter = "Accountant 1"
+page = 17
+quote = "Where the sea curled up in the basalt arms of the Iriad cove..."
+notes = "<i>Sometimes I get nervous that my prose is slipping and I try to write a Cat Valente sentence.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)<br/><br/>Catherynne M. Valente is an award-winning American short fiction writer and novelist."
+shortname = "basalt arms"
+tags = ["influences", "author commentary"]
+
+[[annotations]]
+id = 33
+chapter = "Accountant 1"
+page = 17
+quote = "...beneath the fields of sugarcane and macadamia and coffee that grew from the volcanic loam..."
+notes = "Andisols (soils formed from volcanic ash) are incredibly fertile, and have high concentrations of minerals and other useful materials such as glass. This supports Taranoke's extensive agriculture. It also provides the raw materials used in the lenses of their telescopes."
+shortname = "volcanic loam"
+tags = ["geology", "agriculture"]
+
+[[annotations]]
+id = 34
+chapter = "Accountant 1"
+page = 17
+quote = "...not just Taranoki fishers and felucca, not just familiar Oriati traders from the south, but tall white-sailed Masquerade merchant ships."
+notes = "<i>Building that association between the Masquerade and cleanliness, purity, astringence. The black = evil connection is cliched and tired. Let’s do evil white.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)<br/><br/>In our world: white sails were also economical; canvas would be bleached white by sunlight and salt. Dyed sails cost money, weighed more, and could be less resistant to the weather. Even tanning the sails (which would improve durability, and lend a reddish-brown color) would be costly for larger ships.<br/><br/>In our world: A <i>felucca</i> is a single- or double-sail boat of Northern African/Mediterranean origin."
+shortname = "white-sailed ships"
+tags = ["ships", "author commentary"]
+
+[[annotations]]
+id = 35
+chapter = "Accountant 1"
+page = 17
+quote = "...bobbing floats of koa and walnut..."
+notes = "In our world: more mixing of cultural influences. <i>Koa</i> is a flowering tree endemic to Hawai'i. <i>Walnut</i> is a genus of trees originating from central Asia, which were then spread throughout Europe and North America."
+shortname = "koa and walnut"
+tags = ["ships", "ecology"]
+
+[[annotations]]
+id = 35
+chapter = "Accountant 1"
+page = 17
+quote = "...drummers sounded in the warmth and the light..."
+notes = "<i>I worry this reads as too generically tribal, but I really like drums. Taranoke’s fairly small, flat social units are prone to gossip and bickering, but really good at building inviting social environments.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "drummers sounded"
+tags = ["music", "sociology", "author commentary"]
+
+[[annotations]]
+id = 36
+chapter = "Accountant 1"
+page = 17
+quote = "She tried determinedly to count them and keep all the varieties straight."
+notes = "<i>Baru’s gifts actually aren’t in raw mathematical operations, although she’s quite good at them. But she does have an excellent working memory span — the ability to hold information online, in the brain’s workspace, and manipulate it without losing it. Most people are limited to 5-7 items. If you can ‘chunk’ the items, the way we do with phone numbers, you can hold more.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "white-sailed ships"
+tags = ["Baru", "mathematics", "author commentary"]
