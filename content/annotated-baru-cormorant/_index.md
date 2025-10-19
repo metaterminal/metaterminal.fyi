@@ -5,7 +5,7 @@ template = "puzzles.html"
 page_template = "annotations/from_data.html"
 +++
 
-The *Baru Cormorant* series, by Seth Dickinson, is an epic fantasy, a political treatise, a queer character study, a real-world mirror; every page fizzes and bubbles with secret meaning. 
+The *Baru Cormorant* series, by Seth Dickinson, is an epic fantasy, a political treatise, a queer character study, a real-world mirror; and every page fizzes and bubbles with secret meaning. 
 
 As I read I was nascently aware of details slipping past me. Thoughtful worldbuilding. Historical allusions. Unsolved (but solvable) murders. Hidden agendas abound... double, triple, even *quadruple* agents wind their way through the plot.
 
