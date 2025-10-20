@@ -41,7 +41,7 @@ page = 15
 quote = "...the kelp for ash, the ash meant for glass..."
 notes = "<i>The Ashen Sea is actually named for the useful ash you can get from burning its plentiful kelp.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
 shortname = "kelp for ash"
-tags = ["Ashen Sea", "author commentary"]
+tags = ["Taranoke", "Ashen Sea", "author commentary"]
 
 [[annotations]]
 id = 23
@@ -86,7 +86,7 @@ page = 16
 quote = "She opened her mother's hand-copied dictionary..."
 notes = "Taranoke has written language, and a good understanding of glassworking and optics (given their production of telescopes); but they have not, it appears, developed a printing press."
 shortname = "hand-copied dictionary"
-tags = ["language"]
+tags = ["Taranoke", "language"]
 related = [31]
 
 [[annotations]]
@@ -96,7 +96,7 @@ page = 16
 quote = "...the Urunoki alphabet..."
 notes = "<i>A descendant of Maia Urun, just as the people of Taranoke are descendants of the Tu Maia. They settled Taranoke while trying to find Oriati Mbo, ahead of the first wave of militant Maia expansionism. Were there prior inhabitants on Taranoke, cruelly displaced? I don’t know!</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
 shortname = "the Urunoki alphabet"
-tags = ["language", "Tu Maia", "author commentary"]
+tags = ["Taranoke", "language", "Tu Maia", "author commentary"]
 
 [[annotations]]
 id = 29
@@ -142,7 +142,7 @@ page = 17
 quote = "...beneath the fields of sugarcane and macadamia and coffee that grew from the volcanic loam..."
 notes = "Andisols (soils formed from volcanic ash) are incredibly fertile, and have high concentrations of minerals and other useful materials such as glass. This supports Taranoke's extensive agriculture. It also provides the raw materials used in the lenses of their telescopes."
 shortname = "volcanic loam"
-tags = ["geology", "agriculture"]
+tags = ["Taranoke", "geology", "agriculture"]
 
 [[annotations]]
 id = 34
@@ -160,22 +160,85 @@ page = 17
 quote = "...bobbing floats of koa and walnut..."
 notes = "In our world: more mixing of cultural influences. <i>Koa</i> is a flowering tree endemic to Hawai'i. <i>Walnut</i> is a genus of trees originating from central Asia, which were then spread throughout Europe and North America."
 shortname = "koa and walnut"
-tags = ["ships", "ecology"]
+tags = ["Taranoke", "ships", "ecology"]
 
 [[annotations]]
-id = 35
+id = 36
 chapter = "Accountant 1"
 page = 17
 quote = "...drummers sounded in the warmth and the light..."
 notes = "<i>I worry this reads as too generically tribal, but I really like drums. Taranoke’s fairly small, flat social units are prone to gossip and bickering, but really good at building inviting social environments.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
 shortname = "drummers sounded"
-tags = ["music", "sociology", "author commentary"]
+tags = ["Taranoke", "music", "sociology", "author commentary"]
 
 [[annotations]]
-id = 36
+id = 37
 chapter = "Accountant 1"
 page = 17
 quote = "She tried determinedly to count them and keep all the varieties straight."
 notes = "<i>Baru’s gifts actually aren’t in raw mathematical operations, although she’s quite good at them. But she does have an excellent working memory span — the ability to hold information online, in the brain’s workspace, and manipulate it without losing it. Most people are limited to 5-7 items. If you can ‘chunk’ the items, the way we do with phone numbers, you can hold more.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
 shortname = "white-sailed ships"
 tags = ["Baru", "mathematics", "author commentary"]
+
+[[annotations]]
+id = 38
+chapter = "Accountant 1"
+page = 17
+quote = "...the shapes that Baru imagined when she read about panthers."
+notes = "<i>As a trade hub, Taranoke learns a lot about the world, although some of it is very fanciful. The Oriati love tall tales.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "panthers"
+tags = ["Taranoke", "Oriati", "author commentary"]
+
+[[annotations]]
+id = 39
+chapter = "Accountant 1"
+page = 17
+quote = "<i>Baru, pay attention!</i>"
+notes = "<i>Baru is good at learning, but not quite as good at being taught. She works best with an intrinsic motivation. Later we see her treating history and geography as dull... but once they’re keys to her forward progress, she picks them up rapidly.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "pay attention"
+tags = ["Baru", "author commentary"]
+
+[[annotations]]
+id = 40
+chapter = "Accountant 1"
+page = 18
+quote = "...hard coin and reef pearl..."
+notes = "<i>Gotta get that hard currency theme rolling. The Taranoki use a lot of different currencies for trade, but they prefer those with intrinsic value on any market... until now.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "hard coin and reef pearl"
+tags = ["Taranoke", "economics", "author commentary"]
+
+[[annotations]]
+id = 41
+chapter = "Accountant 1"
+page = 18
+quote = "...the different fold of eyelids and flat of his nose gave him away... stubborn jaws, flat noses, deep folded eyes, their skin a paler shade of brown or copper or oat."
+notes = "<i>The ‘unmarked state’ is the person we assume we’re reading about when we don’t get any physical descriptions. For most Americans, it’s a white American male. But Baru’s unmarked state is a Taranoki person of indistinct gender. So all the appearance tags used to distinguish populations in Baru’s world have to be relative to Taranoke... which can be quite a trick when we want to describe what a Taranoki looks like!.<br/><br/>A key goal here was to establish, first, that neither the Falcresti or the Taranoki look like any racial group on Earth. They aren’t fantasy French or fantasy Maori or fantasy, well, anything. Why do I care so much about this? Because racial groups on earth are — yes, for real — social constructs. There are no clear genetic dividing lines. There’s no reason they should appear on another world. <br/><br/>Similarly, the ‘Falcresti’ racial group is a political construct. They’re actually quite a diverse bunch. Cairdine Farrier here is ‘classically Falcresti’, in that he resembles a person born in the middle latitudes of their turf.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)<br/></br>While most readers will picture Farrier as classically Western European, he is described as having epicanthic folds."
+shortname = "different fold of eyelids"
+tags = ["Taranoke", "Farrier", "ethnicity", "author commentary"]
+
+[[annotations]]
+id = 42
+chapter = "Accountant 1"
+page = 18
+quote = "'Why are they bald?'"
+notes = "<i>Baru’s first interaction with Cairdine Farrier is her refusal to reply to his question.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "why they are bald"
+tags = ["Baru", "Farrier", "author commentary"]
+
+[[annotations]]
+id = 43
+chapter = "Accountant 1"
+page = 18
+quote = "...they had made their fisherman friend blush."
+notes = "<i>They’re hitting on him. Sexual agency is a pretty important subtextual theme. So is the construction of gender roles — the fisherman is used to a culture where sex is a matter of mutual chemistry, not propositions.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)<br/><br/>Falcresti sailors are accustomed to propositioning men when ashore (as opposed to the inverted gender customs in our world)."
+shortname = "made their fishermen friend blush"
+tags = ["Taranoke", "navy", "relationships", "gender", "author commentary"]
+
+[[annotations]]
+id = 44
+chapter = "Accountant 1"
+page = 18
+quote = "He had heavy brows, like fortresses to guard his eyes."
+notes = "<i>Farrier in particular is marked by a lot of eye imagery.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "heavy brows"
+tags = ["Farrier", "eyes", "author commentary"]
