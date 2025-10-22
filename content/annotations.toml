@@ -77,7 +77,7 @@ page = 16
 quote = "...loved her mother and her father dearly, but she loved to know things just a small measure more, and she had recently discovered cunning."
 notes = "<i>Even at age seven, Baru’s unable to disentangle her emotional life from her desire for knowledge, which becomes her desire for power. Poor Baru! Note also that Baru is already an active agent, manipulating the plot. One of the design tenets of Baru’s character is that she is highly agentic.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
 shortname = "a small measure more"
-tags = ["knowledge", "author commentary"]
+tags = ["knowledge", "power", "author commentary"]
 
 [[annotations]]
 id = 27
@@ -242,3 +242,111 @@ quote = "He had heavy brows, like fortresses to guard his eyes."
 notes = "<i>Farrier in particular is marked by a lot of eye imagery.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
 shortname = "heavy brows"
 tags = ["Farrier", "eyes", "author commentary"]
+
+[[annotations]]
+id = 45
+chapter = "Accountant 1"
+page = 18
+quote = "'What was I thinking, trying to sell broadcloth here? I’ll go home a pauper.'<br/><br/>'Oh, no,' Baru assured him."
+notes = "<i>Farrier is able to engage Baru by giving her an opportunity to display knowledge, implicitly granting her power.</i> (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "go home a pauper"
+tags = ["Baru", "Farrier", "knowledge", "power", "author commentary"]
+
+[[annotations]]
+id = 46
+chapter = "Accountant 1"
+page = 19
+quote = "...sheepskin palimpsest..."
+notes = "<i>‘Palimpsest’ by Stross and </i>Palimpsest<i> by Valente are both very good.</i>  (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "sheepskin palimpsest"
+tags = ["influences", "author commentary"]
+
+[[annotations]]
+id = 47
+chapter = "Accountant 1"
+page = 19
+quote = "Baru caught the fly and crushed it."
+notes = "<i>Setting up Baru’s physical dexterity, an enormous red herring which I build up a lot so that readers will expect her to win a swordfight or shoot someone. If Baru’s success ever depends on such crude physical violence, she’s truly at wit’s end.</i>  (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "caught the fly"
+tags = ["Baru", "violence", "author commentary"]
+
+[[annotations]]
+id = 48
+chapter = "Accountant 1"
+page = 19
+quote = "Then she asked about something she already knew, because it was useful to hide her wit..."
+notes = "<i>Baru loses this ability as she ages, a symptom of her rising inner rage and pride. She tries it again when she gets to Aurdwynn and fails to follow through. Baru has a very hard time concealing her own talent.</i>  (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "caught the fly"
+tags = ["Baru", "knowledge", "deceit", "author commentary"]
+
+[[annotations]]
+id = 49
+chapter = "Accountant 1"
+page = 19
+quote = "The man watched the guards with a paternal frown, as if afraid they might need supervision."
+notes = "Farrier is bothered by the sexual agency demonstrated by his guards. (And, if these are the same guards as in their next appearance, then one of the guards is Farrier's ward, Tain Shir; another reason he may feel 'paternal'.)"
+shortname = "a paternal frown"
+tags = ["Farrier", "Tain Shir", "gender"]
+
+[[annotations]]
+id = 50
+chapter = "Accountant 1"
+page = 19
+quote = "'Conquest is a bloody business, and causes plagues besides.'"
+notes = "Farrier is telling on himself here; whether he knows it at this point or not (although he most likely does), the plan for the assimilation of Taranoke will involve the intentional introduction of plague. Biological warfare through the introduction of disease is a recurrent theme throughout the books."
+shortname = "conquest causes plagues"
+tags = ["Farrier", "colonization", "disease"]
+
+[[annotations]]
+id = 51
+chapter = "Accountant 1"
+page = 19
+quote = "'We’re here as friends.'"
+notes = "<i>The bastard believes it. Farrier has been engaged in a war of ideas against another Falcresti luminate for decades now, each pushing a different philosophy of how best to help the world. Both are grotesque.</i>  (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "caught the fly"
+tags = ["Farrier", "Hesychast", "philosophy", "cryptarchs", "author commentary"]
+
+[[annotations]]
+id = 52
+chapter = "Accountant 1"
+page = 19
+quote = "'Because if I understand my figures, that means you are taking all the things we use to trade with others, and giving us paper that is only good with you.'"
+notes = "<i>This is a more complicated scheme than Baru probably realizes, since it only works if the Taranoki </i>want<i> the paper money. How did the Masquerade get the engine turning? How did they convince Baru’s people that paper money was worth having, if the Masquerade ships prefer to buy with paper but sell for gold and gem? They must have got the hook in somehow, but Baru was too young to catch it.</i>  (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "giving us paper"
+tags = ["Baru", "Taranoke", "economics", "author commentary"]
+
+[[annotations]]
+id = 53
+chapter = "Accountant 1"
+page = 19
+quote = "At that his mouth pursed, as if the idea of fathers troubled him."
+notes = "<i>Even for the institutionally homophobic Falcresti, Farrier is a homophobe (and his homophobia is influential in driving that institutional homophobia). It’s a shame he’s in charge here. Falcrest’s ideological homophobia derives from their beliefs about heritable behavior: in their ugly competitive worldview they see queerness as a condition that can enter the germ line, hurting the fitness of entire populations. The queer rights movement within Falcrest has made some headway by arguing that homosexuality should be permitted as long as the people involved have no children. This is still a pretty shitty position to be in, especially if you’re bi, and Baru wouldn’t want to settle for it.</i>  (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "the idea of fathers"
+tags = ["Farrier", "Falcrest", "queerness", "discrimination", "heredity", "author commentary"]
+
+[[annotations]]
+id = 54
+chapter = "Accountant 1"
+page = 19
+quote = "'...because a cormorant was the only thing that made me stop crying.'"
+notes = "<i>Again, one of Baru’s character flaws. She has trouble drawing strength from human connections.</i>  (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "a cormorant"
+tags = ["Baru", "author commentary"]
+
+[[annotations]]
+id = 55
+chapter = "Accountant 1"
+page = 20
+quote = "'You’re going to have a brilliant future. Come see me again. Ask for Cairdine Farrier.'"
+notes = "<i>Nasty bastard. Farrier’s motives are noble, from his own perspective: he believes that genius can come from anywhere, and that the Empire has a responsibility to identify bright children and hit them with the very best education and indoctrination. Farrier’s own credibility depends on his ability to find good students.</i>  (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "ask for Cairdine Farrier"
+tags = ["Farrier", "author commentary"]
+
+[[annotations]]
+id = 55
+chapter = "Accountant 1"
+page = 20
+quote = "...as if he had swallowed his own snot."
+notes = "<i>Gross, and an authorial vote for Farrier’s hypocrisy, since the hygiene-obsessed Falcresti would be disgusted at the image.</i>  (source: <a href='https://www.sethdickinson.com/2015/10/01/the-traitor-baru-cormorant-read-along-chapter-1/'>The Traitor Baru Cormorant read-along: Chapter 1</a>)"
+shortname = "ask for Cairdine Farrier"
+tags = ["Farrier", "author commentary"]
