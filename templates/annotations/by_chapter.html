@@ -14,6 +14,15 @@
 
 {% set chapters = ["Epigram", "Accountant 1", "Accountant 2"] %}
 
+<h3 class="centered" id="table-of-contents">Table of Contents</h3>
+
+
+<p class="centered">
+  {% for chapter in chapters %}
+    <a href="#chapter-{{ chapter }}">{{ chapter }}</a></br>
+  {% endfor %}
+</p>
+
 {% for chapter in chapters %}
   <h3 class="centered" id="chapter-{{ chapter }}">{{ chapter }}</h2>
     {% for a in annotations | sort(attribute="id") %}
