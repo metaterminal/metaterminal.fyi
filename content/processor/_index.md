@@ -5,7 +5,7 @@ sort_by = "date"
 page_template = "puzzle-page.html"
 +++
 
-This is a two-cycle pipelined RISC-V processor with a limited instruction set. I created this as part of my Design of Computing Systems (ENGN1640) class, which I took in my junior spring at Brown.
+This is a two-stage pipelined RISC-V processor with a limited instruction set. I created this as part of my Design of Computing Systems (ENGN1640) class, which I took in my junior spring at Brown.
 
 This document covers the general structure of the processor, the pipelining strategy I selected, and an example program (Sokoban). Sokoban was created in collaboration with my lab partner, Yash Vora.
 
