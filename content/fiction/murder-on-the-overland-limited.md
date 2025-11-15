@@ -1,5 +1,5 @@
 +++
-title = "MetaTerminal Presents: The Murder on the Overland Limited"
+title = "metaterminal Presents: The Murder on the Overland Limited"
 date = 2023-06-13
 +++
 
