@@ -3,7 +3,7 @@ title = "An email I sent about the 2024 Brown Egg Hunt"
 date = 2025-11-15
 
 [taxonomies]
-tags = ["puzzles","notes"]
+tags = ["puzzles","analysis","notes"]
 +++
 
 > **Re: Greetings**<br/>
