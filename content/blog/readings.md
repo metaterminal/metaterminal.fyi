@@ -10,7 +10,7 @@ As part of my duties as ombudsperson of ARRR!!! (Brown's only pirate a-cappella 
 
 <!-- more -->
 
-+ 09/19: The story about maps, excerpted from p. 196 of [*Sylvie and Bruno Concluded*](https://www.gutenberg.org/files/48795/48795-h/48795-h.htm) by Lewis Carroll
++ 09/19: The story about maps, excerpted from p. 169 of [*Sylvie and Bruno Concluded*](https://www.gutenberg.org/files/48795/48795-h/48795-h.htm) by Lewis Carroll
 + 09/26: [A Story About ‘Magic'](http://www.catb.org/jargon/html/magic-story.html)
 + 10/03: [The Walrus and the Carpenter](https://www.poetryfoundation.org/poems/43914/the-walrus-and-the-carpenter-56d222cbc80a9) by Lewis Carroll
 + 10/10: Death and Homeward, excerpted from [Aspects](https://en.wikipedia.org/wiki/Aspects_(novel)) by John M. Ford / [The Road Not Taken](https://www.poetryfoundation.org/poems/44272/the-road-not-taken) by Robert Frost
