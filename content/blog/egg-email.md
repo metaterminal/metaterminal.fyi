@@ -11,7 +11,7 @@ tags = ["puzzles","notes"]
 
 Hello!
 
-Good to hear from you! Sorry for the late reply, it's been a busy few days<!-- more -->. I also have a lot of thoughts about Egg Hunt and I want to see it learn and grow over time. Despite the fact that I have a lot of work to do this evening, this will probably end up being a fairly detailed write-up.
+Good to hear from you! Sorry for the late reply, it's been a busy few days.<!-- more --> I also have a lot of thoughts about Egg Hunt and I want to see it learn and grow over time. Despite the fact that I have a lot of work to do this evening, this will probably end up being a fairly detailed write-up.
 
 A lot of this might seem predominantly negative. Let me head off by saying that I absolutely **loved** doing Hunt this year, and I'm stoked that it happens each year. The production value with the eggs was off the charts. Also, the different comments going up [on the website](https://brownegghunt.com/2024) was very fun.
 
