@@ -1,5 +1,5 @@
 +++
-title = "Weekly poems"
+title = "Weekly stories and poems"
 date = 2025-11-14
 
 [taxonomies]
