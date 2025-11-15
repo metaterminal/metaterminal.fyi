@@ -14,7 +14,7 @@ As part of my duties as ombudsperson of ARRR!!! (Brown's only pirate a-cappella 
 + 09/26: [A Story About ‘Magic'](http://www.catb.org/jargon/html/magic-story.html)
 + 10/03: [The Walrus and the Carpenter](https://www.poetryfoundation.org/poems/43914/the-walrus-and-the-carpenter-56d222cbc80a9) by Lewis Carroll
 + 10/10: Death and Homeward, excerpted from [Aspects](https://en.wikipedia.org/wiki/Aspects_(novel)) by John M. Ford / [The Road Not Taken](https://www.poetryfoundation.org/poems/44272/the-road-not-taken) by Robert Frost
-+ 10/17: [Far Over the Misty Mountains Cold](https://tolkiengateway.net/wiki/Far_over_the_misty_mountains_cold) by J.R.R. Tolkien
++ 10/17: [Far Over the Misty Mountains Cold](https://tolkiengateway.net/wiki/Far_over_the_misty_mountains_cold), excerpted from [The Hobbit](https://en.wikipedia.org/wiki/The_Hobbit) by J.R.R. Tolkien
 + 10/24: [The Feline Photograph](https://www.youtube.com/watch?v=vewLmr6B5GU) by Austin Flory / *For sale: baby shoes, never worn.*
 + 10/31: (guest reading) [Tableau at Twilight](http://holyjoe.org/poetry/nash8.htm) by Ogden Nash / [O Where Are You Going?](https://allpoetry.com/O-Where-Are-You-Going-) by W.H. Auden
 + 11/07: (no rehearsal)
