@@ -5,7 +5,7 @@ template = "puzzles.html"
 page_template = "annotations/from_data.html"
 +++
 
-The *Baru Cormorant* series, by Seth Dickinson, is an epic fantasy, a political treatise, a queer character study, a real-world mirror; and every page fizzes and bubbles with secret meaning. 
+The *Baru Cormorant* series, by Seth Dickinson, is an epic fantasy series debuted in 2014 with its first installment, *The Traitor Baru Cormorant*. It is also a political treatise, a queer character study, a real-world mirror; and every page fizzes and bubbles with secret meaning. 
 
 As I read I was nascently aware of details slipping past me. Thoughtful worldbuilding. Historical allusions. Unsolved (but solvable) murders. Hidden agendas abound... double, triple, even *quadruple* agents wind their way through the plot.
 
@@ -26,6 +26,6 @@ Other sources that were essential in the creation of these annotations:
 
 Before beginning, a general observation: Baru is a *severely unreliable narrator*. I have tried to makes notes with this in mind.
 
-Where not quoting other writers, all opinions are my own.
+Where not quoting other writers in italics, all opinions are my own.
 
-+ [The Traitor Baru Cormorant](traitor)
+<div style="text-align: center;"><a href="/annotated-baru-cormorant/traitor">The Traitor Baru Cormorant</a></div>
