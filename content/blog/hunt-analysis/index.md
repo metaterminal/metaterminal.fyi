@@ -175,7 +175,7 @@ What about co-authorship?
 
 <img src="coauthorship.png" width="100%" alt="A plot of the average number of authors per puzzle each year from 2014 to 2024."/>
 
-The trendline is vaguely upwards; each puzzle tends to be written by more people over time, though with a great deal of variance. Practically this isn't a huge difference. Indeed, it's telling that the only years with an average authors-per-puzzle greater than 2 (2018, 2021, and 2023) are the three years with the densest and most involved meta structures. When the data for 2025 are collated, I would be curious to see whether this remains true.
+The trendline is vaguely upwards; each puzzle tends to be written by more people over time, though with a great deal of variance. Practically this isn't a huge difference. It's telling that the only years with an average authors-per-puzzle greater than 2 (2018, 2021, and 2023) are the three years with the densest and most involved meta structures. When the data for 2025 are collated, I would be curious to see whether this remains true.
 
 Why did I do this? Oh, right. I wanted to see whether there seemed to be any correlation between the shape of this graph (telling us how many authors each puzzle had) and the graph showing us the distribution of different "types" of puzzle authors. Do years with higher coauthorship show higher average puzzles-per-person?
 
@@ -205,7 +205,7 @@ So it's hard to say that the number of metas are increasing either.
 
 Chris King has compiled data on finishing times [here](https://x.com/ckingsc/status/1612833874123567106/photo/1). Sadly this runs only up to 2022, although it goes pretty far back!
 
-According to my own calculations and the [Puzzle Wiki](https://www.puzzles.wiki/wiki/MIT_Mystery_Hunt_2025), 2023 through to 2025 took 66, 64, and 47 hours respectively for the Coin to be found. So while 2023 and 2024 are both significantly longer than average, 2025 was more of a return to form (indeed, it cuts right down the middle of the wide-variance graph).
+According to my own calculations and the [Puzzle Wiki](https://www.puzzles.wiki/wiki/MIT_Mystery_Hunt_2025), 2023 through to 2025 took 66, 64, and 47 hours respectively for the Coin to be found. So while 2023 and 2024 are both significantly longer than average, 2025 was more of a return to form (it cuts right down the middle of the wide-variance graph).
 
 But 2025 was not hailed as a masterful shortening of overall hunt length; quite the opposite, actually. And people were complaining about hunt length and difficulty long before 2023. Something else is going on here.
 
@@ -217,7 +217,7 @@ While it is near-impossible to gather consistent data about team sizings over th
 
 1) Large team sizes are nothing new.
 
-As we've seen above, it doesn't seem like the average writing team size has gotten particularly large. Indeed, they've remained fairly stable.
+As we've seen above, it doesn't seem like the average writing team size has gotten particularly large. They've remained fairly stable.
 
 2) Large teams don't necessarily write hunts with lots of puzzles.
 

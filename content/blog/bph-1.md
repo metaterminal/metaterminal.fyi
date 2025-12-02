@@ -54,7 +54,7 @@ In November of last year, I got sick with something called infectious mononucleo
 
 After about a month or so of bed rest and taking steroids, I was fine. Except...
 
-Infectious mononucleosis has a lot of strange and poorly understood interactions with your immune system. (Indeed, it increases your risk profiles for a number of other immune diseases, like multiple sclerosis.) One of these interactions is that it tends to increase the severity of other infections (viral and bacterial) you get for many, many months after you've had it. So if you're the kind of person who gets sick because you went on an airplane, your infrequent low-grade illnesses get both more frequent and more high-grade. The result over the last month has been a revolving door of bacterial and viral infections, respiratory symptoms, constant fatigue, and other very fun things that I won't get into.
+Infectious mononucleosis has a lot of strange and poorly understood interactions with your immune system. (In fact, it increases your risk profiles for a number of other immune diseases, like multiple sclerosis.) One of these interactions is that it tends to increase the severity of other infections (viral and bacterial) you get for many, many months after you've had it. So if you're the kind of person who gets sick because you went on an airplane, your infrequent low-grade illnesses get both more frequent and more high-grade. The result over the last month has been a revolving door of bacterial and viral infections, respiratory symptoms, constant fatigue, and other very fun things that I won't get into.
 
 (In hindsight, I was incredibly lucky to not get sick in the months leading up to Brown Puzzlehunt. See the bit about pianos.)
 
