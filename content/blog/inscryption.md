@@ -20,7 +20,7 @@ And then you beat that bit and…
 
 Well, spoilers.
 
-Inscryption is really great. *All* of it is really great; this is not a negative review. It’s got a free expansion that builds on the best bits that I’m about to compliment. Steam says I’ve played it for nearly 26 hours. Since it takes about 12 to beat, that means I’ve sunk about 8 viewings of Shrek 2 into this game *after* I beat it. Take that as my recommendation and go play the goddamn thing.
+Inscryption is really great. *All* of it is really great; this is not a negative review. It’s got a free expansion that builds on the best bits that I’m about to compliment. Steam says I’ve played it for nearly 26 hours. Since it takes about 12 to beat, that means I’ve sunk about 8 viewings of Shrek 2 into this game *after* I beat it. Take that as my recommendation and go play the thing.
 
 Where was I? Ah, yes.
 
