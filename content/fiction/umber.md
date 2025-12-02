@@ -7,7 +7,7 @@ Arthur Salenci’s *An Umber Coin*, published in 1932, has widely been hailed as
 
 What I intend to examine is instead a particular thematic object, which on first pass seems almost wholly irrelevant. Items are crucial in *An Umber Coin*; swords, cups, and coins move throughout. Great battles are won and lost on the possession of certain tokens. In light of this, the focus of my writing here may seem strange: a recurring book, which takes many appearances throughout, which easily blends into the scenery. But this obscure text is, in fact, read by many characters throughout the epic.
 
-Indeed, no excerpt from this work is included verbatim in *Coin*. While many in-universe poems and performances are included entirely, and draw comment from its various characters, a particular text is repeatedly mentioned, yet hardly ever described. Its first mention is early, when Arth – the friendly Cewri who assists the heroes on their journey – reads it:
+No excerpt from this work is included verbatim in *Coin*. While many in-universe poems and performances are included entirely, and draw comment from its various characters, a particular text is repeatedly mentioned, yet hardly ever described. Its first mention is early, when Arth – the friendly Cewri who assists the heroes on their journey – reads it:
 
 > The great man was hunched in the firelight, poring over a tome that seemed by perspective slender. When Arth noticed his entrance, he straightened, and placed the book beside, not caring to mark his place. Rolando could see the cover was made of red and gold.
 > 

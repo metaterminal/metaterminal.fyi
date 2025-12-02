@@ -122,7 +122,7 @@ The top of the screen says SOKOBAN - LEVEL N, where N is the current level.
 
 ### Winning and Levels
 
-A player beats their current level when every pressure plate is covered by a block. As currently implemented, each level has the same number of plates and blocks; however, it is theoretically possible for a level to have more blocks than plates, and indeed the current setup supports this. In that case, all the game requires is for every plate to be covered; not for every block to be on a
+A player beats their current level when every pressure plate is covered by a block. As currently implemented, each level has the same number of plates and blocks; however, it is theoretically possible for a level to have more blocks than plates, and the current setup supports this. In that case, all the game requires is for every plate to be covered; not for every block to be on a
 plate.
 
 When a level is beaten, the game wipes the screen and then renders the next level for them to play. The player advances sequentially through levels (so level 1 first, then level 2, then level 3.) A winscreen is displayed after the second level (to demonstrate functionality); but hitting the reset switch on the winscreen will display more levels! 

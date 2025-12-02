@@ -21,7 +21,7 @@ Following my usual summoning by telephone we met on the mid-day street. It was t
 
 “You should know him as a great inventor of automatons.”
 
-Indeed, I did – this man was quite famous, for inventing automatons which could play chess without the aid of a human player. Recently there had been quite a bit in the papers about a challenge between himself and a great rival from Europe. The person who might construct the better player would be deemed the winner between them; the challenge had captured the attention of the public, as such things commonly do. The murdered inventor himself had not been seen in public in some time. “That’s a foul occurrence. I liked the man.”
+I did indeed – this man was quite famous, for inventing automatons which could play chess without the aid of a human player. Recently there had been quite a bit in the papers about a challenge between himself and a great rival from Europe. The person who might construct the better player would be deemed the winner between them; the challenge had captured the attention of the public, as such things commonly do. The murdered inventor himself had not been seen in public in some time. “That’s a foul occurrence. I liked the man.”
 
 “I believe he had a reputation for cruelty. But that is beside the point.”
 
@@ -31,7 +31,7 @@ After some effort we arrived at the top of the building. A single door here cut 
 
 “It is myself,” said R, “and my usual companion. You sent for us. Otherwise we are alone.”
 
-I heard the turning of a key from inside the door (and thought it strange that the door may lock from the inside). Then it was opened. Indeed, the Prefect stood there in the doorway – I was surprised that he would be here, and I told him so.
+I heard the turning of a key from inside the door (and thought it strange that the door may lock from the inside). Then it was opened. The Prefect stood there in the doorway – I was surprised that he would be here, and I told him so.
 
 “I was already here when the incident occurred,” said the Prefect. He looked quite unnerved.
 
@@ -197,11 +197,11 @@ She crossed the floor to where the footprints stopped, and stamped on a part of 
 
 Down I went. I was at this point tiring of the exploration, and the rather treacherous set of rungs did nothing to cheer me up. Eventually, though, I stepped upon solid ground, and came away from the ladder to observe. That ladder was disguised into the scenery of a Kitchen, so that even a keen eye would not light upon it except with direction. 
 
-This room was cramped and poorly kept. Dirty things and cooking pots crowded open surfaces, and in places even spilled over onto the floor. 
+This room was cramped and poorly kept. Dirty things and cooking pots clamoring for attention. In places even spilled over onto the floor, making desperate bids for freedom. 
 
 Finally, we took the only door in the room (to the east), and found ourselves back in the Storeroom. (With our crossing the shag rug, there were now two sets of footprints leading one way across it, and five in the other.) At that moment I thought we had explored every room in the house. “Not as big as I thought,” I remarked, perhaps too flippantly.
 
-“To the minotaur, the labyrinth might seem the whole world,” said the detective. She drew a hand across her face. “Indeed, we now have enough information to solve the case.”
+“To the minotaur, the labyrinth might seem the whole world,” said the detective. She drew a hand across her face. “As it stands, we now have enough information to solve the case.”
 
 In my earlier years I would have expressed some kind of shock. At this point, I knew the pattern of things, and would wait patiently for the truth of the matter to unfurl.
 
