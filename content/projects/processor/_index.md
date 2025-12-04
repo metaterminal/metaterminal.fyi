@@ -6,7 +6,7 @@ page_template = "puzzle-page.html"
 
 This is a two-stage pipelined RISC-V processor with a limited instruction set. I created this as part of my Design of Computing Systems (ENGN1640) class, which I took in my junior spring at Brown.
 
-Previously in the class, we had created (from scratch) a single-cycle RISC-V processor with no pipelining. That means the processor fully completes one instruction (reading it from instruction memory, copying the relevant memory out of the stack into a register, doing the calculation, and storing the result) before embarking on the next one. As one can imagine, this is fairly inefficient. The goal was to improve the processor by at least 15% using pipelining.
+Previously in the class, we had created a single-cycle RISC-V processor with no pipelining. That means the processor fully completes one instruction (reading it from instruction memory, copying the relevant memory out of the stack into a register, doing the calculation, and storing the result) before embarking on the next one. As one can imagine, this is fairly inefficient. The goal was to improve the processor by at least 15% using pipelining.
 
 This document covers the general structure of the processor, the pipelining strategy I selected, and an example program (Sokoban). Sokoban was created in collaboration with my lab partner, Yash Vora.
 
@@ -50,9 +50,9 @@ Implementation of the processor was done through Altera's Quartus, a programmabl
 
 ### Memory and Stack
 
-The instruction memory can contain up to 2^32 - 1 instructions (although this can be readily extended). The first entry in instruction memory (address 0) is hardcoded to be 0 and should not be overwritten (or undefined behavior will be observed). The first instruction should be written to the instruction memory location +
+The instruction memory can contain up to 2<sup>32</sup> - 1 instructions (although this can be readily extended). The first entry in instruction memory (address 0) is hardcoded to be 0 and should not be overwritten (or undefined behavior will be observed). The first instruction should be written to the instruction memory location 1.
 
-The stack contains 256 32-bit entries, placed at intervals of 4 words. Stack access is word-aligned (that is, the stack pointer will access at multiples of +) If sp is not a multiple of 4, the value will get rounded down to the nearest multiple of 4 before access. The stack pointer (x2) is initialized to 1020, which accesses the last (255th) entry.
+The stack contains 256 32-bit entries, placed at intervals of 4 words. Stack access is word-aligned (that is, the stack pointer will access at multiples of 4.) If sp is not a multiple of 4, the value will get rounded down to the nearest multiple of 4 before access. The stack pointer (x2) is initialized to 1020, which accesses the last (255th) entry.
 
 ### Pipelining and Branch Resolution
 
@@ -98,7 +98,7 @@ The processor contains eight total modules:
 + Data Memory (ram:data_memory): where the memory for the stack is stored.
 + I/O Controller (io_control): polls the input buttons and switches, and sets reserved registers based on their current values.
 
-Including the PLL (to generates the 95MHz clock with a 20% duty cycle from the FPGA's onboard clock), and the VGA buffer/video controller, this makes ten modules. There are also various MUXes to select inputs for different modules based on control bits (set by the control module).
+Including the PLL (which generates the 95MHz clock with a 20% duty cycle from the FPGA's onboard clock), and the VGA buffer/video controller, this makes ten modules. There are also various MUXes to select inputs for different modules based on control bits (set by the control module).
 
 ### Resource Consumption
 
@@ -153,7 +153,7 @@ The top of the screen says SOKOBAN - LEVEL N, where N is the current level.
 A player beats their current level when every pressure plate is covered by a block. As currently implemented, each level has the same number of plates and blocks; however, it is theoretically possible for a level to have more blocks than plates, and indeed the current setup supports this. In that case, all the game requires is for every plate to be covered; not for every block to be on a
 plate.
 
-When a level is beaten, the game wipes the screen and then renders the next level for them to play. The player advances sequentially through levels (so level 1 first, then level 2, then level +) A winscreen is displayed after the second level (to demonstrate functionality); but hitting the reset switch on the winscreen will display more levels! 
+When a level is beaten, the game wipes the screen and then renders the next level for them to play. The player advances sequentially through levels (so level 1 first, then level 2, then level 3). A winscreen is displayed after the second level (to demonstrate functionality); but hitting the reset switch on the winscreen will display more levels! 
 
 ### Register Descriptions 
 

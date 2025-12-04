@@ -4,15 +4,15 @@ template = "puzzles.html"
 page_template = "puzzle-page.html"
 +++
 
-This is the project I wprked on in ENGN1650, which is a required capstone class for all students in Computer Engineering. I was one of four members working on this project.
+This is the project I worked on in ENGN1650, which is a required capstone class for all students in Computer Engineering. I was one of four members on this project.
 
-This is an ongoing design -- it's a two-semester class! -- but I'm going to throw some notes in here as we create things. By the end of the process I hope to have everything (circuit diagram, PCB design, etc.) documented.
+The design process for the badge is ongoing -- it's a two-semester class! -- but I'm going to throw some notes in here as we create things. By the end of the academic year I hope to have everything (circuit diagram, PCB design, etc.) documented.
 
 ### Overall Concept
 
 This is a small, lightweight e-paper device designed as an interactive/updatable name or conference badge. Users can cycle between multiple badge displays with a button press, transmit data to other badges or mobile devices with a "tap", and receive data through the same mechanism. The badge display has four colors: white, black, red, and yellow. 
 
-For now, this is mainly a discussion of image processing, since that was what I worked most directly on.
+For now, this is mainly a discussion of image processing, since that is what I am working on currently.
 
 ### Image Rendering
 
@@ -32,7 +32,7 @@ A naive approach might be to (after rescaling and cropping the image) quantize e
 
 It looks bad. There's nasty image artifacting, we've lost a lot of detail, and the contrast is way too high. This is a form of **quantization error**: because each pixel is being heavily quantized, the overall error of the image is large.
 
-To combat this, we're going to use a dithering process. There are many dithering algorithms, with different goals, but the Floyd-Steinberg algorithm is the king among error-reduction dithers and it's what we'll use here. The idea is that each time we quantize a pixel, it introduces some error; so if we want to reduce the overall error in the image, we need to propagate that error into neighboring pixels. (So if one pixel is cast into red, and it's decently far from being red, then the pixels around it are less likely to be red.) We go row-by-row, column-by-column, propagating error with the following matrix:
+To combat this, we're going to use a dithering process. There are many dithering algorithms, with different goals, but the Floyd-Steinberg algorithm is the king among error-reduction dithers and it's what we'll use here. The idea is that each time we quantize a pixel, it introduces some error; so if we want to reduce the overall error in the image, we need to propagate that error into neighboring pixels. (So if one pixel is cast into red, then the pixels around it are less likely to be sent to red.) We go row-by-row, column-by-column, propagating error with the following matrix:
 
 <img src="/projects/badge/fs_matrix.svg" alt="The Floyd-Steinberg dither matrix." style="max-width: 100%; object-fit: cover; display:block; margin:auto;">
 
