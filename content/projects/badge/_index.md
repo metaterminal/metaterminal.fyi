@@ -84,7 +84,7 @@ A nice aspect of our color palette is that we can fairly effectively mimic human
 
 Pretty decent! Some skintones get cast a little more ruddy than they are in real life, though the effect isn't too bad. Blues are not handled accurately at all, but they get sent rather tastefully into grayscale. (Though might be a product dealbreaker if, say, your company has a blue color palette, or you're a cosplayer who primarily wears blue.)
 
-The more noticeable problem is that some people get badly bleached out. This is we're not accounting for something that's fairly important to the way humans perceive images: gamma correction!
+The more noticeable problem is that some people get badly bleached out. We're not accounting for something that's fairly important to the way humans perceive images: gamma correction!
 
 #### Gamma Correction
 
