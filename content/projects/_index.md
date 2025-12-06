@@ -16,6 +16,10 @@ This is not a complete list. Not all my classes are in CS/engineering; not all o
 
 &nbsp;
 
+---
+
+&nbsp;
+
 Some miscellaneous projects I've worked on are below. This is also not a complete list.
 
 ### Web Development

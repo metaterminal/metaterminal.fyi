@@ -7,7 +7,11 @@ page_template = "puzzle-page.html"
 
 I like puzzles, and sometimes I write them. Over the years, I've written quite a few. Puzzles are ordered in reverse chronological order by release date.
 
-I have marked a few puzzles that I am particularly proud of in *italics*.
+Some highlights:
+
++ [Interview Questions](https://mitmysteryheist.com/puzzles/expert/interview/): a series of apparently-impossible questions
++ [The God of the Labyrinth](../fiction/labyrinth/): a short story
++ [Pushing the Rules](https://metaterminal.itch.io/pushing-the-rules): a block-pushing game about words<a class="footnote"><sup>1</sup><span>This puzzle won the Bravo Award for Best Interactive Puzzle of 2023!</span></a>
 
 ### MIT Mystery Hatch (2025)
 
@@ -84,7 +88,7 @@ I worked on (i.e. helped fix) the post-production of puzzles for the website, an
 
 I also wrote these puzzles:
 
-+ [*Interview Questions*](https://mitmysteryheist.com/puzzles/expert/interview/) (co-writer with Zach Barnett)
++ [Interview Questions](https://mitmysteryheist.com/puzzles/expert/interview/) (co-writer with Zach Barnett)
 + [Detour de Force](https://mitmysteryheist.com/puzzles/expert/supermeta/) (metapuzzle; co-writer with many others)
 
 ### Brown Orientation Hunt (2024)
@@ -108,7 +112,7 @@ Providence, the team I currently hunt with for the MIT Mystery Hunt, ran some in
 I acted as Puzzle Construction Director, and so had editorial input on many puzzles, but I am listed as an author on:
 
 + [The Flowers](https://2024.brownpuzzlehunt.com/puzzle/flowers) (both versions) (co-writer)
-+ [*The God of the Labyrinth*](../fiction/labyrinth/)
++ [The God of the Labyrinth](../fiction/labyrinth/)
 + [The Nomenclept](https://2024.brownpuzzlehunt.com/puzzle/nomenclept-puzz) (both versions) (metapuzzles; co-writer)
 + [The Case of the Colored Thread](https://2024.brownpuzzlehunt.com/majorcase/colored-thread) (metapuzzle; co-writer)
 + [The Case of Social Deduction](https://2024.brownpuzzlehunt.com/majorcase/social-deduction) (metapuzzle; co-writer)
@@ -127,7 +131,7 @@ It takes place in the same canon as Shardhunt 0 (which has never been publicly r
 + [The Only Sanderson Puzzle](https://shardhunt.com/puzzle/the-only-sanderson-puzzle)
 + [Marked Books](https://shardhunt.com/puzzle/marked-books) (metapuzzle; co-writer)
 + [The State Puzzle](https://shardhunt.com/puzzle/state-puzzle) (co-writer)
-+ [*Pushing the Rules*](https://shardhunt.com/puzzle/pushing-the-rules) <a class="footnote"><sup>1</sup><span>This puzzle won the Bravo Award for Best Interactive Puzzle of 2023!</span></a>
++ [Pushing the Rules](https://shardhunt.com/puzzle/pushing-the-rules)
 + [It's Your Turn](https://shardhunt.com/puzzle/its-your-turn) (co-writer)
 + [Rovers](https://shardhunt.com/puzzle/rovers)
 + [Interplanetary Hopper](https://shardhunt.com/puzzle/interplanetary-hopper)
