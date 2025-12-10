@@ -1,10 +1,10 @@
 +++
 title = "Jet Lag: The Game: Hide and Seek: Providence Edition (A Review)"
 date = 2025-11-30
++++
 
 [taxonomies]
 tags = ["adventures","rhode-island","analysis"]
-+++
 
 Hear ye, passing traveller, of a tale of whimsy and woe.
 
