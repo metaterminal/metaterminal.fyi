@@ -49,6 +49,11 @@ Much better. This actually looks rather nice, modulo some experimenting with the
 A nice aspect of our color palette is that we can fairly effectively mimic human skintones, since they tend to be warmer. Let's try this on a some different skin palettes and see how they look:
 
 <div style="display: flex; justify-content:center;">
+<img src="/projects/badge/edsheeran.png" alt="Ed Sheeran." style="max-height: 200px; object-fit: cover; border:1px solid black;">
+<img src="/projects/badge/nyongo.webp" alt="Lupita Nyong'o." style="max-height: 200px; object-fit: cover; border:1px solid black;">
+</div>
+
+<div style="display: flex; justify-content:center;">
 <img src="/projects/badge/ken.jpg" alt="Ken Silverman." style="max-height: 200px; object-fit: cover; border:1px solid black;">
 <img src="/projects/badge/jej.png" alt="James Earl Jones." style="max-height: 200px; object-fit: cover; border:1px solid black;">
 <img src="/projects/badge/obama.png" alt="Barack Obama." style="max-height: 200px; object-fit: cover; border:1px solid black;">
@@ -66,6 +71,11 @@ A nice aspect of our color palette is that we can fairly effectively mimic human
 </div>
 
 <div style="display: flex; justify-content:center; margin-top: 10px;">
+<img src="/projects/badge/edsheeranq.png" alt="Ed Sheeran." style="max-height: 200px; object-fit: cover; border:1px solid black;">
+<img src="/projects/badge/nyongoq.png" alt="Lupita Nyong'o." style="max-height: 200px; object-fit: cover; border:1px solid black;">
+</div>
+
+<div style="display: flex; justify-content:center;">
 <img src="/projects/badge/kenq.png" alt="Ken Silverman." style="max-height: 200px; object-fit: cover; border:1px solid black;">
 <img src="/projects/badge/jejq.png" alt="James Earl Jones." style="max-height: 200px; object-fit: cover; border:1px solid black;">
 <img src="/projects/badge/obamaq.png" alt="Barack Obama." style="max-height: 200px; object-fit: cover; border:1px solid black;">
