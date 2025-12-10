@@ -108,19 +108,19 @@ The human eye does not perceive light linearly. In particular, we have greater s
 
 For instance, most image formats encode using sRGB, using the following transfer function:
 
-<img src="/projects/badge/srgb.svg" alt="The sRGB transfer function." style="max-width: 100%; object-fit: cover; display:block; margin:auto;">
+<img src="/projects/badge/srgb.png" alt="The sRGB transfer function." style="max-width: 100%; object-fit: cover; display:block; margin:auto;">
 
-<div class="centered" style="margin-top: 10px;">source: <a href="https://en.wikipedia.org/wiki/SRGB">Wikipedia</a></div>
+<div class="centered" style="margin-top: 10px;">source: <a href="https://en.wikipedia.org/wiki/SRGB">Wikipedia</a>.</div>
 
-Small-value (dark) pixels are encoded linearly, to preserve shadows; the rest are mapped very close to a "standard" gamma correction, where a pixel x is mapped to x<sup>2.2</sup>. The transfer curve (blue) and the corresponding pixel intensities (red) are below:
+Small-value (dark) pixels are encoded linearly, to preserve shadows; the rest are mapped very close to a "standard" gamma correction, where a pixel x is mapped to x<sup>1/2.2</sup>. The transfer curve (blue) and the corresponding pixel intensities (red) are below:
 
 <img src="/projects/badge/plot.png" alt="The sRGB transfer function and its corresponding pixel intensities." style="max-width: 100%; object-fit: cover; display:block; margin:auto;">
 
 <div class="centered" style="margin-top: 10px;">source: <a href="https://en.wikipedia.org/wiki/SRGB#/media/File:SRGB_gamma.svg">Wikipedia</a></div>
 
-The red curve maps very closely to an x<sup>2.2</sup> gamma correction (the black stepwise function).
+The red curve maps very closely to an x<sup>1/2.2</sup> gamma correction (the black stepwise function).
 
-The problem arises when we have this gamma correction applied, and then we dither on top of it. For example, consider a uniformly grey image of 50% intensity: if the grey image is gamma corrected and then dithered, we would have approximately 21.4% of the image as white pixels, rather than 50% as we want. This has the effect of making everything way too dark.
+The problem arises when we have this gamma correction applied, and then we dither on top of it. For example, consider a uniformly grey image of 50% intensity: if the grey image is gamma corrected and then dithered, we would have approximately 73.5% of the image as white pixels, rather than 50% as we want. This has the effect of making everything way too bright.
 
 Let's undo the sRGB encoding, and put the pixel values back into linear light intensity before dithering:
 
