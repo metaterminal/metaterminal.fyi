@@ -110,7 +110,7 @@ For instance, most image formats encode using sRGB, using the following transfer
 
 <img src="/projects/badge/srgb.png" alt="The sRGB transfer function." style="max-width: 100%; object-fit: cover; display:block; margin:auto;">
 
-<div class="centered" style="margin-top: 10px;">source: <a href="https://en.wikipedia.org/wiki/SRGB">Wikipedia</a>.</div>
+<div class="centered" style="margin-top: 10px;">source: <a href="https://en.wikipedia.org/wiki/SRGB">Wikipedia</a></div>
 
 Small-value (dark) pixels are encoded linearly, to preserve shadows; the rest are mapped very close to a "standard" gamma correction, where a pixel x is mapped to x<sup>1/2.2</sup>. The transfer curve (blue) and the corresponding pixel intensities (red) are below:
 
