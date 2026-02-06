@@ -5,6 +5,8 @@ template = "puzzles.html"
 page_template = "annotations/from_data.html"
 +++
 
+> *This project is on hiatus until June 2026, at the earliest.*
+
 The *Baru Cormorant* series, by Seth Dickinson, is an epic fantasy series debuted in 2014 with its first installment, *The Traitor Baru Cormorant*. It is also a political treatise, a queer character study, a real-world mirror; and every page fizzes and bubbles with secret meaning. 
 
 As I read I was nascently aware of details slipping past me. Thoughtful worldbuilding. Historical allusions. Unsolved (but solvable) murders. Hidden agendas abound... double, triple, even *quadruple* agents wind their way through the plot.

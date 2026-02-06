@@ -7,6 +7,35 @@
   {{ section.title }}
 </h1>
 
+<div id="words" style="font-style: italic; margin-top: 30px; margin-bottom: 30px; text-align: justify;"></div>
+
+<script>
+    const words = [
+        "knowing", "that", "the", "new", "law,",
+        "despite", "the", "protest", "of", "citizens,",
+        "and", "various", "legal", "challenges", "and",
+        "such,", "outlawed", "the", "very", "idea", "of",
+        "understanding", "it", "entirely,", "so", "that",
+        "upon", "codification", "a", "whole", "new", 
+        "generation", "of", "lawyers", "and", "scholars", 
+        "would", "go", "without"
+    ];
+
+    // knowing that the new law, despite the protest of citizens, and various legal challenges and such, outlawed the very idea of understanding it entirely, so that upon codification a whole generation of lawyers and scholars would go without
+
+    const startIndex = Math.floor(Math.random() * words.length);
+
+    const reordered = words
+        .slice(startIndex)
+        .concat(words.slice(0, startIndex));
+
+    // remove trailing comma if it falls at the end 
+    const lastIndex = reordered.length - 1;
+    reordered[lastIndex] = reordered[lastIndex].replace(/,$/, "");
+
+    document.getElementById("words").textContent = "..." + reordered.join(" ") + "...";
+</script>
+
 <ul>
   {% for page in section.pages %}
   <li>
