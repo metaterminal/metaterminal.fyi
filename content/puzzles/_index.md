@@ -9,9 +9,31 @@ I like puzzles, and sometimes I write them. Over the years, I've written quite a
 
 Some highlights:
 
-+ [Interview Questions](https://mitmysteryheist.com/puzzles/expert/interview/): a series of apparently-impossible questions
-+ [The God of the Labyrinth](../fiction/labyrinth/): a short story
-+ [Pushing the Rules](https://metaterminal.itch.io/pushing-the-rules): a block-pushing game about words<a class="footnote"><sup>1</sup><span>This puzzle won the Bravo Award for Best Interactive Puzzle of 2023!</span></a>
++ [Plagiarism](https://www.brownpuzzlehunt.com/puzzle/plagiarism) (2025): a link
++ [Interview Questions](https://mitmysteryheist.com/puzzles/expert/interview/) (2024): a series of apparently-impossible questions
++ [The God of the Labyrinth](../fiction/labyrinth/) (2024): a short story
++ [Pushing the Rules](https://metaterminal.itch.io/pushing-the-rules) (2023): a block-pushing game about words<a class="footnote"><sup>1</sup><span>This puzzle won the Bravo Award for Best Interactive Puzzle of 2023!</span></a>
+
+### Brown Puzzlehunt (2026)
+
+[Brown Puzzlehunt](https://www.brownpuzzlehunt.com/) was two puzzlehunts in a trenchcoat: 
+
+1) an in-person puzzlehunt located in Providence, Rhode Island, with physical puzzles, events, and a runaround; and
+2) a fully remote online-only puzzlehunt, which ran one week later.
+
+I was an Editor-in-Chief alongside Arnav Singhal. I also wrote a number of puzzles, and helped the technical team with some web development and puzzle post-production.
+
++ Architecture on College Hill (co-writer)
++ Voting Dynamics (co-writer)
++ Dirt
++ Experimental Cardiac Measurement (co-writer)
++ Anthropology of Computers (co-writer)
++ Bar Exam (co-writer)
++ Cubist Linguistics (co-writer)
++ Luck Practicum (co-writer)
++ Maritime Studies
++ Theological Chemistry
++ Fifth Year Master's
 
 ### MIT Mystery Hatch (2025)
 
@@ -45,34 +67,34 @@ among others.
 
 ### Brown Puzzlehunt (2025)
 
-[Brown Puzzlehunt](https://www.brownpuzzlehunt.com/) was two puzzlehunts in a trenchcoat: 
+[Brown Puzzlehunt](https://2025.brownpuzzlehunt.com/) was two puzzlehunts in a trenchcoat: 
 
 1) an in-person puzzlehunt located in Providence, Rhode Island, with physical puzzles, events, and a runaround; and
-2) a fully remote online-only puzzlehunt, ran one week later.
+2) a fully remote online-only puzzlehunt, which ran one week later.
 
 I acted as Puzzle Director, with final editorial say on all puzzles in the hunt. I also wrote a number of puzzles, and helped the technical team with some web development and puzzle post-production.
 
-+ [A Fistful of Cards](https://www.brownpuzzlehunt.com/puzzle/a-fistful-of-cards) sequence, particularly II (co-writer)
-+ [Heist](https://www.brownpuzzlehunt.com/puzzle/heist) sequence, particularly I and IV (co-writer)
-+ [Drop the...](https://www.brownpuzzlehunt.com/puzzle/drop-the) (metapuzzle; co-writer)
-+ [Find Ben](https://www.brownpuzzlehunt.com/puzzle/find-ben)
-+ [Walk of Fame](https://www.brownpuzzlehunt.com/puzzle/walk-of-fame)
-+ [Balloon Animals](https://www.brownpuzzlehunt.com/puzzle/balloon-animals) (metapuzzle; co-writer)
-+ [Connect the Dots](https://www.brownpuzzlehunt.com/puzzle/connect-the-dots) (co-writer)
-+ [Peanuts](https://www.brownpuzzlehunt.com/puzzle/peanuts) (co-writer)
-+ [Plagiarism](https://www.brownpuzzlehunt.com/puzzle/plagiarism) (co-writer)
-+ [Two Guards, Two Doors, A Boat, A River, and A Cabbage](https://www.brownpuzzlehunt.com/puzzle/two-guards-river) (co-writer)
-+ [Boring Plot](https://www.brownpuzzlehunt.com/puzzle/boring-plot) (metapuzzle; co-writer)
-+ [Blueno's Puzzle Box (Remote Version)](https://www.brownpuzzlehunt.com/puzzle/bluenos-puzzle-box)
-+ [Eye Spy](https://www.brownpuzzlehunt.com/puzzle/eye-spy) (co-writer)
-+ [One Guard, Two Doors, and A Screen](https://www.brownpuzzlehunt.com/puzzle/one-guard-screen) (co-writer)
-+ [Cutting Room Floor](https://www.brownpuzzlehunt.com/puzzle/cutting-room-floor) (metapuzzle; co-writer)
-+ [Color Wheel](https://www.brownpuzzlehunt.com/puzzle/color-wheel) (metapuzzle)
-+ [Constellation](https://www.brownpuzzlehunt.com/puzzle/constellation) (metapuzzle; co-writer)
-+ [Eye-to-Eye](https://www.brownpuzzlehunt.com/puzzle/eye-to-eye) (metapuzzle; co-writer)
-+ [Fridge Magnets](https://www.brownpuzzlehunt.com/puzzle/fridge-magnets) (metapuzzle; co-writer)
-+ [Like Clockwork](https://www.brownpuzzlehunt.com/puzzle/like-clockwork) (metapuzzle; co-writer)
-+ [The Compact Disc](https://www.brownpuzzlehunt.com/puzzle/the-compact-disc) (metapuzzle; co-writer)
++ [A Fistful of Cards](https://2025.brownpuzzlehunt.com/puzzle/a-fistful-of-cards) sequence, particularly II (co-writer)
++ [Heist](https://2025.brownpuzzlehunt.com/puzzle/heist) sequence, particularly I and IV (co-writer)
++ [Drop the...](https://2025.brownpuzzlehunt.com/puzzle/drop-the) (metapuzzle; co-writer)
++ [Find Ben](https://2025.brownpuzzlehunt.com/puzzle/find-ben)
++ [Walk of Fame](https://2025.brownpuzzlehunt.com/puzzle/walk-of-fame)
++ [Balloon Animals](https://2025.brownpuzzlehunt.com/puzzle/balloon-animals) (metapuzzle; co-writer)
++ [Connect the Dots](https://2025.brownpuzzlehunt.com/puzzle/connect-the-dots) (co-writer)
++ [Peanuts](https://2025.brownpuzzlehunt.com/puzzle/peanuts) (co-writer)
++ [Plagiarism](https://2025.brownpuzzlehunt.com/puzzle/plagiarism) (co-writer)
++ [Two Guards, Two Doors, A Boat, A River, and A Cabbage](https://2025.brownpuzzlehunt.com/puzzle/two-guards-river) (co-writer)
++ [Boring Plot](https://2025.brownpuzzlehunt.com/puzzle/boring-plot) (metapuzzle; co-writer)
++ [Blueno's Puzzle Box (Remote Version)](https://2025.brownpuzzlehunt.com/puzzle/bluenos-puzzle-box)
++ [Eye Spy](https://2025.brownpuzzlehunt.com/puzzle/eye-spy) (co-writer)
++ [One Guard, Two Doors, and A Screen](https://2025.brownpuzzlehunt.com/puzzle/one-guard-screen) (co-writer)
++ [Cutting Room Floor](https://2025.brownpuzzlehunt.com/puzzle/cutting-room-floor) (metapuzzle; co-writer)
++ [Color Wheel](https://2025.brownpuzzlehunt.com/puzzle/color-wheel) (metapuzzle)
++ [Constellation](https://2025.brownpuzzlehunt.com/puzzle/constellation) (metapuzzle; co-writer)
++ [Eye-to-Eye](https://2025.brownpuzzlehunt.com/puzzle/eye-to-eye) (metapuzzle; co-writer)
++ [Fridge Magnets](https://2025.brownpuzzlehunt.com/puzzle/fridge-magnets) (metapuzzle; co-writer)
++ [Like Clockwork](https://2025.brownpuzzlehunt.com/puzzle/like-clockwork) (metapuzzle; co-writer)
++ [The Compact Disc](https://2025.brownpuzzlehunt.com/puzzle/the-compact-disc) (metapuzzle; co-writer)
 
 ### CMU Soup Hunt (Spring 2025)
 
