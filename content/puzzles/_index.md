@@ -23,17 +23,17 @@ Some highlights:
 
 I was an Editor-in-Chief alongside Arnav Singhal. I also wrote a number of puzzles, and helped the technical team with some web development and puzzle post-production.
 
-+ Architecture on College Hill (co-writer)
-+ Voting Dynamics (co-writer)
-+ Dirt
-+ Experimental Cardiac Measurement (co-writer)
-+ Anthropology of Computers (co-writer)
-+ Bar Exam (co-writer)
-+ Cubist Linguistics (co-writer)
-+ Luck Practicum (co-writer)
-+ Maritime Studies
-+ Theological Chemistry
-+ Fifth Year Master's
++ [Architecture on College Hill](https://www.brownpuzzlehunt.com/puzzle/architecture-on-college-hill) (co-writer)
++ [Voting Dynamics](https://www.brownpuzzlehunt.com/puzzle/voting-dynamics) (co-writer)
++ [Dirt](https://www.brownpuzzlehunt.com/puzzle/dirt)
++ [Experimental Cardiac Measurement](https://www.brownpuzzlehunt.com/puzzle/experimental-cardiac-measurement) (co-writer)
++ [Anthropology of Computers](https://www.brownpuzzlehunt.com/puzzle/anthropology-of-computers) (co-writer)
++ [Bar Exam](https://www.brownpuzzlehunt.com/puzzle/bar-exam) (co-writer)
++ [Cubist Linguistics](https://www.brownpuzzlehunt.com/puzzle/cubist-linguistics) (co-writer)
++ [Luck Practicum](https://www.brownpuzzlehunt.com/puzzle/luck-practicum) (co-writer)
++ [Maritime Studies](https://www.brownpuzzlehunt.com/puzzle/maritime-studies)
++ [Theological Chemistry](https://www.brownpuzzlehunt.com/puzzle/theological-chemistry)
++ [Fifth Year Master's](https://www.brownpuzzlehunt.com/puzzle/fifth-year-masters)
 
 ### MIT Mystery Hatch (2025)
 
