@@ -9,7 +9,7 @@ I like puzzles, and sometimes I write them. Over the years, I've written quite a
 
 Some highlights:
 
-+ [Plagiarism](https://2026.brownpuzzlehunt.com/puzzle/plagiarism) (2025): a link
++ [Plagiarism](https://2025.brownpuzzlehunt.com/puzzle/plagiarism) (2025): a link
 + [Interview Questions](https://mitmysteryheist.com/puzzles/expert/interview/) (2024): a series of apparently-impossible questions
 + [The God of the Labyrinth](../fiction/labyrinth/) (2024): a short story
 + [Pushing the Rules](https://metaterminal.itch.io/pushing-the-rules) (2023): a block-pushing game about words<a class="footnote"><sup>1</sup><span>This puzzle won the Bravo Award for Best Interactive Puzzle of 2023!</span></a>
