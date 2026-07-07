@@ -33,7 +33,7 @@ This led immediately to the term "fish puzzle" to describe these extremely easy 
 
 But somewhere along the line, the fish began to mutate, in the dark...
 
-I don't know how to track these changes over time, but I know where the story ends: in the wrapup for the 2026 Mystery Hunt, Cardinality referred to the Kingdom puzzles (puzzles from the first half of the hunt) as fish puzzles. These are puzzles with difficulty ratings from 2 to 4. This definition was apparently corrected later, but it is emblematic of a wider definition drift I have observed: many people on a number of teams have begun to refer to these puzzles as fish.
+I don't know how to track these changes over time, but I know where the story ends: in the wrapup for the 2026 Mystery Hunt, Cardinality referred to the Kingdom puzzles (puzzles from the first half of the hunt) as fish puzzles. These are puzzles with difficulty ratings from 2 to 4. This definition was more or less immediately corrected by Benji, but it is emblematic of a wider definition drift I have observed: many people on a number of teams have begun to refer to these puzzles as fish.
 
 This definition drift is utterly insane to me. Eleven years ago, a fish puzzle would be considered on the tougher side if it had an Easy (2) rating... and now it is common parlance to refer to Hard (4) puzzles as fish! This is not just Cardinality, either; I think this understanding of "fish" as "somewhat easier puzzle towards the start of the hunt" is far, far, far more common among solvers who only started hunting this decade. At some point, the original meaning was lost.
 
