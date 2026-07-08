@@ -10,7 +10,7 @@ A brief history lesson for you.<!-- more -->
 
 Puzzup is an organizational software used for writing puzzlehunts. (Additional rants about Puzzup may be available at a later date.) One of the features it has is that lets you rate puzzle difficulty after testsolving, using a 1-6 rubric. Language here is mine for brevity:
 
-1. "Too easy". Readily solved by existing tools. (nb: This line gets a little blurry when considering LLMs; this guideline refers more to things like cryptogram or sudoku solvers.)
+1. Too Easy. Readily solved by existing tools. (nb: This line gets a little blurry when considering LLMs; this guideline refers more to things like cryptogram or sudoku solvers.)
 2. Easy. Straightforward puzzle with at most one aha. Most teams will solve this.
 3. Medium. Most teams will solve this in under 5 person-hours; competitive teams will solve it faster. (5 person-hours means five people working for an hour.)
 4. Hard. Competitive teams will solve this in under 5 person-hours; non-competitive teams may take longer.
