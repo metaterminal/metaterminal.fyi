@@ -3,7 +3,7 @@ title = "Mystery Hunt writing teams, by the numbers"
 date = 2025-06-16
 
 [taxonomies]
-tags = ["analysis","puzzles","math"]
+tags = ["analysis","puzzles","math","history"]
 +++
 
 I've recently been thinking about the composition of writing teams for Mystery Hunt.
