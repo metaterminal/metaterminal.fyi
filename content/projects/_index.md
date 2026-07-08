@@ -25,7 +25,7 @@ Some miscellaneous projects I've worked on are below. This is also not a complet
 ### Web Development
 
 + The [Bravo Puzzle Awards](https://bravopuzzleawards.com/) website
-+ The [Brown Puzzle Club](https://brownpuzzle.club/) website
++ The [Brown Puzzle Club](https://brownpuzzleclub.com/) website
 + [bph-site](https://github.com/brown-puzzle-hq/2025-bph-site), a bespoke NextJS framework for creating puzzlehunt web apps (w/ many others)
 + [Penchant Puzzlehunt](https://github.com/metaterminal/penchant-puzzlehunt/), a puzzlehunt app created with bph-site (w/ Olga Vinogradova)
 
