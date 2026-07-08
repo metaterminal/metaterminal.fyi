@@ -1,6 +1,9 @@
 +++
 title = "A very short rant about the meaning of the term 'fish puzzle'"
 date = 2026-07-07
+
+[taxonomies]
+tags = ["puzzles","history"]
 +++
 
 A brief history lesson for you.<!-- more -->
@@ -42,3 +45,19 @@ I am a linguistic descriptivist, but also I hate this. Change it back! You don't
 Is this why the hunt is ballooning in scope? ([Probably not](/blog/hunt-analysis).) Gah! Don't say "fish puzzle" unless you mean it!
 
 Say it with me: fish means 1 to 2, not 2 to 4!
+
+<br/>
+
+***
+
+***
+
+***
+
+Thanks to everyone who sent me comments. Apparently Cardinality did not internally refer to Kingdom puzzles as fish puzzles, and it was just a term that snuck its way into the wrapup slide deck, which is interesting. But other writers and solvers did corroborate that they have observed (or participated in) the linguistic drift, so I'm not alone!
+
+Also, ManyPinkHats made this:
+
+<img src="fish.png" width="40%" style="display:block; margin: auto;" alt="A plot of the number of people on the writing team each year from 2014 to 2024."/>
+
+My sides hurt. Good stuff.
