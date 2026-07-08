@@ -31,7 +31,7 @@ I was an Editor-in-Chief alongside Arnav Singhal. I also wrote a number of puzzl
 + [Bar Exam](https://www.brownpuzzlehunt.com/puzzle/bar-exam) (co-writer)
 + [Cubist Linguistics](https://www.brownpuzzlehunt.com/puzzle/cubist-linguistics) (co-writer)
 + [Luck Practicum](https://www.brownpuzzlehunt.com/puzzle/luck-practicum) (co-writer)
-+ [Maritime Studies](https://www.brownpuzzlehunt.com/puzzle/maritime-studies)
++ [Maritime Studies](https://www.brownpuzzlehunt.com/puzzle/maritime-studies) (co-writer)
 + [Theological Chemistry](https://www.brownpuzzlehunt.com/puzzle/theological-chemistry)
 + [Fifth Year Master's](https://www.brownpuzzlehunt.com/puzzle/fifth-year-masters)
 
@@ -47,7 +47,7 @@ I also wrote a puzzle last-minute when another author dropped out:
 
 This was small puzzle packet written for New Student Orientation at Brown in September.
 
-+ [Country Road](https://brownpuzzle.club/archive/orientation2025.pdf)
++ [Country Road](https://brownpuzzleclub.com/archive/orientation2025.pdf)
 
 ### Penchant Puzzlehunt (2025)
 
@@ -117,7 +117,7 @@ I also wrote these puzzles:
 
 This was small puzzle packet written for New Student Orientation at Brown in September.
 
-+ [Moth Evolution Kit](https://brownpuzzle.club/archive/orientation2024.pdf)
++ [Moth Evolution Kit](https://brownpuzzleclub.com/archive/orientation2024.pdf)
 
 ### Providence Potluck (2024)
 
