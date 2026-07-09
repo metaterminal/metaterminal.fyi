@@ -60,8 +60,6 @@ Also, ManyPinkHats made this:
 
 <img src="fish.png" width="40%" style="display:block; margin: auto;" alt="A plot of the number of people on the writing team each year from 2014 to 2024."/>
 
-My sides hurt. Good stuff.
-
 ***
 
 ***
