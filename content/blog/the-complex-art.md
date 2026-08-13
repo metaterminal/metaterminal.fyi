@@ -6,7 +6,7 @@ date = 2026-08-12
 tags = ["literature","analysis","mystery"]
 +++
 
-I feel like, by virtue of my character, I should enjoy the average murder mystery more. I love puzzles; I like crime stories; I enjoy intrigue and reveals and twists and a-ha moments in fiction. Therefore it should be that I enjoy the genre which stakes its claim on all of these things most strongly. And I do -- or, at least, I think I do -- because the very best mystery novel can inhabit my brain for days or months or years.
+I feel like, by virtue of my character, I should enjoy the average murder mystery more.<!-- more --> I love puzzles; I like crime stories; I enjoy intrigue and reveals and twists and a-ha moments in fiction. Therefore it should be that I enjoy the genre which stakes its claim on all of these things most strongly. And I do -- or, at least, I think I do -- because the very best mystery novel can inhabit my brain for days or months or years.
 
 But I also don't. Or, at least, I think I don't. I am bored by many mysteries, and often from the outset. I think part of this is that mysteries are one of the most formulaic genres (paralleled only perhaps by the heist). Anything with a formula will be applied formulaicly by many authors. The problem is that this formula is not enough. Or, rather, that it is not the formula that is *interesting*. Maybe some readers come to mysteries to meet the detective, see the suspects, and slowly document all the clues over the course of the story. 
 
