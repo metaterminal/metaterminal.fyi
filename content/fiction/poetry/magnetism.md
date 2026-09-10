@@ -17,8 +17,8 @@ date = 2024-07-09
 
 ***
 
-This poem was written on a friend's fridge, using only the set of fridge magnets they had available. The magnets were, as far as I can tell, from the [Magnetic Poetry Geek Kit](https://magneticpoetry.com/products/geek), which meant that my available tokens were less poetic (no adjectives for you!) and more... vague nerd concepts.
+This poem was written on a friend's fridge, using only the set of fridge magnets they had available. The magnets were, as far as I can tell, from the [Magnetic Poetry Geek Kit](https://magneticpoetry.com/products/geek), which meant that my available tokens were less poetic tools (no adjectives for you!) and more... vague nerd concepts.
 
-I wanted the poem to rhyme and have a consistent meter. To find rhyming pairs, I dumped the entire contents of the magnet set into a spreadsheet and identified them by hand; to enforce the meter, I just messed around with the words until I got something that worked. 
+I wanted the poem to rhyme and have a consistent meter. To find rhyming pairs, I dumped the entire contents of the magnet set into a spreadsheet and identified them by hand; to enforce the meter, I just messed around until I got something that I liked. 
 
-The original poem used spacing, rather than punctuation marks, to indicate pauses, and I was pleased enough with this to imitate the effect here.
+The original poem used spacing, rather than punctuation marks, to indicate pauses. I was pleased enough with this to imitate the effect here.
