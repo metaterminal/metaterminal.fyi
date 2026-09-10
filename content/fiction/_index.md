@@ -5,7 +5,7 @@ template = "fiction.html"
 page_template = "blog-page.html"
 +++
 
-A collection of fiction-things I've written. You may also be interested in little bits of terrible poetry, like [fridge, magnets, fire](/poetry/magnetism) or [The Disc](/poetry/the-disc).
+A collection of fiction-things I've written. You may also be interested in little bits of terrible poetry, like [fridge, magnets, fire](./poetry/magnetism) or [The Disc](./poetry/the-disc).
 
 > *Why aren't there more of these?*
 
