@@ -36,6 +36,8 @@
     document.getElementById("words").textContent = "..." + reordered.join(" ") + "...";
 </script>
 
+{{ section.content | safe }}
+
 <ul>
   {% for page in section.pages %}
   <li>
