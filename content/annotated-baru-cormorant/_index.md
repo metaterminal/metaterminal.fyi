@@ -5,17 +5,15 @@ template = "puzzles.html"
 page_template = "annotations/from_data.html"
 +++
 
-> *This project is on hiatus until June 2026, at the earliest.*
+> *This project is on hiatus until January 2027, at the earliest. I'll be working on the MIT Mystery Hunt until then.*
 
-The *Baru Cormorant* series, by Seth Dickinson, is an epic fantasy series debuted in 2014 with its first installment, *The Traitor Baru Cormorant*. It is also a political treatise, a queer character study, a real-world mirror; and every page fizzes and bubbles with secret meaning. 
+The *Baru Cormorant* series, by Seth Dickinson, is an epic fantasy series debuted in 2014 with its first installment, *The Traitor Baru Cormorant*. It is also a political treatise, a queer character study, and a real-world mirror; and every page fizzes and bubbles with secret meaning. 
 
-As I read I was nascently aware of details slipping past me. Thoughtful worldbuilding. Historical allusions. Unsolved (but solvable) murders. Hidden agendas abound... double, triple, even *quadruple* agents wind their way through the plot.
-
-Inspired by Andrew Plotkin's [Draco Concordans](https://eblong.com/draconc/) (for John M Ford's similarly excellent [The Dragon Waiting](https://en.wikipedia.org/wiki/The_Dragon_Waiting)), I present to you the *Annotated Baru Cormorant*. 
+There is much to account for in these novels. Thoughtful worldbuilding. Historical allusions. Unsolved (but solvable) murders. Hidden agendas abound... double, triple, even *quadruple* agents wind their way through the plot. So, inspired by Andrew Plotkin's [Draco Concordans](https://eblong.com/draconc/) (for John M Ford's similarly excellent [The Dragon Waiting](https://en.wikipedia.org/wiki/The_Dragon_Waiting)), I present to you the *Annotated Baru Cormorant*. 
 
 The goal is to document everything a reader might miss. Much of this may be unnecessary. My hope is to, at least, provide a deeper understanding to all the hidden aspects of these books. 
 
-I have also strived to reproduce author commentary, mostly from [this series of blog posts](https://www.sethdickinson.com/category/readalong/). This commentary is also intentionally incomplete; Dickinson avoids alluding to significant twists or later reveals, preferring instead to remark on small worldbuilding details or linguistic turns.
+I have also strived to reproduce author commentary, mostly from [this series of blog posts](https://www.sethdickinson.com/category/readalong/). This commentary is also intentionally incomplete; Dickinson avoids alluding to significant twists, preferring instead to remark on small worldbuilding details or linguistic turns.
 
 This annotated copy will contain spoilers. Particularly, there will be spoilers for all three books from the very first chapters of the first novel (*The Traitor Baru Cormorant*). Say again: do not begin reading *The Annotated Baru Cormorant* unless you have read **all the way to the end of *The Tyrant Baru Cormorant***.
 
