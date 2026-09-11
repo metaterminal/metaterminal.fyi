@@ -17,7 +17,7 @@ A DISC<br/>
 which was onyx-black, with gentle grooves,<br/>
 a central hole rimmed fine in bronze.<br/>
 They took it back onboard their ship.<br/>
-Fed their cassette spools with tape,<br/>
+Fed their cassette spools with some tape,<br/>
 made it run, however one does,<br/>
 and touched the disc with golden hands<br/>
 to give the wheel a spin.<br/>
