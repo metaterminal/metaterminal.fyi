@@ -1,6 +1,6 @@
 +++
 title = "Navier-Stokes and Dolores Dei"
-date = 2026-09-10
+date = 2026-09-11
 
 [taxonomies]
 tags = ["ai","analysis"]
