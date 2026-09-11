@@ -1,10 +1,10 @@
 +++
 title = "We won the 2026 MIT Mystery Hunt"
 date = 2026-01-20
++++
 
 [taxonomies]
 tags = ["puzzles","recap","analysis"]
-+++
 
 > *This post contains unmarked spoilers for puzzles from the 2026 MIT Mystery Hunt.*
 
