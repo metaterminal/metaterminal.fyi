@@ -223,7 +223,7 @@ As we've seen above, it doesn't seem like the average writing team size has gott
 
 As we can see in the data, two of the hunts with the largest writing staffs (2015 and 2018) don't register as particularly large. (If I asked you to name some long hunts since 2014, those two probably didn't jump to the forefront of your mind!)
 
-This seems to be true even before the studied range. Prior to their dissolution, Manic Sages (the writing team for the 2013 Mystery Hunt) had 150 members, as stated by The Tech in [this article](https://thetech.com/2013/01/16/pre-mystery-hunt-v132-n62). By their own count, 80 stayed on to write for Mystery Hunt. That would put them at around the same size -- or larger -- than my current team, Providence, which failed to win Mystery Hunt last year. (The team that beat us, Cardinality, was smaller.) It would make the writing team as comparatively large as that of 2015, and smaller than that of 2018.
+This seems to be true even before the studied range. Prior to their dissolution, Manic Sages (the writing team for the 2013 Mystery Hunt) had 150 members, as stated by The Tech in [this article](https://thetech.com/2013/01/16/pre-mystery-hunt-v132-n62). By their own count, 80 stayed on to write for Mystery Hunt. That would put them at around the same size -- or larger -- than my current team, Providence, which failed to win Mystery Hunt last year. (The team that did win, Cardinality, was even smaller than us.) It would make the writing team as comparatively large as that of 2015, and smaller than that of 2018.
 
 This is the team that wrote the 2013 Mystery Hunt, the longest hunt (by time) on record. Guess how many puzzles were in that hunt? (And, second question: which hunt in recent memory is closest in puzzle count to it?)
 

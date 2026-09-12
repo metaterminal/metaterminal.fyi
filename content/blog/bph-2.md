@@ -51,7 +51,7 @@ Here's that list for Brown:
 
 Some of these are lifted wholesale from Mystery Hunt. Visits from HQ are always brilliant, so let's do that. You know a guy who can get thirty black cult robes on short notice for you, as long as you give them back. That's costumes done. You love physical puzzles; and, hey, look, you've got budget! Surely physical puzzles won't cause you a tremendous amount of pain further down the line. And item 4 is a real mainstay of Mystery Hunt; you probably know more about MIT than you do about most universities you applied to, and learning odd little intricacies about campus is always fun.
 
-Some of these are specific to your university. The student groups on campus have some of the consistently high production value. (There's a prestigious art school just down the hill, which might explain matters.) 
+Some of these are specific to your university. The student groups on campus have consistently high production value. (There's a prestigious art school just down the hill, which might explain matters.) 
 
 And some of them are new ideas. You want to put on events. Mystery Hunt writing teams always run them in-house... but why not partner with student groups? Student groups love it because they get to put on a show to a whole new audience and advertise. You love it, because they can think about all the cool things that they can do, and it saves you having to think of cool things beyond the basic skeleton. And you can ask new student groups every year, which means that you come up with new event themes, easy. Make some friends. 
 

@@ -73,5 +73,3 @@ The excellent news is that we are already starting to fix this. Some preliminary
 ### Addendum
 
 If you're interested in more stories about Brown Puzzlehunt or other things I make, keep an eye on this website. I plan to post various things over time.
-
-There isn't a working RSS feed for this site yet, but I'll try to get one up over the next few days.
