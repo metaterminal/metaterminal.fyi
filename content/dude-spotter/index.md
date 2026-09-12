@@ -3,6 +3,10 @@ title = "Hooray! You have spotted a Dude."
 template = "content.html"
 +++
 
+<div style="text-align: center;">
+<img src="./dude-spotter/dude1.jpeg" width="30%" style="border-radius: 10%; margin-top: 30px;">
+<img src="./dude-spotter/dude2.jpeg" width="30%" style="border-radius: 10%;">
+
 ### What am I looking at?
 
 The Dude Preservation Society works to find and preserve Dudes in funky places around central Providence and College Hill. 
@@ -17,8 +21,6 @@ If you see a Dude without a QR code, or in a place where it seems to be at threa
 
 Some (though not all) cleaners and facilities personnel consider Dudes an invasive species, and endeavour to remove or destroy them. If you know a Dude is in danger of being hurt, it would be kind to carefully relocate them into a safer public place.
 
-**PLEASE BE AWARE: Dudes melt in water.** Please don't bring or leave Dudes outside.
-
 Do not take any Dudes for yourself. Dudes are a rare species and therefore precious; they are for public enjoyment.
 
 ### Are the Dudes supposed to be a secret?
@@ -32,3 +34,5 @@ However, try not to draw too much attention to them in public; they're shy.
 Reach out to us at dude.spotter@gmail.com. We're happy to answer any and all questions about this rare and exciting creature.
 
 Feel free to send us photos of yourself or the Dudes as well! We love to receive them.
+
+</div>
