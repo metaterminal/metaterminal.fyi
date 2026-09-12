@@ -8,9 +8,9 @@ tags = ["literature","analysis","mystery"]
 
 I feel like, by virtue of my character, I should enjoy the average murder mystery more.<!-- more --> I love puzzles; I like crime stories; I enjoy intrigue and reveals and twists and a-ha moments in fiction. Therefore it should be that I enjoy the genre which stakes its claim on all of these things most strongly. And I do -- or, at least, I think I do -- because the very best mystery novel can inhabit my brain for days or months or years.
 
-But I also don't. Or, at least, I think I don't. I am bored by many mysteries, and often from the outset. I think part of this is that mysteries are one of the most formulaic genres (paralleled only perhaps by the heist). Anything with a formula will be applied formulaicly by many authors. The problem is that this formula is not enough. Or, rather, that it is not the formula that is *interesting*. Maybe some readers come to mysteries to meet the detective, see the suspects, and slowly document all the clues over the course of the story. 
+But I also don't. Or, at least, I think I don't. I am bored by many mysteries, and often from the outset. I think part of this is that mysteries are one of the most formulaic genres (paralleled only perhaps by the heist). Anything with a formula will be applied formulaicly by many authors. The problem is that this formula is not enough. Or, rather, that it is not the formula which is *interesting*. 
 
-In my opinion that is not the strength of a mystery. The presence of a detective and suspects and an inciting murder are elements a creator may use to get at those strengths, but they are not themselves at all required, any more than a science fiction movie "requires" a spaceship. Instead I think we should hold slightly different candles to the genre. In my opinion, there is a set of properties that a good murder mystery has; and it surprises me that these properties have not been, really, discussed elsewhere. 
+Maybe some readers come to mysteries to meet the detective, see the suspects, and slowly document all the clues over the course of the story. But in my opinion that is not the strength of a mystery. The presence of a detective and suspects and an inciting murder are elements a creator may use to get at those strengths, but they are not themselves at all required, any more than a science fiction movie "requires" a spaceship. Instead I think we should hold slightly different candles to the genre. In my opinion, there is a set of properties that a good murder mystery has; and it surprises me that these properties have not been, really, discussed elsewhere. 
 
 This essay is therefore me staking a claim. For too long have I been recommended substandard mysteries because "they'd be right up my alley"! I am putting a flag down on the hill: this, I think, is what a Good Murder Mystery is!
 
@@ -70,7 +70,7 @@ In my words:
 
 This rule betrays a certain opinion about mystery stories that I disagree with. To wit: *the purpose of a mystery story is not necessarily a whodunnit*.
 
-Consider a story in which it is abundantly clear who is responsible for the crime, but not how. That is, person A clearly wanted to kill person B, and is the only one who could have... but there is no way that they could have done so, because the murder was impossible to commit. (And unless it can be proved, they'll get off scot-free!) The story has little interest in "discovering" the hidden motivations of characters, only in determining how, on earth, the murder was committed at all. Maybe this sounds outrageous to you; but if you have read much Carr, it is not a fair distance from his habitual style. (For what it's worth, he tended to have both: a crime that was impossible to commit, and a mysterious culprit. *The Reader is Warned* is closest to what I described, though it's not precisely the same. Also that book is quite racist. The reader is warned.)
+Consider a story in which it is abundantly clear who is responsible for the crime, but not how. That is, person A clearly wanted to kill person B, and is the only one who could have... but there is no way that they could have done so, because the murder was impossible to commit. (And unless their method can be proven, they'll get off scot-free!) The story has little interest in "discovering" the hidden motivations of characters, only in determining how on earth the murder was committed at all. Maybe this sounds outrageous to you; but if you have read much Carr, it is not a fair distance from his habitual style. (For what it's worth, he tended to have both: a crime that was impossible to commit, and a mysterious culprit. *The Reader is Warned* is closest to what I described, though it's not precisely the same. Also that book is quite racist. The reader is warned.)
 
 There is also a very famous literary exception to one part of the above rules, which I shall not mention because spoilers.
 
@@ -88,7 +88,7 @@ This has so many counterpoints that it would be foolish to try to list them all;
 
 > Van Dine 18: A crime in a detective story must never turn out to be an accident or a suicide.
 
-I can name several excellent mysteries in which a death turns out to be either accident or suicide; the interesting part is that those stories still involve criminal behavior (usually other murders). For example, in Lee Child's *The Enemy*, the death which kicks the plot into motion is a heart attack with natural causes. (There are others throughout the story.) However, it is generally true that there must be criminal activity involved for the plot to feel worthwhile.
+I can name several excellent mysteries in which a death turns out to be either accident or suicide; the interesting part is that those stories still involve criminal behavior (usually other murders). For example, in Lee Child's *The Enemy*, the death which kicks the plot into motion is a heart attack with natural causes. (There are more deaths throughout the story.) However, it is generally true that there must be criminal activity involved for the plot to feel worthwhile.
 
 > Van Dine 19: The motives for all crimes in detective stories should be personal. 
 
@@ -175,7 +175,7 @@ To put it another way: the reader is unable to solve the mystery, not (just) bec
 
 Not me vagueposting about *The Clock House Murders* by Yukito Ayatsuji.
 
-As a more general statement, if someone is going to take an unusual course of action, it better be the viewpoint character and we'd better see them making it! A reader is more likely to go along with the narrator making an unusual decision because we can see why they are making them (even if they're patently ridiculous, ill-informed, or braindead stupid). The previously mentioned *Knives Out* and *The Unicorn Murders* both do this well. (Also, the detective is somewhat exempt from this, because the Eccentric Detective who uses unusual means to solve mysteries is a well-established trope. No, Sherlock probably doesn't *need* to disguise himself constantly, but it's what he does.)
+As a more general statement, if someone is going to take an unusual course of action, it better be the viewpoint character and we'd better see them taking it! A reader is more likely to go along with the narrator making an unusual decision because we can see why they are making them (even if they're patently ridiculous, ill-informed, or braindead stupid). The previously mentioned *Knives Out* and *The Unicorn Murders* both do this well. (Also, the detective is somewhat exempt from this, because the Eccentric Detective who uses unusual means to solve mysteries is a well-established trope. No, Sherlock probably doesn't *need* to disguise himself constantly, but it's just what he does.)
 
 > **metaterminal 9**: Relatedly: the criminal should not conduct unusual behavior purely to make the crime seem impossible or bewildering. While a criminal doing a bunch of random behaviors just to throw off the scent may be *realistic*, it does not make the story *fair* or *thematic*; it is tantamount to the author controlling the hands of the characters rather than the characters making decisions true to themselves.
 
@@ -195,15 +195,15 @@ A murder mystery is not just a puzzle presented by the author to solve, although
 
 ...a murder mystery is a farce!
 
-A farce is a form of comedy where a number of characters, each of whom have personality traits that (though exaggerated) feel genuine, become involved in increasingly complicated and comedic situations. A farce is distinct from absurdism in that it starts from seemingly "normal" circumstances; under these normal circumstances, characters encounter misfortune, coincidences, or make (seemingly) reasonable decisions that cause events to become wilder and wilder. Characters attempt to cover up mistakes, narrowly miss each other while entering and exiting rooms, or accidentally interfere with each others' plans. This ultimately culminates in a huge explosion of chaos (insert gif Donald Glover returning in the burning apartment from Community). 
+A farce is a form of comedy where a number of characters, each of whom have personality traits that (though exaggerated) feel genuine, become involved in increasingly complicated and comedic situations. A farce is distinct from absurdism in that it starts from seemingly "normal" circumstances; under these normal circumstances, characters encounter misfortune, experience coincidences, or make (seemingly) reasonable decisions that cause events to become wilder and wilder. Characters attempt to cover up mistakes, narrowly miss each other while entering and exiting rooms, or accidentally interfere with each others' plans. This ultimately culminates in a huge explosion of chaos. (Insert the gif of Donald Glover returning to the burning apartment from Community.)
 
 In a farce, the joy is first observing the normal situation, and then seeing how it devolves into chaos.
 
 In a mystery, *the audience sees the chaos first*, and it is on the detective to unravel the chain backwards into the original situation.
 
-This is why the solution lives and dies on seeming reasonable, and above all *on the actions of the characters making sense*. If a character undertakes a crazy, convoluted, and above all risky ploy for no other reason than "that's what would make the plot function", then the farce no longer functions. You have put the cart before the horse. 
+This is why the solution lives and dies on seeming reasonable, and above all *on the actions of the characters making sense*. If a character undertakes a crazy, convoluted, or risky ploy for no other reason than "that's what would make the plot function", then the farce itself no longer functions. You have put the cart before the horse. 
 
-I think the very best plots have a degree of strange deterministic fatalism about them. Given the initial conditions, the arrangement of characters and relationships and fortunes and personalities, there is absolutely no other way that the plot could have unfolded.
+I think the very best plots have a degree of strange deterministic fatalism about them. Given the initial conditions, the arrangement of characters and relationships and fortunes and personalities, there is absolutely no other way that these events could have unfolded.
 
 ### A New Set of Ten Rules
 

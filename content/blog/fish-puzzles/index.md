@@ -1,5 +1,5 @@
 +++
-title = "A very short rant about the meaning of the term 'fish puzzle'"
+title = "A short rant about the meaning of the term 'fish puzzle'"
 date = 2026-07-07
 
 [taxonomies]
