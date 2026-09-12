@@ -4,8 +4,8 @@ template = "content.html"
 +++
 
 <div style="text-align: center;">
-<img src="./dude-spotter/dude1.jpeg" width="30%" style="border-radius: 10%; margin-top: 30px;">
-<img src="./dude-spotter/dude2.jpeg" width="30%" style="border-radius: 10%;">
+<img src="./dude1.jpeg" width="30%" style="border-radius: 10%; margin-top: 30px;">
+<img src="./dude2.jpeg" width="30%" style="border-radius: 10%;">
 
 ### What am I looking at?
 
