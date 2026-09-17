@@ -10,6 +10,7 @@
       margin-bottom: 1.5rem;
     }
     h1 {
+      margin-top: 3rem;
       margin-bottom: .5rem;
     }
 </style>
@@ -17,7 +18,7 @@
 
 {% block header %}
 <header>
-  <h1 class="title">Tag: {{ term.name }}</h1>
+  <h1>Tag: {{ term.name }}</h1>
 </header>
 {% endblock %}
 
@@ -29,17 +30,14 @@
 {% set pages = term.pages %}
 {% endif %}
 
-<ul>
-    {% for page in pages %}
-    <li>
-      <a href="{{ page.permalink | safe }}">{% if page.extra.display_title %}{{ page.extra.display_title | markdown(inline=true) | safe }}{% else %}{{ page.title }}{% endif %} ({{ page.date }})</a>
-      <div>{% if page.taxonomies.tags %}
-        {{ macros::render_tags(tags=page.taxonomies.tags) }}
-        {% endif %}</div>
-      <p>{{ page.summary | safe }}</p>
-    </li>
-    {% endfor %}
-  </ul>
+{% for page in pages %}
+  <a href="{{ page.permalink | safe }}">{% if page.extra.display_title %}{{ page.extra.display_title | markdown(inline=true) | safe }}{% else %}{{ page.title }}{% endif %} ({{ page.date }})</a>
+  <div>{% if page.taxonomies.tags %}
+    {{ macros::render_tags(tags=page.taxonomies.tags) }}
+    {% endif %}</div>
+  <p>{{ page.summary | safe }}</p>
+  <hr style="border: none; border-top: 1px solid gainsboro; margin-top: 20px; margin-bottom: 20px;"/>
+{% endfor %}
 
 </main>
 {% endblock content %}

@@ -3,7 +3,7 @@ title = "Accessibility, Americanisms, and the location-attendance question"
 date = 2023-06-12
 
 [taxonomies]
-tags = ["puzzles","recap","bph"]
+tags = ["puzzles","recap","brown-puzzlehunt"]
 +++
 
 > *This the second of an expected three posts about Brown Puzzlehunt.*

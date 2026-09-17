@@ -3,7 +3,7 @@ title = "Inscryption, or what could have been"
 date = 2023-08-25
 
 [taxonomies]
-tags = ["analysis"]
+tags = ["analysis","video-games"]
 +++
 
 > *This essay contains spoilers for the 2020 video game* Inscryption.

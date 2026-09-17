@@ -3,7 +3,7 @@ title = "A short rant about the meaning of the term 'fish puzzle'"
 date = 2026-07-07
 
 [taxonomies]
-tags = ["puzzles","history"]
+tags = ["puzzles","history","mystery-hunt"]
 +++
 
 A brief history lesson for you.<!-- more -->

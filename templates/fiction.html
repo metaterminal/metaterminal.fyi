@@ -38,15 +38,12 @@
 
 {{ section.content | safe }}
 
-<ul>
-  {% for page in section.pages %}
-  <li>
-    <p><a href="{{ page.permalink | safe }}">{% if page.extra.display_title %}{{ page.extra.display_title | markdown(inline=true) | safe }}{% else %}{{ page.title }}{% endif %} ({{ page.date }})</a>
-    <br>&nbsp;&nbsp;<i>{{ page.word_count }} words</i></p>
-    <p>{{ page.summary | safe }}</p>
-  </li>
-  {% endfor %}
-</ul>
+{% for page in section.pages %}
+  <p><a href="{{ page.permalink | safe }}">{% if page.extra.display_title %}{{ page.extra.display_title | markdown(inline=true) | safe }}{% else %}{{ page.title }}{% endif %} ({{ page.date }})</a>
+  <br>&nbsp;&nbsp;<i>{{ page.word_count }} words</i></p>
+  <p>{{ page.summary | safe }}</p>
+  <hr style="border: none; border-top: 1px solid gainsboro; margin-top: 20px; margin-bottom: 20px;"/>
+{% endfor %}
 
 </main>
 
