@@ -9,6 +9,8 @@ page_template = "annotations/from_data.html"
 
 The *Baru Cormorant* series, by Seth Dickinson, is an epic fantasy series debuted in 2014 with its first installment, *The Traitor Baru Cormorant*. It is also a political treatise, a queer character study, and a real-world mirror; and every page fizzes and bubbles with secret meaning. 
 
+You want an actual blurb? As [Bryn canmom](https://canmom.art/crit/baru/) puts it: it's about colonialism, lesbians, money, cancer, and boats. If you like any of these things, then just go read it.
+
 There is much to account for in these novels. Thoughtful worldbuilding. Historical allusions. Unsolved (but solvable) murders. Hidden agendas abound... double, triple, even *quadruple* agents wind their way through the plot. So, inspired by Andrew Plotkin's [Draco Concordans](https://eblong.com/draconc/) (for John M Ford's similarly excellent [The Dragon Waiting](https://en.wikipedia.org/wiki/The_Dragon_Waiting)), I present to you the *Annotated Baru Cormorant*. 
 
 The goal is to document everything a reader might miss. Much of this may be unnecessary. My hope is to, at least, provide a deeper understanding to all the hidden aspects of these books. 
