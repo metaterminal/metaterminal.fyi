@@ -29,7 +29,7 @@ At the time the game is set, there is no innocence currently "in office". The mo
 
 > > *Disco Elysium*
 
-She is described as a "preternaturally magnetic and intelligent individual", an expert at contract bridge and chess and military war games, and someone possessing "a similar grasp in matters of philosophy, theology, and science." She set in motion the discovery of the Insulindian isola (the continent where the game is set) and accelerated the world into secularism. There are many, many other details that I won't enumerate -- you can check out the conversation where she is described [here](https://fayde.co.uk/dialojue/9980001). Instead I wanted to highlight something particular.
+She is described as a "preternaturally magnetic and intelligent individual", an expert at contract bridge and chess and military war games, and someone possessing "a similar grasp in matters of philosophy, theology, and science." She set in motion the discovery of the Insulindian isola (the continent where the game is set) and accelerated the world into secularism. There are many, many other details that I won't enumerate -- you can check out the conversation where she is described [here](https://fayde.co.uk/dialojue/9980001). Instead I wanted to highlight this.
 
 As Encyclopedia tells it, Dolores Dei was more isolated and socially-secluded than the previous innocences, and constantly surrounded by an elite set of secret servicemen known as the Therriers. Even her crowning was only witnessed by this select few. Even so, she was assassinated only twenty-two years later... by one of her own guards. 
 
